@@ -3,6 +3,11 @@ from hmmlearn import hmm
 from nltk.corpus import cmudict
 # nltk.download('book')
 
+#finds the number of syllables in a word. 
+d = cmudict.dict()
+def nsyl(word):
+  return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]] 
+
 
 def separate_sonnets(filename):
     # ignores empty lines
