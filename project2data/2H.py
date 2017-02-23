@@ -42,12 +42,18 @@ def unsupervised_learning(n_states, n_iters):
 
     inv_map = {v: k for k, v in genre_map.iteritems()}
     x = HMM.generate_emission(10)
-    print x
+    # print x
     lst_x = x.split()
     # print inv_map
     word_emission = []
     for i in lst_x:
-        word_emission.append(inv_map[int(i)])
+        num1 = int(i)
+        if inv_map[int(i)] == '%':
+            while inv_map[num1] == '%':
+                replace = HMM.generate_emission(1)
+                lst_r = replace.split()
+                num1 = int(lst_r[0])
+        word_emission.append(inv_map[num1])
     return ' '.join(word_emission)
 
 if __name__ == '__main__':
@@ -59,5 +65,13 @@ if __name__ == '__main__':
     print('')
     print('')
 
-hmm1 = unsupervised_learning(4, 10)
-print hmm1.lower()
+# hmm1 = unsupervised_learning(4, 10)
+# print hmm1.lower()
+
+sonnet = []
+for i in xrange(14):
+    hmm1 = unsupervised_learning(4, 20)
+    sonnet.append(hmm1.lower())
+
+for i in xrange(len(sonnet)):
+    print sonnet[i]
