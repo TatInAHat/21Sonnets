@@ -5,6 +5,7 @@ from nltk.corpus import cmudict
 import itertools
 from collections import Counter
 from itertools import chain
+from HMM import HiddenMarkovModel
 # nltk.download('book')
 
 # finds the number of syllables in a word.
@@ -39,7 +40,15 @@ def separate_sonnets(filename):
     # put non-number lines in good_lines
     for i in xrange(len(lines)):
         if lines[i] not in bad_list:
-            good_lines.append(lines[i].split())
+            temp1 = lines[i].split()
+            if len(temp1) > 10:
+                while len(temp1) > 10:
+                    del temp1[-1]
+            elif len(temp1) < 10:
+                while len(temp1) < 10:
+                    temp1.append('%')
+            temp1.append('-')
+            good_lines.append(temp1)
 
     # list of all words
     words = list(itertools.chain.from_iterable(good_lines))
@@ -48,8 +57,15 @@ def separate_sonnets(filename):
     for i in xrange(len(distinct_words)):
         distinct_words[i] = distinct_words[i].strip('()')
 
-    print good_lines[0]
     return good_lines
+
+
+def write_to(filename, lines):
+    file = open(filename, "w")
+    for i in xrange(len(lines)):
+        for j in xrange(len(lines[i])):
+            file.write("%s\n" % lines[i][j])
+
 
 # def syllable_things():
     # print distinct_words
@@ -82,6 +98,8 @@ def separate_sonnets(filename):
 def main():
     shakespeare = '/Users/someone250/Desktop/21Sonnets/project2data/shakespeare.txt'
 
-    separate_sonnets(shakespeare)
+    lines = separate_sonnets(shakespeare)
+
+    write_to("shake_words.txt", lines)
 
 main()
