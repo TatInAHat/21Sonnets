@@ -5,7 +5,8 @@ from nltk.corpus import cmudict
 import itertools
 from collections import Counter
 from itertools import chain
-from HMM import HiddenMarkovModel
+from HMM import unsupervised_HMM
+from Utility import Utility
 # nltk.download('book')
 
 # finds the number of syllables in a word.
@@ -64,7 +65,10 @@ def write_to(filename, lines):
     file = open(filename, "w")
     for i in xrange(len(lines)):
         for j in xrange(len(lines[i])):
-            file.write("%s\n" % lines[i][j])
+            if j != len(lines[i]) - 1:
+                file.write(str(0) + ' ' + "%s\n" % lines[i][j])
+            else:
+                file.write("%s\n" % lines[i][j])
 
 
 # def syllable_things():

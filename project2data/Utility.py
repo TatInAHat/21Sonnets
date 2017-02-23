@@ -15,73 +15,75 @@ class Utility:
         pass
 
     @staticmethod
-    def load_ron():
-        '''
-        Loads the file 'ron.txt'.
+    def load_poem():
+            '''
+            Loads the file 'shake_words.txt'.
 
-        Returns:
-            moods:      Sequnces of states, i.e. a list of lists.
-                        Each sequence represents half a year of data.
-            mood_map:   A hash map that maps each state to an integer.
-            genres:     Sequences of observations, i.e. a list of lists.
-                        Each sequence represents half a year of data.
-            genre_map:  A hash map that maps each observation to an integer.
-        '''
-        moods = []
-        mood_map = {}
-        genres = []
-        genre_map = {}
-        mood_counter = 0
-        genre_counter = 0
+            Returns:
+                states:      Sequnces of states, i.e. a list of lists.
+                            Each sequence represents half a year of data.
+                states_map:   A hash map that maps each state to an integer.
+                observations:     Sequences of observations, i.e. a list of lists.
+                            Each sequence represents half a year of data.
+                observation_map:  A hash map that maps each observation to an integer.
+            '''
+            states = []
+            states_map = {}
+            observations = []
+            observation_map = {}
+            state_counter = 0
+            observation_counter = 0
 
-        with open("ron.txt") as f:
-            mood_seq = []
-            genre_seq = []
+            with open("shake_words.txt") as f:
+                state_seq = []
+                observation_seq = []
 
-            while True:
-                line = f.readline().strip()
+                while True:
+                    line = f.readline().strip()
 
-                if line == '' or line == '-':
-                    # A half year has passed. Add the current sequence to
-                    # the list of sequences.
-                    moods.append(mood_seq)
-                    genres.append(genre_seq)
-                    # Start new sequences.
-                    mood_seq = []
-                    genre_seq = []
-                
-                if line == '':
-                    break
-                elif line == '-':
-                    continue
-                
-                mood, genre = line.split()
-                
-                # Add new moods to the mood state hash map.
-                if mood not in mood_map:
-                    mood_map[mood] = mood_counter
-                    mood_counter += 1
+                    if line == '' or line == '-':
+                        # A line has been read. Add the current sequence to
+                        # the list of sequences.
+                        states.append(state_seq)
+                        observations.append(observation_seq)
+                        # Start new sequences.
+                        state_seq = []
+                        observation_seq = []
 
-                mood_seq.append(mood_map[mood])
+                    # end of file
+                    if line == '':
+                        break
+                    # onto next line
+                    elif line == '-':
+                        continue
 
-                # Add new genres to the genre observation hash map.
-                if genre not in genre_map:
-                    genre_map[genre] = genre_counter
-                    genre_counter += 1
+                    st, obs = line.split()
 
-                # Convert the genre into an integer.
-                genre_seq.append(genre_map[genre])
+                    # Add new states to the st state hash map.
+                    if st not in states_map:
+                        states_map[st] = state_counter
+                        state_counter += 1
 
-        return moods, mood_map, genres, genre_map
+                    state_seq.append(states_map[st])
+
+                    # Add new observations to the obs observation hash map.
+                    if obs not in observation_map:
+                        observation_map[obs] = observation_counter
+                        observation_counter += 1
+
+                    # Convert the obs into an integer.
+                    observation_seq.append(observation_map[obs])
+
+            return states, states_map, observations, observation_map
 
     @staticmethod
-    def load_ron_hidden():
+    def load_poem_hidden():
         '''
-        Loads the file 'ron.txt' and hides the states.
+        Loads the file 'shake_words.txt' and hides the states.
 
         Returns:
             genres:     The observations.
             genre_map:  A hash map that maps each observation to an integer.
         '''
-        moods, mood_map, genres, genre_map = Utility.load_ron()
-        return genres, genre_map
+        states, states_map, observations, observation_map = Utility.load_poem()
+        return observations, observation_map
