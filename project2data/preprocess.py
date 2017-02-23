@@ -11,6 +11,8 @@ d = cmudict.dict()
 Works for nonwords now by checking if KeyError
 If word not real, remove last character and try again
 '''
+
+
 def nsyl(word):
     try:
         s = [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]]
@@ -20,6 +22,8 @@ def nsyl(word):
     return s
 
 # s is a string of words
+
+
 def strip_punc(s):
     return s.translate(string.maketrans("",""), string.punctuation)
 
@@ -51,8 +55,18 @@ def separate_sonnets(filename):
         syls = []
         for j in xrange(len(good_lines[i])):
             num_syls = nsyl(good_lines[i][j])
+            if len(num_syls) > 1:
+                num_syls = [num_syls[0]]
             syls.append(num_syls)
         syllables.append(syls)
+
+    # The average number of syllables with this method is 9.95864661654
+    # lump_sum = 0
+    # for i in xrange(len(syllables)):
+    #     summation = 0
+    #     for j in xrange(len(syllables[i])):
+    #         summation += syllables[i][j][0]
+    #     lump_sum += summation
 
     return good_lines
 
