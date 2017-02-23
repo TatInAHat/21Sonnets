@@ -48,9 +48,10 @@ def separate_sonnets(filename):
     for i in xrange(len(distinct_words)):
         distinct_words[i] = distinct_words[i].strip('()')
 
+    print good_lines[0]
     return good_lines
 
-def syllable_things():
+# def syllable_things():
     # print distinct_words
     # syllable_dict = {}
 
