@@ -16,6 +16,8 @@ from nltk.corpus import cmudict
 import itertools
 from collections import Counter
 from itertools import chain
+import poetrytools
+
 
 
 d = cmudict.dict()
@@ -83,7 +85,74 @@ def unsupervised_learning(n_states, n_iters):
         else: 
             syl_count += (nsyl(word_emission[i])[0])
     
-    return ' '.join(word_emission)
+    return (word_emission)
+
+def matching_line(last_word, n_states, n_iters):
+    genres, genre_map = Utility.load_poem_hidden()
+    genres = genres[:-1]
+    # Train the HMM.
+    HMM = unsupervised_HMM(genres, n_states, n_iters)
+    inv_map = {v: k for k, v in genre_map.iteritems()}
+    x = HMM.generate_emission(10)
+    # print x
+    lst_x = x.split()
+    # print inv_map
+    word_emission = []
+    for i in lst_x:
+        #print word_emission
+        num1 = int(i)
+        if inv_map[int(i)] == '%':
+            while inv_map[num1] == '%':
+                replace = HMM.generate_emission(1)
+                lst_r = replace.split()
+                num1 = int(lst_r[0])
+                # print 'PRINTING WORD:'
+                # print inv_map[num1]
+                # print nsyl(inv_map[num1])
+        word_emission.append(inv_map[num1])
+    syl_count = 0 
+    for i in xrange(len(word_emission)):
+        if (syl_count + (nsyl(word_emission[i])[0]) > 10):
+            word_emission = word_emission[:i]
+            break 
+        else: 
+            syl_count += (nsyl(word_emission[i])[0])
+
+
+    while True:
+        temp5 = HMM.generate_emission(1)
+        lst_temp5 = temp5.split()
+        potential_word = inv_map[(int(lst_temp5[0]))]
+        print potential_word
+        if poetrytools.rhymes(potential_word, last_word):
+            word_emission[len(word_emission) - 1] = potential_word
+            break 
+
+    return word_emission
+
+
+def sonnet_generator(n_states, n_iters):
+    A = unsupervised_learning(n_states, n_iters)
+    B = unsupervised_learning(n_states, n_iters)
+
+    last_a = A[len(A) - 1]
+    last_b = B[len(B) - 1]
+    
+    print 'LAST WORDS'
+    print last_a
+    print last_b
+
+    A_2 = matching_line(last_a, n_states, n_iters)
+    B_2 = matching_line(last_b, n_states, n_iters)
+
+    print 'PHRASES'
+    print A
+    print B 
+    print A_2 
+    print B_2  
+
+sonnet_generator(1, 1)
+
 
 
 if __name__ == '__main__':
@@ -99,10 +168,10 @@ if __name__ == '__main__':
 # print hmm1.lower()
 
 sonnet = []
-for i in xrange(14):
-    hmm1 = unsupervised_learning(20, 10)
-    sonnet.append(hmm1.lower())
+# for i in xrange(14):
+#     hmm1 = unsupervised_learning(10, 10)
+#     sonnet.append(hmm1.lower())
 
-for i in xrange(len(sonnet)):
-    print sonnet[i]
+# for i in xrange(len(sonnet)):
+#     print sonnet[i]
 
