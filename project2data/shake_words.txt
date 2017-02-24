@@ -3,7 +3,7 @@
 0 creatures
 0 we
 0 desire
-0 increase,
+0 increase
 0 %
 0 %
 0 %
@@ -11,11 +11,11 @@
 -
 0 That
 0 thereby
-0 beauty's
+0 beautys
 0 rose
 0 might
 0 never
-0 die,
+0 die
 0 %
 0 %
 0 %
@@ -27,7 +27,7 @@
 0 should
 0 by
 0 time
-0 decease,
+0 decease
 0 %
 0 %
 -
@@ -37,7 +37,7 @@
 0 might
 0 bear
 0 his
-0 memory:
+0 memory
 0 %
 0 %
 0 %
@@ -49,17 +49,17 @@
 0 thine
 0 own
 0 bright
-0 eyes,
+0 eyes
 0 %
 0 %
 -
-0 Feed'st
+0 Feedst
 0 thy
-0 light's
+0 lights
 0 flame
 0 with
-0 self-substantial
-0 fuel,
+0 selfsubstantial
+0 fuel
 0 %
 0 %
 0 %
@@ -69,7 +69,7 @@
 0 famine
 0 where
 0 abundance
-0 lies,
+0 lies
 0 %
 0 %
 0 %
@@ -78,22 +78,22 @@
 0 Thy
 0 self
 0 thy
-0 foe,
+0 foe
 0 to
 0 thy
 0 sweet
 0 self
 0 too
-0 cruel:
+0 cruel
 -
 0 Thou
 0 that
 0 art
 0 now
 0 the
-0 world's
+0 worlds
 0 fresh
-0 ornament,
+0 ornament
 0 %
 0 %
 -
@@ -103,7 +103,7 @@
 0 to
 0 the
 0 gaudy
-0 spring,
+0 spring
 0 %
 0 %
 0 %
@@ -114,7 +114,7 @@
 0 bud
 0 buriest
 0 thy
-0 content,
+0 content
 0 %
 0 %
 0 %
@@ -122,35 +122,35 @@
 0 And
 0 tender
 0 churl
-0 mak'st
+0 makst
 0 waste
 0 in
-0 niggarding:
+0 niggarding
 0 %
 0 %
 0 %
 -
 0 Pity
 0 the
-0 world,
+0 world
 0 or
 0 else
 0 this
 0 glutton
-0 be,
+0 be
 0 %
 0 %
 -
 0 To
 0 eat
 0 the
-0 world's
-0 due,
+0 worlds
+0 due
 0 by
 0 the
 0 grave
 0 and
-0 thee.
+0 thee
 -
 0 When
 0 forty
@@ -158,7 +158,7 @@
 0 shall
 0 besiege
 0 thy
-0 brow,
+0 brow
 0 %
 0 %
 0 %
@@ -169,19 +169,19 @@
 0 trenches
 0 in
 0 thy
-0 beauty's
-0 field,
+0 beautys
+0 field
 0 %
 0 %
 -
 0 Thy
-0 youth's
+0 youths
 0 proud
 0 livery
 0 so
 0 gazed
 0 on
-0 now,
+0 now
 0 %
 0 %
 -
@@ -193,17 +193,17 @@
 0 of
 0 small
 0 worth
-0 held:
+0 held
 0 %
 -
 0 Then
 0 being
-0 asked,
+0 asked
 0 where
 0 all
 0 thy
 0 beauty
-0 lies,
+0 lies
 0 %
 0 %
 -
@@ -214,7 +214,7 @@
 0 of
 0 thy
 0 lusty
-0 days;
+0 days
 0 %
 0 %
 -
@@ -225,17 +225,17 @@
 0 own
 0 deep
 0 sunken
-0 eyes,
+0 eyes
 0 %
 0 %
 -
 0 Were
 0 an
-0 all-eating
-0 shame,
+0 alleating
+0 shame
 0 and
 0 thriftless
-0 praise.
+0 praise
 0 %
 0 %
 0 %
@@ -246,8 +246,8 @@
 0 praise
 0 deserved
 0 thy
-0 beauty's
-0 use,
+0 beautys
+0 use
 0 %
 0 %
 -
@@ -255,7 +255,7 @@
 0 thou
 0 couldst
 0 answer
-0 'This
+0 This
 0 fair
 0 child
 0 of
@@ -265,12 +265,12 @@
 0 Shall
 0 sum
 0 my
-0 count,
+0 count
 0 and
 0 make
 0 my
 0 old
-0 excuse'
+0 excuse
 0 %
 -
 0 Proving
@@ -278,7 +278,7 @@
 0 beauty
 0 by
 0 succession
-0 thine.
+0 thine
 0 %
 0 %
 0 %
@@ -293,7 +293,7 @@
 0 when
 0 thou
 0 art
-0 old,
+0 old
 -
 0 And
 0 see
@@ -302,9 +302,9 @@
 0 warm
 0 when
 0 thou
-0 feel'st
+0 feelst
 0 it
-0 cold.
+0 cold
 -
 0 Look
 0 in
@@ -315,7 +315,7 @@
 0 the
 0 face
 0 thou
-0 viewest,
+0 viewest
 -
 0 Now
 0 is
@@ -325,7 +325,7 @@
 0 face
 0 should
 0 form
-0 another,
+0 another
 0 %
 -
 0 Whose
@@ -335,7 +335,7 @@
 0 now
 0 thou
 0 not
-0 renewest,
+0 renewest
 0 %
 0 %
 -
@@ -343,10 +343,10 @@
 0 dost
 0 beguile
 0 the
-0 world,
+0 world
 0 unbless
 0 some
-0 mother.
+0 mother
 0 %
 0 %
 -
@@ -366,7 +366,7 @@
 0 tillage
 0 of
 0 thy
-0 husbandry?
+0 husbandry
 0 %
 0 %
 0 %
@@ -381,14 +381,14 @@
 0 will
 0 be
 0 the
-0 tomb,
+0 tomb
 -
 0 Of
 0 his
-0 self-love
+0 selflove
 0 to
 0 stop
-0 posterity?
+0 posterity
 0 %
 0 %
 0 %
@@ -397,7 +397,7 @@
 0 Thou
 0 art
 0 thy
-0 mother's
+0 mothers
 0 glass
 0 and
 0 she
@@ -412,7 +412,7 @@
 0 April
 0 of
 0 her
-0 prime,
+0 prime
 0 %
 0 %
 -
@@ -424,7 +424,7 @@
 0 thine
 0 age
 0 shalt
-0 see,
+0 see
 0 %
 -
 0 Despite
@@ -433,7 +433,7 @@
 0 this
 0 thy
 0 golden
-0 time.
+0 time
 0 %
 0 %
 0 %
@@ -445,7 +445,7 @@
 0 remembered
 0 not
 0 to
-0 be,
+0 be
 0 %
 0 %
 -
@@ -456,7 +456,7 @@
 0 image
 0 dies
 0 with
-0 thee.
+0 thee
 0 %
 0 %
 -
@@ -465,7 +465,7 @@
 0 why
 0 dost
 0 thou
-0 spend,
+0 spend
 0 %
 0 %
 0 %
@@ -475,20 +475,20 @@
 0 thy
 0 self
 0 thy
-0 beauty's
-0 legacy?
+0 beautys
+0 legacy
 0 %
 0 %
 0 %
 0 %
 -
-0 Nature's
+0 Natures
 0 bequest
 0 gives
 0 nothing
 0 but
 0 doth
-0 lend,
+0 lend
 0 %
 0 %
 0 %
@@ -501,7 +501,7 @@
 0 to
 0 those
 0 are
-0 free:
+0 free
 0 %
 -
 0 Then
@@ -510,7 +510,7 @@
 0 why
 0 dost
 0 thou
-0 abuse,
+0 abuse
 0 %
 0 %
 0 %
@@ -521,7 +521,7 @@
 0 given
 0 thee
 0 to
-0 give?
+0 give
 0 %
 0 %
 0 %
@@ -546,7 +546,7 @@
 0 yet
 0 canst
 0 not
-0 live?
+0 live
 -
 0 For
 0 having
@@ -554,7 +554,7 @@
 0 with
 0 thy
 0 self
-0 alone,
+0 alone
 0 %
 0 %
 0 %
@@ -567,7 +567,7 @@
 0 sweet
 0 self
 0 dost
-0 deceive,
+0 deceive
 0 %
 -
 0 Then
@@ -578,7 +578,7 @@
 0 thee
 0 to
 0 be
-0 gone,
+0 gone
 0 %
 -
 0 What
@@ -586,7 +586,7 @@
 0 audit
 0 canst
 0 thou
-0 leave?
+0 leave
 0 %
 0 %
 0 %
@@ -599,17 +599,17 @@
 0 be
 0 tombed
 0 with
-0 thee,
+0 thee
 0 %
 0 %
 -
 0 Which
 0 used
 0 lives
-0 th'
+0 th
 0 executor
 0 to
-0 be.
+0 be
 0 %
 0 %
 0 %
@@ -643,7 +643,7 @@
 0 to
 0 the
 0 very
-0 same,
+0 same
 0 %
 0 %
 -
@@ -653,13 +653,13 @@
 0 which
 0 fairly
 0 doth
-0 excel:
+0 excel
 0 %
 0 %
 0 %
 -
 0 For
-0 never-resting
+0 neverresting
 0 time
 0 leads
 0 summer
@@ -675,7 +675,7 @@
 0 and
 0 confounds
 0 him
-0 there,
+0 there
 0 %
 0 %
 0 %
@@ -688,15 +688,15 @@
 0 lusty
 0 leaves
 0 quite
-0 gone,
+0 gone
 0 %
 -
 0 Beauty
-0 o'er-snowed
+0 oersnowed
 0 and
 0 bareness
 0 every
-0 where:
+0 where
 0 %
 0 %
 0 %
@@ -705,7 +705,7 @@
 0 Then
 0 were
 0 not
-0 summer's
+0 summers
 0 distillation
 0 left
 0 %
@@ -720,16 +720,16 @@
 0 in
 0 walls
 0 of
-0 glass,
+0 glass
 0 %
 0 %
 -
-0 Beauty's
+0 Beautys
 0 effect
 0 with
 0 beauty
 0 were
-0 bereft,
+0 bereft
 0 %
 0 %
 0 %
@@ -742,7 +742,7 @@
 0 remembrance
 0 what
 0 it
-0 was.
+0 was
 0 %
 0 %
 -
@@ -753,28 +753,28 @@
 0 they
 0 with
 0 winter
-0 meet,
+0 meet
 0 %
 0 %
 -
 0 Leese
 0 but
 0 their
-0 show,
+0 show
 0 their
 0 substance
 0 still
 0 lives
-0 sweet.
+0 sweet
 0 %
 -
 0 Then
 0 let
 0 not
-0 winter's
+0 winters
 0 ragged
 0 hand
-0 deface,
+0 deface
 0 %
 0 %
 0 %
@@ -786,28 +786,28 @@
 0 ere
 0 thou
 0 be
-0 distilled:
+0 distilled
 0 %
 0 %
 -
 0 Make
 0 sweet
 0 some
-0 vial;
+0 vial
 0 treasure
 0 thou
 0 some
-0 place,
+0 place
 0 %
 0 %
 -
 0 With
-0 beauty's
+0 beautys
 0 treasure
 0 ere
 0 it
 0 be
-0 self-killed:
+0 selfkilled
 0 %
 0 %
 0 %
@@ -817,7 +817,7 @@
 0 is
 0 not
 0 forbidden
-0 usury,
+0 usury
 0 %
 0 %
 0 %
@@ -830,18 +830,18 @@
 0 pay
 0 the
 0 willing
-0 loan;
+0 loan
 0 %
 0 %
 -
-0 That's
+0 Thats
 0 for
 0 thy
 0 self
 0 to
 0 breed
 0 another
-0 thee,
+0 thee
 0 %
 0 %
 -
@@ -853,7 +853,7 @@
 0 it
 0 ten
 0 for
-0 one,
+0 one
 0 %
 -
 0 Ten
@@ -864,7 +864,7 @@
 0 happier
 0 than
 0 thou
-0 art,
+0 art
 0 %
 -
 0 If
@@ -874,7 +874,7 @@
 0 ten
 0 times
 0 refigured
-0 thee:
+0 thee
 0 %
 0 %
 -
@@ -886,14 +886,14 @@
 0 if
 0 thou
 0 shouldst
-0 depart,
+0 depart
 0 %
 -
 0 Leaving
 0 thee
 0 living
 0 in
-0 posterity?
+0 posterity
 0 %
 0 %
 0 %
@@ -902,24 +902,24 @@
 -
 0 Be
 0 not
-0 self-willed
+0 selfwilled
 0 for
 0 thou
 0 art
 0 much
 0 too
-0 fair,
+0 fair
 0 %
 -
 0 To
 0 be
-0 death's
+0 deaths
 0 conquest
 0 and
 0 make
 0 worms
 0 thine
-0 heir.
+0 heir
 0 %
 -
 0 Lo
@@ -937,7 +937,7 @@
 0 up
 0 his
 0 burning
-0 head,
+0 head
 0 each
 0 under
 0 eye
@@ -948,8 +948,8 @@
 0 homage
 0 to
 0 his
-0 new-appearing
-0 sight,
+0 newappearing
+0 sight
 0 %
 0 %
 0 %
@@ -960,7 +960,7 @@
 0 looks
 0 his
 0 sacred
-0 majesty,
+0 majesty
 0 %
 0 %
 0 %
@@ -970,9 +970,9 @@
 0 having
 0 climbed
 0 the
-0 steep-up
+0 steepup
 0 heavenly
-0 hill,
+0 hill
 0 %
 0 %
 0 %
@@ -983,7 +983,7 @@
 0 in
 0 his
 0 middle
-0 age,
+0 age
 0 %
 0 %
 0 %
@@ -994,7 +994,7 @@
 0 adore
 0 his
 0 beauty
-0 still,
+0 still
 0 %
 0 %
 0 %
@@ -1003,7 +1003,7 @@
 0 on
 0 his
 0 golden
-0 pilgrimage:
+0 pilgrimage
 0 %
 0 %
 0 %
@@ -1017,7 +1017,7 @@
 0 pitch
 0 with
 0 weary
-0 car,
+0 car
 0 %
 0 %
 -
@@ -1028,14 +1028,14 @@
 0 reeleth
 0 from
 0 the
-0 day,
+0 day
 0 %
 0 %
 -
 0 The
 0 eyes
-0 (fore
-0 duteous)
+0 fore
+0 duteous
 0 now
 0 converted
 0 are
@@ -1050,18 +1050,18 @@
 0 and
 0 look
 0 another
-0 way:
+0 way
 0 %
 0 %
 -
 0 So
-0 thou,
+0 thou
 0 thy
 0 self
-0 out-going
+0 outgoing
 0 in
 0 thy
-0 noon:
+0 noon
 0 %
 0 %
 -
@@ -1072,18 +1072,18 @@
 0 thou
 0 get
 0 a
-0 son.
+0 son
 0 %
 0 %
 -
 0 Music
 0 to
-0 hear,
+0 hear
 0 why
-0 hear'st
+0 hearst
 0 thou
 0 music
-0 sadly?
+0 sadly
 0 %
 0 %
 -
@@ -1091,31 +1091,31 @@
 0 with
 0 sweets
 0 war
-0 not,
+0 not
 0 joy
 0 delights
 0 in
-0 joy:
+0 joy
 0 %
 -
 0 Why
-0 lov'st
+0 lovst
 0 thou
 0 that
 0 which
 0 thou
-0 receiv'st
+0 receivst
 0 not
-0 gladly,
+0 gladly
 0 %
 -
 0 Or
 0 else
-0 receiv'st
+0 receivst
 0 with
 0 pleasure
 0 thine
-0 annoy?
+0 annoy
 0 %
 0 %
 0 %
@@ -1125,8 +1125,8 @@
 0 true
 0 concord
 0 of
-0 well-tuned
-0 sounds,
+0 welltuned
+0 sounds
 0 %
 0 %
 0 %
@@ -1137,7 +1137,7 @@
 0 do
 0 offend
 0 thine
-0 ear,
+0 ear
 0 %
 0 %
 0 %
@@ -1147,7 +1147,7 @@
 0 but
 0 sweetly
 0 chide
-0 thee,
+0 thee
 0 who
 0 confounds
 0 %
@@ -1160,7 +1160,7 @@
 0 that
 0 thou
 0 shouldst
-0 bear:
+0 bear
 0 %
 0 %
 -
@@ -1171,7 +1171,7 @@
 0 sweet
 0 husband
 0 to
-0 another,
+0 another
 0 %
 0 %
 -
@@ -1181,18 +1181,18 @@
 0 each
 0 by
 0 mutual
-0 ordering;
+0 ordering
 0 %
 0 %
 0 %
 -
 0 Resembling
-0 sire,
+0 sire
 0 and
-0 child,
+0 child
 0 and
 0 happy
-0 mother,
+0 mother
 0 %
 0 %
 0 %
@@ -1200,21 +1200,21 @@
 0 Who
 0 all
 0 in
-0 one,
+0 one
 0 one
 0 pleasing
 0 note
 0 do
-0 sing:
+0 sing
 0 %
 -
 0 Whose
 0 speechless
 0 song
 0 being
-0 many,
+0 many
 0 seeming
-0 one,
+0 one
 0 %
 0 %
 0 %
@@ -1222,12 +1222,12 @@
 0 Sings
 0 this
 0 to
-0 thee,
-0 'Thou
+0 thee
+0 Thou
 0 single
 0 wilt
 0 prove
-0 none'.
+0 none
 0 %
 -
 0 Is
@@ -1237,29 +1237,29 @@
 0 to
 0 wet
 0 a
-0 widow's
-0 eye,
+0 widows
+0 eye
 0 %
 -
 0 That
 0 thou
-0 consum'st
+0 consumst
 0 thy
 0 self
 0 in
 0 single
-0 life?
+0 life
 0 %
 0 %
 -
-0 Ah,
+0 Ah
 0 if
 0 thou
 0 issueless
 0 shalt
 0 hap
 0 to
-0 die,
+0 die
 0 %
 0 %
 -
@@ -1271,7 +1271,7 @@
 0 like
 0 a
 0 makeless
-0 wife,
+0 wife
 0 %
 -
 0 The
@@ -1282,7 +1282,7 @@
 0 widow
 0 and
 0 still
-0 weep,
+0 weep
 0 %
 -
 0 That
@@ -1293,7 +1293,7 @@
 0 thee
 0 hast
 0 left
-0 behind,
+0 behind
 0 %
 -
 0 When
@@ -1302,19 +1302,19 @@
 0 widow
 0 well
 0 may
-0 keep,
+0 keep
 0 %
 0 %
 0 %
 -
 0 By
-0 children's
-0 eyes,
+0 childrens
+0 eyes
 0 her
-0 husband's
+0 husbands
 0 shape
 0 in
-0 mind:
+0 mind
 0 %
 0 %
 -
@@ -1332,23 +1332,23 @@
 0 Shifts
 0 but
 0 his
-0 place,
+0 place
 0 for
 0 still
 0 the
 0 world
 0 enjoys
-0 it;
+0 it
 -
 0 But
-0 beauty's
+0 beautys
 0 waste
 0 hath
 0 in
 0 the
 0 world
 0 an
-0 end,
+0 end
 0 %
 -
 0 And
@@ -1358,7 +1358,7 @@
 0 user
 0 so
 0 destroys
-0 it:
+0 it
 0 %
 0 %
 -
@@ -1377,9 +1377,9 @@
 0 on
 0 himself
 0 such
-0 murd'rous
+0 murdrous
 0 shame
-0 commits.
+0 commits
 0 %
 0 %
 0 %
@@ -1389,7 +1389,7 @@
 0 deny
 0 that
 0 thou
-0 bear'st
+0 bearst
 0 love
 0 to
 0 any
@@ -1401,7 +1401,7 @@
 0 self
 0 art
 0 so
-0 unprovident.
+0 unprovident
 0 %
 0 %
 0 %
@@ -1409,22 +1409,22 @@
 0 Grant
 0 if
 0 thou
-0 wilt,
+0 wilt
 0 thou
 0 art
 0 beloved
 0 of
-0 many,
+0 many
 0 %
 -
 0 But
 0 that
 0 thou
 0 none
-0 lov'st
+0 lovst
 0 is
 0 most
-0 evident:
+0 evident
 0 %
 0 %
 -
@@ -1434,20 +1434,20 @@
 0 so
 0 possessed
 0 with
-0 murd'rous
-0 hate,
+0 murdrous
+0 hate
 0 %
 0 %
 -
 0 That
-0 'gainst
+0 gainst
 0 thy
 0 self
 0 thou
-0 stick'st
+0 stickst
 0 not
 0 to
-0 conspire,
+0 conspire
 0 %
 -
 0 Seeking
@@ -1468,20 +1468,20 @@
 0 be
 0 thy
 0 chief
-0 desire:
+0 desire
 0 %
 0 %
 -
 0 O
 0 change
 0 thy
-0 thought,
+0 thought
 0 that
 0 I
 0 may
 0 change
 0 my
-0 mind,
+0 mind
 -
 0 Shall
 0 hate
@@ -1490,7 +1490,7 @@
 0 lodged
 0 than
 0 gentle
-0 love?
+0 love
 0 %
 0 %
 -
@@ -1501,7 +1501,7 @@
 0 is
 0 gracious
 0 and
-0 kind,
+0 kind
 0 %
 0 %
 -
@@ -1511,8 +1511,8 @@
 0 self
 0 at
 0 least
-0 kind-hearted
-0 prove,
+0 kindhearted
+0 prove
 0 %
 0 %
 -
@@ -1523,7 +1523,7 @@
 0 for
 0 love
 0 of
-0 me,
+0 me
 0 %
 0 %
 -
@@ -1535,7 +1535,7 @@
 0 in
 0 thine
 0 or
-0 thee.
+0 thee
 0 %
 -
 0 As
@@ -1547,17 +1547,17 @@
 0 so
 0 fast
 0 thou
-0 grow'st,
+0 growst
 -
 0 In
 0 one
 0 of
-0 thine,
+0 thine
 0 from
 0 that
 0 which
 0 thou
-0 departest,
+0 departest
 0 %
 -
 0 And
@@ -1567,27 +1567,27 @@
 0 which
 0 youngly
 0 thou
-0 bestow'st,
+0 bestowst
 0 %
 0 %
 -
 0 Thou
 0 mayst
 0 call
-0 thine,
+0 thine
 0 when
 0 thou
 0 from
 0 youth
-0 convertest,
+0 convertest
 0 %
 -
 0 Herein
 0 lives
-0 wisdom,
-0 beauty,
+0 wisdom
+0 beauty
 0 and
-0 increase,
+0 increase
 0 %
 0 %
 0 %
@@ -1595,11 +1595,11 @@
 -
 0 Without
 0 this
-0 folly,
-0 age,
+0 folly
+0 age
 0 and
 0 cold
-0 decay,
+0 decay
 0 %
 0 %
 0 %
@@ -1608,11 +1608,11 @@
 0 all
 0 were
 0 minded
-0 so,
+0 so
 0 the
 0 times
 0 should
-0 cease,
+0 cease
 0 %
 -
 0 And
@@ -1622,7 +1622,7 @@
 0 make
 0 the
 0 world
-0 away:
+0 away
 0 %
 0 %
 -
@@ -1634,15 +1634,15 @@
 0 not
 0 made
 0 for
-0 store,
+0 store
 0 %
 -
-0 Harsh,
-0 featureless,
+0 Harsh
+0 featureless
 0 and
-0 rude,
+0 rude
 0 barrenly
-0 perish:
+0 perish
 0 %
 0 %
 0 %
@@ -1652,11 +1652,11 @@
 0 whom
 0 she
 0 best
-0 endowed,
+0 endowed
 0 she
 0 gave
 0 thee
-0 more;
+0 more
 0 %
 -
 0 Which
@@ -1666,7 +1666,7 @@
 0 shouldst
 0 in
 0 bounty
-0 cherish:
+0 cherish
 0 %
 0 %
 -
@@ -1675,21 +1675,21 @@
 0 thee
 0 for
 0 her
-0 seal,
+0 seal
 0 and
 0 meant
-0 thereby,
+0 thereby
 0 %
 -
 0 Thou
 0 shouldst
 0 print
-0 more,
+0 more
 0 not
 0 let
 0 that
 0 copy
-0 die.
+0 die
 0 %
 -
 0 When
@@ -1701,7 +1701,7 @@
 0 that
 0 tells
 0 the
-0 time,
+0 time
 -
 0 And
 0 see
@@ -1711,7 +1711,7 @@
 0 sunk
 0 in
 0 hideous
-0 night,
+0 night
 0 %
 -
 0 When
@@ -1720,7 +1720,7 @@
 0 the
 0 violet
 0 past
-0 prime,
+0 prime
 0 %
 0 %
 0 %
@@ -1730,9 +1730,9 @@
 0 curls
 0 all
 0 silvered
-0 o'er
+0 oer
 0 with
-0 white:
+0 white
 0 %
 0 %
 -
@@ -1743,7 +1743,7 @@
 0 see
 0 barren
 0 of
-0 leaves,
+0 leaves
 0 %
 0 %
 -
@@ -1759,7 +1759,7 @@
 0 %
 -
 0 And
-0 summer's
+0 summers
 0 green
 0 all
 0 girded
@@ -1777,7 +1777,7 @@
 0 white
 0 and
 0 bristly
-0 beard:
+0 beard
 0 %
 -
 0 Then
@@ -1799,7 +1799,7 @@
 0 of
 0 time
 0 must
-0 go,
+0 go
 0 %
 -
 0 Since
@@ -1808,7 +1808,7 @@
 0 beauties
 0 do
 0 themselves
-0 forsake,
+0 forsake
 0 %
 0 %
 0 %
@@ -1821,13 +1821,13 @@
 0 they
 0 see
 0 others
-0 grow,
+0 grow
 0 %
 -
 0 And
 0 nothing
-0 'gainst
-0 Time's
+0 gainst
+0 Times
 0 scythe
 0 can
 0 make
@@ -1839,19 +1839,19 @@
 0 breed
 0 to
 0 brave
-0 him,
+0 him
 0 when
 0 he
 0 takes
 0 thee
-0 hence.
+0 hence
 -
 0 O
 0 that
 0 you
 0 were
 0 your
-0 self,
+0 self
 0 but
 0 love
 0 you
@@ -1859,13 +1859,13 @@
 -
 0 No
 0 longer
-0 yours,
+0 yours
 0 than
 0 you
 0 your
 0 self
 0 here
-0 live,
+0 live
 0 %
 -
 0 Against
@@ -1874,7 +1874,7 @@
 0 end
 0 you
 0 should
-0 prepare,
+0 prepare
 0 %
 0 %
 0 %
@@ -1886,7 +1886,7 @@
 0 to
 0 some
 0 other
-0 give.
+0 give
 0 %
 0 %
 -
@@ -1903,7 +1903,7 @@
 -
 0 Find
 0 no
-0 determination,
+0 determination
 0 then
 0 you
 0 were
@@ -1917,8 +1917,8 @@
 0 again
 0 after
 0 your
-0 self's
-0 decease,
+0 selfs
+0 decease
 0 %
 0 %
 0 %
@@ -1931,7 +1931,7 @@
 0 sweet
 0 form
 0 should
-0 bear.
+0 bear
 0 %
 -
 0 Who
@@ -1942,7 +1942,7 @@
 0 house
 0 fall
 0 to
-0 decay,
+0 decay
 0 %
 -
 0 Which
@@ -1950,7 +1950,7 @@
 0 in
 0 honour
 0 might
-0 uphold,
+0 uphold
 0 %
 0 %
 0 %
@@ -1961,7 +1961,7 @@
 0 stormy
 0 gusts
 0 of
-0 winter's
+0 winters
 0 day
 0 %
 0 %
@@ -1971,9 +1971,9 @@
 0 barren
 0 rage
 0 of
-0 death's
+0 deaths
 0 eternal
-0 cold?
+0 cold
 0 %
 0 %
 0 %
@@ -1981,23 +1981,23 @@
 0 O
 0 none
 0 but
-0 unthrifts,
+0 unthrifts
 0 dear
 0 my
 0 love
 0 you
-0 know,
+0 know
 0 %
 -
 0 You
 0 had
 0 a
-0 father,
+0 father
 0 let
 0 your
 0 son
 0 say
-0 so.
+0 so
 0 %
 -
 0 Not
@@ -2008,7 +2008,7 @@
 0 I
 0 my
 0 judgement
-0 pluck,
+0 pluck
 0 %
 -
 0 And
@@ -2016,7 +2016,7 @@
 0 methinks
 0 I
 0 have
-0 astronomy,
+0 astronomy
 0 %
 0 %
 0 %
@@ -2027,19 +2027,19 @@
 0 to
 0 tell
 0 of
-0 good,
+0 good
 0 or
 0 evil
-0 luck,
+0 luck
 0 %
 -
 0 Of
-0 plagues,
+0 plagues
 0 of
-0 dearths,
+0 dearths
 0 or
-0 seasons'
-0 quality,
+0 seasons
+0 quality
 0 %
 0 %
 0 %
@@ -2051,7 +2051,7 @@
 0 to
 0 brief
 0 minutes
-0 tell;
+0 tell
 0 %
 0 %
 -
@@ -2059,10 +2059,10 @@
 0 to
 0 each
 0 his
-0 thunder,
+0 thunder
 0 rain
 0 and
-0 wind,
+0 wind
 0 %
 0 %
 -
@@ -2084,7 +2084,7 @@
 0 I
 0 in
 0 heaven
-0 find.
+0 find
 0 %
 0 %
 -
@@ -2095,7 +2095,7 @@
 0 my
 0 knowledge
 0 I
-0 derive,
+0 derive
 0 %
 0 %
 -
@@ -2124,12 +2124,12 @@
 0 If
 0 from
 0 thy
-0 self,
+0 self
 0 to
 0 store
 0 thou
 0 wouldst
-0 convert:
+0 convert
 0 %
 -
 0 Or
@@ -2138,7 +2138,7 @@
 0 thee
 0 this
 0 I
-0 prognosticate,
+0 prognosticate
 0 %
 0 %
 0 %
@@ -2146,12 +2146,12 @@
 0 Thy
 0 end
 0 is
-0 truth's
+0 truths
 0 and
-0 beauty's
+0 beautys
 0 doom
 0 and
-0 date.
+0 date
 0 %
 -
 0 When
@@ -2171,7 +2171,7 @@
 0 but
 0 a
 0 little
-0 moment.
+0 moment
 0 %
 0 %
 0 %
@@ -2193,7 +2193,7 @@
 0 in
 0 secret
 0 influence
-0 comment.
+0 comment
 0 %
 0 %
 0 %
@@ -2205,7 +2205,7 @@
 0 men
 0 as
 0 plants
-0 increase,
+0 increase
 0 %
 0 %
 -
@@ -2215,8 +2215,8 @@
 0 even
 0 by
 0 the
-0 self-same
-0 sky:
+0 selfsame
+0 sky
 0 %
 0 %
 -
@@ -2224,10 +2224,10 @@
 0 in
 0 their
 0 youthful
-0 sap,
+0 sap
 0 at
 0 height
-0 decrease,
+0 decrease
 0 %
 0 %
 -
@@ -2238,7 +2238,7 @@
 0 state
 0 out
 0 of
-0 memory.
+0 memory
 0 %
 0 %
 -
@@ -2248,7 +2248,7 @@
 0 of
 0 this
 0 inconstant
-0 stay,
+0 stay
 0 %
 0 %
 0 %
@@ -2261,7 +2261,7 @@
 0 youth
 0 before
 0 my
-0 sight,
+0 sight
 0 %
 -
 0 Where
@@ -2283,7 +2283,7 @@
 0 youth
 0 to
 0 sullied
-0 night,
+0 night
 0 %
 -
 0 And
@@ -2295,17 +2295,17 @@
 0 for
 0 love
 0 of
-0 you,
+0 you
 -
 0 As
 0 he
 0 takes
 0 from
-0 you,
+0 you
 0 I
 0 engraft
 0 you
-0 new.
+0 new
 0 %
 -
 0 But
@@ -2325,7 +2325,7 @@
 0 this
 0 bloody
 0 tyrant
-0 Time?
+0 Time
 0 %
 0 %
 0 %
@@ -2348,7 +2348,7 @@
 0 than
 0 my
 0 barren
-0 rhyme?
+0 rhyme
 0 %
 0 %
 -
@@ -2360,7 +2360,7 @@
 0 top
 0 of
 0 happy
-0 hours,
+0 hours
 0 %
 -
 0 And
@@ -2368,7 +2368,7 @@
 0 maiden
 0 gardens
 0 yet
-0 unset,
+0 unset
 0 %
 0 %
 0 %
@@ -2381,7 +2381,7 @@
 0 bear
 0 you
 0 living
-0 flowers,
+0 flowers
 0 %
 0 %
 -
@@ -2390,7 +2390,7 @@
 0 than
 0 your
 0 painted
-0 counterfeit:
+0 counterfeit
 0 %
 0 %
 0 %
@@ -2409,8 +2409,8 @@
 -
 0 Which
 0 this
-0 (Time's
-0 pencil)
+0 Times
+0 pencil
 0 or
 0 my
 0 pupil
@@ -2438,17 +2438,17 @@
 0 in
 0 eyes
 0 of
-0 men.
+0 men
 -
 0 To
 0 give
 0 away
 0 your
-0 self,
+0 self
 0 keeps
 0 your
 0 self
-0 still,
+0 still
 0 %
 -
 0 And
@@ -2460,7 +2460,7 @@
 0 your
 0 own
 0 sweet
-0 skill.
+0 skill
 -
 0 Who
 0 will
@@ -2481,7 +2481,7 @@
 0 your
 0 most
 0 high
-0 deserts?
+0 deserts
 0 %
 -
 0 Though
@@ -2498,13 +2498,13 @@
 0 Which
 0 hides
 0 your
-0 life,
+0 life
 0 and
 0 shows
 0 not
 0 half
 0 your
-0 parts:
+0 parts
 -
 0 If
 0 I
@@ -2514,7 +2514,7 @@
 0 beauty
 0 of
 0 your
-0 eyes,
+0 eyes
 0 %
 -
 0 And
@@ -2524,7 +2524,7 @@
 0 number
 0 all
 0 your
-0 graces,
+0 graces
 0 %
 0 %
 -
@@ -2536,16 +2536,16 @@
 0 say
 0 this
 0 poet
-0 lies,
+0 lies
 0 %
 -
 0 Such
 0 heavenly
 0 touches
-0 ne'er
+0 neer
 0 touched
 0 earthly
-0 faces.
+0 faces
 0 %
 0 %
 0 %
@@ -2554,15 +2554,15 @@
 0 should
 0 my
 0 papers
-0 (yellowed
+0 yellowed
 0 with
 0 their
-0 age)
+0 age
 0 %
 0 %
 -
 0 Be
-0 scorned,
+0 scorned
 0 like
 0 old
 0 men
@@ -2570,7 +2570,7 @@
 0 less
 0 truth
 0 than
-0 tongue,
+0 tongue
 -
 0 And
 0 your
@@ -2579,8 +2579,8 @@
 0 be
 0 termed
 0 a
-0 poet's
-0 rage,
+0 poets
+0 rage
 0 %
 -
 0 And
@@ -2589,7 +2589,7 @@
 0 of
 0 an
 0 antique
-0 song.
+0 song
 0 %
 0 %
 0 %
@@ -2602,7 +2602,7 @@
 0 yours
 0 alive
 0 that
-0 time,
+0 time
 0 %
 -
 0 You
@@ -2610,11 +2610,11 @@
 0 live
 0 twice
 0 in
-0 it,
+0 it
 0 and
 0 in
 0 my
-0 rhyme.
+0 rhyme
 -
 0 Shall
 0 I
@@ -2622,8 +2622,8 @@
 0 thee
 0 to
 0 a
-0 summer's
-0 day?
+0 summers
+0 day
 0 %
 0 %
 -
@@ -2633,7 +2633,7 @@
 0 lovely
 0 and
 0 more
-0 temperate:
+0 temperate
 0 %
 0 %
 0 %
@@ -2646,18 +2646,18 @@
 0 darling
 0 buds
 0 of
-0 May,
+0 May
 0 %
 -
 0 And
-0 summer's
+0 summers
 0 lease
 0 hath
 0 all
 0 too
 0 short
 0 a
-0 date:
+0 date
 0 %
 -
 0 Sometime
@@ -2667,7 +2667,7 @@
 0 eye
 0 of
 0 heaven
-0 shines,
+0 shines
 0 %
 0 %
 -
@@ -2677,7 +2677,7 @@
 0 his
 0 gold
 0 complexion
-0 dimmed,
+0 dimmed
 0 %
 0 %
 0 %
@@ -2688,18 +2688,18 @@
 0 from
 0 fair
 0 sometime
-0 declines,
+0 declines
 0 %
 0 %
 0 %
 -
 0 By
-0 chance,
+0 chance
 0 or
-0 nature's
+0 natures
 0 changing
 0 course
-0 untrimmed:
+0 untrimmed
 0 %
 0 %
 0 %
@@ -2710,7 +2710,7 @@
 0 summer
 0 shall
 0 not
-0 fade,
+0 fade
 0 %
 0 %
 0 %
@@ -2722,7 +2722,7 @@
 0 that
 0 fair
 0 thou
-0 ow'st,
+0 owst
 0 %
 0 %
 -
@@ -2731,10 +2731,10 @@
 0 death
 0 brag
 0 thou
-0 wand'rest
+0 wandrest
 0 in
 0 his
-0 shade,
+0 shade
 0 %
 -
 0 When
@@ -2744,7 +2744,7 @@
 0 to
 0 time
 0 thou
-0 grow'st,
+0 growst
 0 %
 0 %
 -
@@ -2757,26 +2757,26 @@
 0 or
 0 eyes
 0 can
-0 see,
+0 see
 -
 0 So
 0 long
 0 lives
-0 this,
+0 this
 0 and
 0 this
 0 gives
 0 life
 0 to
-0 thee.
+0 thee
 -
 0 Devouring
 0 Time
 0 blunt
 0 thou
 0 the
-0 lion's
-0 paws,
+0 lions
+0 paws
 0 %
 0 %
 0 %
@@ -2789,7 +2789,7 @@
 0 her
 0 own
 0 sweet
-0 brood,
+0 brood
 0 %
 -
 0 Pluck
@@ -2799,18 +2799,18 @@
 0 from
 0 the
 0 fierce
-0 tiger's
-0 jaws,
+0 tigers
+0 jaws
 0 %
 -
 0 And
 0 burn
 0 the
-0 long-lived
-0 phoenix,
+0 longlived
+0 phoenix
 0 in
 0 her
-0 blood,
+0 blood
 0 %
 0 %
 -
@@ -2821,16 +2821,16 @@
 0 seasons
 0 as
 0 thou
-0 fleet'st,
+0 fleetst
 0 %
 0 %
 -
 0 And
 0 do
-0 whate'er
+0 whateer
 0 thou
 0 wilt
-0 swift-footed
+0 swiftfooted
 0 Time
 0 %
 0 %
@@ -2844,7 +2844,7 @@
 0 all
 0 her
 0 fading
-0 sweets:
+0 sweets
 0 %
 -
 0 But
@@ -2854,7 +2854,7 @@
 0 one
 0 most
 0 heinous
-0 crime,
+0 crime
 0 %
 0 %
 -
@@ -2865,9 +2865,9 @@
 0 thy
 0 hours
 0 my
-0 love's
+0 loves
 0 fair
-0 brow,
+0 brow
 -
 0 Nor
 0 draw
@@ -2877,7 +2877,7 @@
 0 with
 0 thine
 0 antique
-0 pen,
+0 pen
 0 %
 -
 0 Him
@@ -2886,17 +2886,17 @@
 0 course
 0 untainted
 0 do
-0 allow,
+0 allow
 0 %
 0 %
 0 %
 -
 0 For
-0 beauty's
+0 beautys
 0 pattern
 0 to
 0 succeeding
-0 men.
+0 men
 0 %
 0 %
 0 %
@@ -2907,10 +2907,10 @@
 0 thy
 0 worst
 0 old
-0 Time:
+0 Time
 0 despite
 0 thy
-0 wrong,
+0 wrong
 0 %
 -
 0 My
@@ -2921,17 +2921,17 @@
 0 verse
 0 ever
 0 live
-0 young.
+0 young
 0 %
 -
 0 A
-0 woman's
+0 womans
 0 face
 0 with
-0 nature's
+0 natures
 0 own
 0 hand
-0 painted,
+0 painted
 0 %
 0 %
 -
@@ -2942,12 +2942,12 @@
 0 mistress
 0 of
 0 my
-0 passion,
+0 passion
 0 %
 0 %
 -
 0 A
-0 woman's
+0 womans
 0 gentle
 0 heart
 0 but
@@ -2963,8 +2963,8 @@
 0 as
 0 is
 0 false
-0 women's
-0 fashion,
+0 womens
+0 fashion
 0 %
 0 %
 -
@@ -2973,18 +2973,18 @@
 0 more
 0 bright
 0 than
-0 theirs,
+0 theirs
 0 less
 0 false
 0 in
-0 rolling:
+0 rolling
 -
 0 Gilding
 0 the
 0 object
 0 whereupon
 0 it
-0 gazeth,
+0 gazeth
 0 %
 0 %
 0 %
@@ -2998,17 +2998,17 @@
 0 hues
 0 in
 0 his
-0 controlling,
+0 controlling
 0 %
 -
 0 Which
 0 steals
-0 men's
+0 mens
 0 eyes
 0 and
-0 women's
+0 womens
 0 souls
-0 amazeth.
+0 amazeth
 0 %
 0 %
 -
@@ -3019,7 +3019,7 @@
 0 wert
 0 thou
 0 first
-0 created,
+0 created
 0 %
 0 %
 -
@@ -3030,7 +3030,7 @@
 0 wrought
 0 thee
 0 fell
-0 a-doting,
+0 adoting
 0 %
 0 %
 -
@@ -3040,7 +3040,7 @@
 0 me
 0 of
 0 thee
-0 defeated,
+0 defeated
 0 %
 0 %
 0 %
@@ -3052,7 +3052,7 @@
 0 to
 0 my
 0 purpose
-0 nothing.
+0 nothing
 0 %
 0 %
 -
@@ -3063,8 +3063,8 @@
 0 thee
 0 out
 0 for
-0 women's
-0 pleasure,
+0 womens
+0 pleasure
 0 %
 -
 0 Mine
@@ -3073,10 +3073,10 @@
 0 love
 0 and
 0 thy
-0 love's
+0 loves
 0 use
 0 their
-0 treasure.
+0 treasure
 -
 0 So
 0 is
@@ -3087,7 +3087,7 @@
 0 as
 0 with
 0 that
-0 muse,
+0 muse
 -
 0 Stirred
 0 by
@@ -3096,7 +3096,7 @@
 0 beauty
 0 to
 0 his
-0 verse,
+0 verse
 0 %
 0 %
 -
@@ -3107,7 +3107,7 @@
 0 for
 0 ornament
 0 doth
-0 use,
+0 use
 0 %
 0 %
 -
@@ -3118,7 +3118,7 @@
 0 his
 0 fair
 0 doth
-0 rehearse,
+0 rehearse
 0 %
 0 %
 -
@@ -3136,33 +3136,33 @@
 0 With
 0 sun
 0 and
-0 moon,
+0 moon
 0 with
 0 earth
 0 and
-0 sea's
+0 seas
 0 rich
-0 gems:
+0 gems
 -
 0 With
-0 April's
-0 first-born
+0 Aprils
+0 firstborn
 0 flowers
 0 and
 0 all
 0 things
-0 rare,
+0 rare
 0 %
 0 %
 -
 0 That
-0 heaven's
+0 heavens
 0 air
 0 in
 0 this
 0 huge
 0 rondure
-0 hems.
+0 hems
 0 %
 0 %
 -
@@ -3174,24 +3174,24 @@
 0 love
 0 but
 0 truly
-0 write,
+0 write
 0 %
 -
 0 And
 0 then
 0 believe
-0 me,
+0 me
 0 my
 0 love
 0 is
 0 as
-0 fair,
+0 fair
 0 %
 -
 0 As
 0 any
-0 mother's
-0 child,
+0 mothers
+0 child
 0 though
 0 not
 0 so
@@ -3205,8 +3205,8 @@
 0 candles
 0 fixed
 0 in
-0 heaven's
-0 air:
+0 heavens
+0 air
 0 %
 0 %
 -
@@ -3218,7 +3218,7 @@
 0 like
 0 of
 0 hearsay
-0 well,
+0 well
 0 %
 -
 0 I
@@ -3229,7 +3229,7 @@
 0 purpose
 0 not
 0 to
-0 sell.
+0 sell
 0 %
 -
 0 My
@@ -3240,7 +3240,7 @@
 0 me
 0 I
 0 am
-0 old,
+0 old
 0 %
 -
 0 So
@@ -3252,16 +3252,16 @@
 0 are
 0 of
 0 one
-0 date,
+0 date
 -
 0 But
 0 when
 0 in
 0 thee
-0 time's
+0 times
 0 furrows
 0 I
-0 behold,
+0 behold
 0 %
 0 %
 -
@@ -3272,7 +3272,7 @@
 0 my
 0 days
 0 should
-0 expiate.
+0 expiate
 0 %
 0 %
 -
@@ -3283,7 +3283,7 @@
 0 that
 0 doth
 0 cover
-0 thee,
+0 thee
 0 %
 0 %
 -
@@ -3294,7 +3294,7 @@
 0 raiment
 0 of
 0 my
-0 heart,
+0 heart
 0 %
 0 %
 -
@@ -3303,11 +3303,11 @@
 0 thy
 0 breast
 0 doth
-0 live,
+0 live
 0 as
 0 thine
 0 in
-0 me,
+0 me
 -
 0 How
 0 can
@@ -3317,7 +3317,7 @@
 0 elder
 0 than
 0 thou
-0 art?
+0 art
 0 %
 -
 0 O
@@ -3327,7 +3327,7 @@
 0 of
 0 thyself
 0 so
-0 wary,
+0 wary
 0 %
 0 %
 -
@@ -3336,11 +3336,11 @@
 0 not
 0 for
 0 my
-0 self,
+0 self
 0 but
 0 for
 0 thee
-0 will,
+0 will
 -
 0 Bearing
 0 thy
@@ -3360,7 +3360,7 @@
 0 babe
 0 from
 0 faring
-0 ill.
+0 ill
 0 %
 0 %
 -
@@ -3372,18 +3372,18 @@
 0 when
 0 mine
 0 is
-0 slain,
+0 slain
 0 %
 -
 0 Thou
-0 gav'st
+0 gavst
 0 me
 0 thine
 0 not
 0 to
 0 give
 0 back
-0 again.
+0 again
 0 %
 -
 0 As
@@ -3392,7 +3392,7 @@
 0 actor
 0 on
 0 the
-0 stage,
+0 stage
 0 %
 0 %
 0 %
@@ -3405,7 +3405,7 @@
 0 put
 0 beside
 0 his
-0 part,
+0 part
 0 %
 -
 0 Or
@@ -3416,16 +3416,16 @@
 0 with
 0 too
 0 much
-0 rage,
+0 rage
 0 %
 -
 0 Whose
-0 strength's
+0 strengths
 0 abundance
 0 weakens
 0 his
 0 own
-0 heart;
+0 heart
 0 %
 0 %
 0 %
@@ -3435,18 +3435,18 @@
 0 for
 0 fear
 0 of
-0 trust,
+0 trust
 0 forget
 0 to
-0 say,
+0 say
 0 %
 -
 0 The
 0 perfect
 0 ceremony
 0 of
-0 love's
-0 rite,
+0 loves
+0 rite
 0 %
 0 %
 0 %
@@ -3456,21 +3456,21 @@
 0 in
 0 mine
 0 own
-0 love's
+0 loves
 0 strength
 0 seem
 0 to
-0 decay,
+0 decay
 0 %
 -
-0 O'ercharged
+0 Oercharged
 0 with
 0 burthen
 0 of
 0 mine
 0 own
-0 love's
-0 might:
+0 loves
+0 might
 0 %
 0 %
 -
@@ -3481,7 +3481,7 @@
 0 be
 0 then
 0 the
-0 eloquence,
+0 eloquence
 0 %
 0 %
 -
@@ -3491,7 +3491,7 @@
 0 of
 0 my
 0 speaking
-0 breast,
+0 breast
 0 %
 0 %
 0 %
@@ -3499,11 +3499,11 @@
 0 Who
 0 plead
 0 for
-0 love,
+0 love
 0 and
 0 look
 0 for
-0 recompense,
+0 recompense
 0 %
 0 %
 -
@@ -3515,7 +3515,7 @@
 0 more
 0 hath
 0 more
-0 expressed.
+0 expressed
 0 %
 -
 0 O
@@ -3526,7 +3526,7 @@
 0 silent
 0 love
 0 hath
-0 writ,
+0 writ
 0 %
 -
 0 To
@@ -3535,9 +3535,9 @@
 0 eyes
 0 belongs
 0 to
-0 love's
+0 loves
 0 fine
-0 wit.
+0 wit
 0 %
 -
 0 Mine
@@ -3548,17 +3548,17 @@
 0 painter
 0 and
 0 hath
-0 stelled,
+0 stelled
 0 %
 -
 0 Thy
-0 beauty's
+0 beautys
 0 form
 0 in
 0 table
 0 of
 0 my
-0 heart,
+0 heart
 0 %
 0 %
 -
@@ -3568,8 +3568,8 @@
 0 the
 0 frame
 0 wherein
-0 'tis
-0 held,
+0 tis
+0 held
 0 %
 0 %
 -
@@ -3578,8 +3578,8 @@
 0 it
 0 is
 0 best
-0 painter's
-0 art.
+0 painters
+0 art
 0 %
 0 %
 0 %
@@ -3592,7 +3592,7 @@
 0 you
 0 see
 0 his
-0 skill,
+0 skill
 0 %
 -
 0 To
@@ -3602,18 +3602,18 @@
 0 true
 0 image
 0 pictured
-0 lies,
+0 lies
 0 %
 0 %
 -
 0 Which
 0 in
 0 my
-0 bosom's
+0 bosoms
 0 shop
 0 is
 0 hanging
-0 still,
+0 still
 0 %
 0 %
 -
@@ -3624,7 +3624,7 @@
 0 glazed
 0 with
 0 thine
-0 eyes:
+0 eyes
 0 %
 0 %
 -
@@ -3637,14 +3637,14 @@
 0 for
 0 eyes
 0 have
-0 done,
+0 done
 -
 0 Mine
 0 eyes
 0 have
 0 drawn
 0 thy
-0 shape,
+0 shape
 0 and
 0 thine
 0 for
@@ -3654,8 +3654,8 @@
 0 windows
 0 to
 0 my
-0 breast,
-0 where-through
+0 breast
+0 wherethrough
 0 the
 0 sun
 0 %
@@ -3663,12 +3663,12 @@
 -
 0 Delights
 0 to
-0 peep,
+0 peep
 0 to
 0 gaze
 0 therein
 0 on
-0 thee;
+0 thee
 0 %
 0 %
 -
@@ -3680,7 +3680,7 @@
 0 to
 0 grace
 0 their
-0 art,
+0 art
 0 %
 -
 0 They
@@ -3688,11 +3688,11 @@
 0 but
 0 what
 0 they
-0 see,
+0 see
 0 know
 0 not
 0 the
-0 heart.
+0 heart
 -
 0 Let
 0 those
@@ -3702,7 +3702,7 @@
 0 favour
 0 with
 0 their
-0 stars,
+0 stars
 0 %
 -
 0 Of
@@ -3711,7 +3711,7 @@
 0 and
 0 proud
 0 titles
-0 boast,
+0 boast
 0 %
 0 %
 0 %
@@ -3734,17 +3734,17 @@
 0 that
 0 I
 0 honour
-0 most;
+0 most
 0 %
 0 %
 -
 0 Great
-0 princes'
+0 princes
 0 favourites
 0 their
 0 fair
 0 leaves
-0 spread,
+0 spread
 0 %
 0 %
 0 %
@@ -3755,8 +3755,8 @@
 0 marigold
 0 at
 0 the
-0 sun's
-0 eye,
+0 suns
+0 eye
 0 %
 0 %
 -
@@ -3766,7 +3766,7 @@
 0 their
 0 pride
 0 lies
-0 buried,
+0 buried
 0 %
 0 %
 0 %
@@ -3779,7 +3779,7 @@
 0 in
 0 their
 0 glory
-0 die.
+0 die
 0 %
 -
 0 The
@@ -3787,7 +3787,7 @@
 0 warrior
 0 famoused
 0 for
-0 fight,
+0 fight
 0 %
 0 %
 0 %
@@ -3798,7 +3798,7 @@
 0 thousand
 0 victories
 0 once
-0 foiled,
+0 foiled
 0 %
 0 %
 0 %
@@ -3811,7 +3811,7 @@
 0 of
 0 honour
 0 razed
-0 quite,
+0 quite
 0 %
 0 %
 -
@@ -3823,7 +3823,7 @@
 0 for
 0 which
 0 he
-0 toiled:
+0 toiled
 0 %
 -
 0 Then
@@ -3844,14 +3844,14 @@
 0 remove
 0 nor
 0 be
-0 removed.
+0 removed
 0 %
 0 %
 -
 0 Lord
 0 of
 0 my
-0 love,
+0 love
 0 to
 0 whom
 0 in
@@ -3865,7 +3865,7 @@
 0 my
 0 duty
 0 strongly
-0 knit;
+0 knit
 0 %
 0 %
 0 %
@@ -3883,18 +3883,18 @@
 -
 0 To
 0 witness
-0 duty,
+0 duty
 0 not
 0 to
 0 show
 0 my
-0 wit.
+0 wit
 0 %
 0 %
 -
 0 Duty
 0 so
-0 great,
+0 great
 0 which
 0 wit
 0 so
@@ -3906,13 +3906,13 @@
 0 May
 0 make
 0 seem
-0 bare,
+0 bare
 0 in
 0 wanting
 0 words
 0 to
 0 show
-0 it;
+0 it
 -
 0 But
 0 that
@@ -3927,13 +3927,13 @@
 -
 0 In
 0 thy
-0 soul's
+0 souls
 0 thought
-0 (all
-0 naked)
+0 all
+0 naked
 0 will
 0 bestow
-0 it:
+0 it
 0 %
 -
 0 Till
@@ -3942,7 +3942,7 @@
 0 that
 0 guides
 0 my
-0 moving,
+0 moving
 0 %
 0 %
 0 %
@@ -3953,7 +3953,7 @@
 0 graciously
 0 with
 0 fair
-0 aspect,
+0 aspect
 0 %
 0 %
 0 %
@@ -3964,7 +3964,7 @@
 0 on
 0 my
 0 tattered
-0 loving,
+0 loving
 0 %
 0 %
 0 %
@@ -3976,7 +3976,7 @@
 0 of
 0 thy
 0 sweet
-0 respect,
+0 respect
 0 %
 0 %
 -
@@ -3992,7 +3992,7 @@
 0 love
 -
 0 Till
-0 then,
+0 then
 0 not
 0 show
 0 my
@@ -4004,13 +4004,13 @@
 -
 0 Weary
 0 with
-0 toil,
+0 toil
 0 I
 0 haste
 0 me
 0 to
 0 my
-0 bed,
+0 bed
 0 %
 -
 0 The
@@ -4020,7 +4020,7 @@
 0 limbs
 0 with
 0 travel
-0 tired,
+0 tired
 0 %
 0 %
 -
@@ -4038,11 +4038,11 @@
 0 To
 0 work
 0 my
-0 mind,
+0 mind
 0 when
-0 body's
-0 work's
-0 expired.
+0 bodys
+0 works
+0 expired
 0 %
 0 %
 -
@@ -4050,11 +4050,11 @@
 0 then
 0 my
 0 thoughts
-0 (from
+0 from
 0 far
 0 where
 0 I
-0 abide)
+0 abide
 0 %
 -
 0 Intend
@@ -4062,7 +4062,7 @@
 0 zealous
 0 pilgrimage
 0 to
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -4074,7 +4074,7 @@
 0 drooping
 0 eyelids
 0 open
-0 wide,
+0 wide
 0 %
 0 %
 0 %
@@ -4086,14 +4086,14 @@
 0 the
 0 blind
 0 do
-0 see.
+0 see
 0 %
 0 %
 -
 0 Save
 0 that
 0 my
-0 soul's
+0 souls
 0 imaginary
 0 sight
 0 %
@@ -4107,7 +4107,7 @@
 0 to
 0 my
 0 sightless
-0 view,
+0 view
 0 %
 0 %
 0 %
@@ -4116,22 +4116,22 @@
 0 like
 0 a
 0 jewel
-0 (hung
+0 hung
 0 in
 0 ghastly
-0 night)
+0 night
 0 %
 0 %
 -
 0 Makes
 0 black
 0 night
-0 beauteous,
+0 beauteous
 0 and
 0 her
 0 old
 0 face
-0 new.
+0 new
 0 %
 -
 0 Lo
@@ -4139,21 +4139,21 @@
 0 by
 0 day
 0 my
-0 limbs,
+0 limbs
 0 by
 0 night
 0 my
-0 mind,
+0 mind
 -
 0 For
-0 thee,
+0 thee
 0 and
 0 for
 0 my
-0 self,
+0 self
 0 no
 0 quiet
-0 find.
+0 find
 0 %
 -
 0 How
@@ -4173,19 +4173,19 @@
 0 the
 0 benefit
 0 of
-0 rest?
+0 rest
 0 %
 0 %
 0 %
 -
 0 When
-0 day's
+0 days
 0 oppression
 0 is
 0 not
 0 eased
 0 by
-0 night,
+0 night
 0 %
 0 %
 -
@@ -4197,16 +4197,16 @@
 0 night
 0 by
 0 day
-0 oppressed.
+0 oppressed
 0 %
 -
 0 And
 0 each
-0 (though
+0 though
 0 enemies
 0 to
-0 either's
-0 reign)
+0 eithers
+0 reign
 0 %
 0 %
 0 %
@@ -4218,14 +4218,14 @@
 0 hands
 0 to
 0 torture
-0 me,
+0 me
 0 %
 0 %
 -
 0 The
 0 one
 0 by
-0 toil,
+0 toil
 0 the
 0 other
 0 to
@@ -4236,12 +4236,12 @@
 0 How
 0 far
 0 I
-0 toil,
+0 toil
 0 still
 0 farther
 0 off
 0 from
-0 thee.
+0 thee
 0 %
 -
 0 I
@@ -4253,7 +4253,7 @@
 0 him
 0 thou
 0 art
-0 bright,
+0 bright
 -
 0 And
 0 dost
@@ -4264,14 +4264,14 @@
 0 do
 0 blot
 0 the
-0 heaven:
+0 heaven
 -
 0 So
 0 flatter
 0 I
 0 the
-0 swart-complexioned
-0 night,
+0 swartcomplexioned
+0 night
 0 %
 0 %
 0 %
@@ -4283,9 +4283,9 @@
 0 twire
 0 not
 0 thou
-0 gild'st
+0 gildst
 0 the
-0 even.
+0 even
 0 %
 -
 0 But
@@ -4295,7 +4295,7 @@
 0 draw
 0 my
 0 sorrows
-0 longer,
+0 longer
 0 %
 0 %
 -
@@ -4304,7 +4304,7 @@
 0 doth
 0 nightly
 0 make
-0 grief's
+0 griefs
 0 length
 0 seem
 0 stronger
@@ -4316,8 +4316,8 @@
 0 with
 0 Fortune
 0 and
-0 men's
-0 eyes,
+0 mens
+0 eyes
 0 %
 0 %
 -
@@ -4327,7 +4327,7 @@
 0 beweep
 0 my
 0 outcast
-0 state,
+0 state
 0 %
 0 %
 0 %
@@ -4339,7 +4339,7 @@
 0 with
 0 my
 0 bootless
-0 cries,
+0 cries
 0 %
 0 %
 -
@@ -4351,7 +4351,7 @@
 0 and
 0 curse
 0 my
-0 fate,
+0 fate
 0 %
 -
 0 Wishing
@@ -4362,28 +4362,28 @@
 0 more
 0 rich
 0 in
-0 hope,
+0 hope
 0 %
 -
 0 Featured
 0 like
-0 him,
+0 him
 0 like
 0 him
 0 with
 0 friends
-0 possessed,
+0 possessed
 0 %
 0 %
 -
 0 Desiring
 0 this
-0 man's
-0 art,
+0 mans
+0 art
 0 and
 0 that
-0 man's
-0 scope,
+0 mans
+0 scope
 0 %
 0 %
 -
@@ -4393,7 +4393,7 @@
 0 most
 0 enjoy
 0 contented
-0 least,
+0 least
 0 %
 0 %
 0 %
@@ -4405,7 +4405,7 @@
 0 my
 0 self
 0 almost
-0 despising,
+0 despising
 0 %
 0 %
 -
@@ -4413,14 +4413,14 @@
 0 I
 0 think
 0 on
-0 thee,
+0 thee
 0 and
 0 then
 0 my
-0 state,
+0 state
 0 %
 -
-0 (Like
+0 Like
 0 to
 0 the
 0 lark
@@ -4433,12 +4433,12 @@
 -
 0 From
 0 sullen
-0 earth)
+0 earth
 0 sings
 0 hymns
 0 at
-0 heaven's
-0 gate,
+0 heavens
+0 gate
 0 %
 0 %
 -
@@ -4449,7 +4449,7 @@
 0 remembered
 0 such
 0 wealth
-0 brings,
+0 brings
 0 %
 0 %
 -
@@ -4462,7 +4462,7 @@
 0 my
 0 state
 0 with
-0 kings.
+0 kings
 -
 0 When
 0 to
@@ -4471,7 +4471,7 @@
 0 of
 0 sweet
 0 silent
-0 thought,
+0 thought
 0 %
 0 %
 -
@@ -4481,7 +4481,7 @@
 0 remembrance
 0 of
 0 things
-0 past,
+0 past
 0 %
 0 %
 0 %
@@ -4495,7 +4495,7 @@
 0 a
 0 thing
 0 I
-0 sought,
+0 sought
 -
 0 And
 0 with
@@ -4505,8 +4505,8 @@
 0 wail
 0 my
 0 dear
-0 time's
-0 waste:
+0 times
+0 waste
 -
 0 Then
 0 can
@@ -4514,9 +4514,9 @@
 0 drown
 0 an
 0 eye
-0 (unused
+0 unused
 0 to
-0 flow)
+0 flow
 0 %
 -
 0 For
@@ -4524,32 +4524,32 @@
 0 friends
 0 hid
 0 in
-0 death's
+0 deaths
 0 dateless
-0 night,
+0 night
 0 %
 0 %
 -
 0 And
 0 weep
 0 afresh
-0 love's
+0 loves
 0 long
 0 since
 0 cancelled
-0 woe,
+0 woe
 0 %
 0 %
 -
 0 And
 0 moan
-0 th'
+0 th
 0 expense
 0 of
 0 many
 0 a
 0 vanished
-0 sight.
+0 sight
 0 %
 -
 0 Then
@@ -4558,7 +4558,7 @@
 0 grieve
 0 at
 0 grievances
-0 foregone,
+0 foregone
 0 %
 0 %
 0 %
@@ -4570,7 +4570,7 @@
 0 to
 0 woe
 0 tell
-0 o'er
+0 oer
 0 %
 0 %
 -
@@ -4578,8 +4578,8 @@
 0 sad
 0 account
 0 of
-0 fore-bemoaned
-0 moan,
+0 forebemoaned
+0 moan
 0 %
 0 %
 0 %
@@ -4593,7 +4593,7 @@
 0 if
 0 not
 0 paid
-0 before.
+0 before
 0 %
 -
 0 But
@@ -4604,16 +4604,16 @@
 0 think
 0 on
 0 thee
-0 (dear
-0 friend)
+0 dear
+0 friend
 -
 0 All
 0 losses
 0 are
-0 restored,
+0 restored
 0 and
 0 sorrows
-0 end.
+0 end
 0 %
 0 %
 0 %
@@ -4624,7 +4624,7 @@
 0 endeared
 0 with
 0 all
-0 hearts,
+0 hearts
 0 %
 0 %
 0 %
@@ -4635,7 +4635,7 @@
 0 lacking
 0 have
 0 supposed
-0 dead,
+0 dead
 0 %
 0 %
 0 %
@@ -4646,9 +4646,9 @@
 0 love
 0 and
 0 all
-0 love's
+0 loves
 0 loving
-0 parts,
+0 parts
 0 %
 -
 0 And
@@ -4658,7 +4658,7 @@
 0 which
 0 I
 0 thought
-0 buried.
+0 buried
 0 %
 0 %
 -
@@ -4677,10 +4677,10 @@
 0 dear
 0 religious
 0 love
-0 stol'n
+0 stoln
 0 from
 0 mine
-0 eye,
+0 eye
 0 %
 0 %
 -
@@ -4688,10 +4688,10 @@
 0 interest
 0 of
 0 the
-0 dead,
+0 dead
 0 which
 0 now
-0 appear,
+0 appear
 0 %
 0 %
 -
@@ -4702,7 +4702,7 @@
 0 hidden
 0 in
 0 thee
-0 lie.
+0 lie
 0 %
 0 %
 -
@@ -4714,7 +4714,7 @@
 0 buried
 0 love
 0 doth
-0 live,
+0 live
 0 %
 -
 0 Hung
@@ -4724,7 +4724,7 @@
 0 of
 0 my
 0 lovers
-0 gone,
+0 gone
 0 %
 0 %
 -
@@ -4737,47 +4737,47 @@
 0 to
 0 thee
 0 did
-0 give,
+0 give
 -
 0 That
 0 due
 0 of
-0 many,
+0 many
 0 now
 0 is
 0 thine
-0 alone.
+0 alone
 0 %
 0 %
 -
 0 Their
 0 images
 0 I
-0 loved,
+0 loved
 0 I
 0 view
 0 in
-0 thee,
+0 thee
 0 %
 0 %
 -
 0 And
 0 thou
-0 (all
-0 they)
+0 all
+0 they
 0 hast
 0 all
 0 the
 0 all
 0 of
-0 me.
+0 me
 -
 0 If
 0 thou
 0 survive
 0 my
-0 well-contented
-0 day,
+0 wellcontented
+0 day
 0 %
 0 %
 0 %
@@ -4800,7 +4800,7 @@
 0 fortune
 0 once
 0 more
-0 re-survey
+0 resurvey
 0 %
 0 %
 0 %
@@ -4812,7 +4812,7 @@
 0 of
 0 thy
 0 deceased
-0 lover:
+0 lover
 0 %
 0 %
 -
@@ -4820,10 +4820,10 @@
 0 them
 0 with
 0 the
-0 bett'ring
+0 bettring
 0 of
 0 the
-0 time,
+0 time
 0 %
 0 %
 -
@@ -4834,7 +4834,7 @@
 0 outstripped
 0 by
 0 every
-0 pen,
+0 pen
 0 %
 0 %
 -
@@ -4842,11 +4842,11 @@
 0 them
 0 for
 0 my
-0 love,
+0 love
 0 not
 0 for
 0 their
-0 rhyme,
+0 rhyme
 0 %
 -
 0 Exceeded
@@ -4855,7 +4855,7 @@
 0 height
 0 of
 0 happier
-0 men.
+0 men
 0 %
 0 %
 0 %
@@ -4867,19 +4867,19 @@
 0 but
 0 this
 0 loving
-0 thought,
+0 thought
 0 %
 0 %
 -
-0 'Had
+0 Had
 0 my
-0 friend's
+0 friends
 0 Muse
 0 grown
 0 with
 0 this
 0 growing
-0 age,
+0 age
 0 %
 -
 0 A
@@ -4899,7 +4899,7 @@
 0 ranks
 0 of
 0 better
-0 equipage:
+0 equipage
 0 %
 0 %
 0 %
@@ -4911,7 +4911,7 @@
 0 and
 0 poets
 0 better
-0 prove,
+0 prove
 0 %
 0 %
 -
@@ -4919,12 +4919,12 @@
 0 for
 0 their
 0 style
-0 I'll
-0 read,
+0 Ill
+0 read
 0 his
 0 for
 0 his
-0 love'.
+0 love
 -
 0 Full
 0 many
@@ -4933,7 +4933,7 @@
 0 morning
 0 have
 0 I
-0 seen,
+0 seen
 0 %
 0 %
 -
@@ -4943,7 +4943,7 @@
 0 tops
 0 with
 0 sovereign
-0 eye,
+0 eye
 0 %
 0 %
 0 %
@@ -4954,7 +4954,7 @@
 0 face
 0 the
 0 meadows
-0 green;
+0 green
 0 %
 0 %
 0 %
@@ -4964,7 +4964,7 @@
 0 streams
 0 with
 0 heavenly
-0 alchemy:
+0 alchemy
 0 %
 0 %
 0 %
@@ -4976,7 +4976,7 @@
 0 basest
 0 clouds
 0 to
-0 ride,
+0 ride
 0 %
 0 %
 0 %
@@ -4987,7 +4987,7 @@
 0 on
 0 his
 0 celestial
-0 face,
+0 face
 0 %
 0 %
 0 %
@@ -5009,7 +5009,7 @@
 0 west
 0 with
 0 this
-0 disgrace:
+0 disgrace
 0 %
 0 %
 0 %
@@ -5022,7 +5022,7 @@
 0 early
 0 morn
 0 did
-0 shine,
+0 shine
 0 %
 -
 0 With
@@ -5031,20 +5031,20 @@
 0 splendour
 0 on
 0 my
-0 brow,
+0 brow
 0 %
 0 %
 0 %
 -
 0 But
 0 out
-0 alack,
+0 alack
 0 he
 0 was
 0 but
 0 one
 0 hour
-0 mine,
+0 mine
 0 %
 -
 0 The
@@ -5055,18 +5055,18 @@
 0 him
 0 from
 0 me
-0 now.
+0 now
 0 %
 -
 0 Yet
 0 him
 0 for
-0 this,
+0 this
 0 my
 0 love
 0 no
 0 whit
-0 disdaineth,
+0 disdaineth
 0 %
 -
 0 Suns
@@ -5074,11 +5074,11 @@
 0 the
 0 world
 0 may
-0 stain,
+0 stain
 0 when
-0 heaven's
+0 heavens
 0 sun
-0 staineth.
+0 staineth
 -
 0 Why
 0 didst
@@ -5087,7 +5087,7 @@
 0 such
 0 a
 0 beauteous
-0 day,
+0 day
 0 %
 0 %
 -
@@ -5098,7 +5098,7 @@
 0 forth
 0 without
 0 my
-0 cloak,
+0 cloak
 0 %
 0 %
 -
@@ -5106,25 +5106,25 @@
 0 let
 0 base
 0 clouds
-0 o'ertake
+0 oertake
 0 me
 0 in
 0 my
-0 way,
+0 way
 0 %
 -
 0 Hiding
 0 thy
-0 brav'ry
+0 bravry
 0 in
 0 their
 0 rotten
-0 smoke?
+0 smoke
 0 %
 0 %
 0 %
 -
-0 'Tis
+0 Tis
 0 not
 0 enough
 0 that
@@ -5132,7 +5132,7 @@
 0 the
 0 cloud
 0 thou
-0 break,
+0 break
 0 %
 -
 0 To
@@ -5141,8 +5141,8 @@
 0 rain
 0 on
 0 my
-0 storm-beaten
-0 face,
+0 stormbeaten
+0 face
 0 %
 0 %
 -
@@ -5155,17 +5155,17 @@
 0 a
 0 salve
 0 can
-0 speak,
+0 speak
 -
 0 That
 0 heals
 0 the
-0 wound,
+0 wound
 0 and
 0 cures
 0 not
 0 the
-0 disgrace:
+0 disgrace
 0 %
 -
 0 Nor
@@ -5176,22 +5176,22 @@
 0 physic
 0 to
 0 my
-0 grief,
+0 grief
 0 %
 -
 0 Though
 0 thou
-0 repent,
+0 repent
 0 yet
 0 I
 0 have
 0 still
 0 the
-0 loss,
+0 loss
 0 %
 -
-0 Th'
-0 offender's
+0 Th
+0 offenders
 0 sorrow
 0 lends
 0 but
@@ -5207,8 +5207,8 @@
 0 bears
 0 the
 0 strong
-0 offence's
-0 cross.
+0 offences
+0 cross
 0 %
 0 %
 -
@@ -5221,17 +5221,17 @@
 0 which
 0 thy
 0 love
-0 sheds,
+0 sheds
 -
 0 And
 0 they
 0 are
-0 rich,
+0 rich
 0 and
 0 ransom
 0 all
 0 ill
-0 deeds.
+0 deeds
 0 %
 -
 0 No
@@ -5243,15 +5243,15 @@
 0 which
 0 thou
 0 hast
-0 done,
+0 done
 -
 0 Roses
 0 have
-0 thorns,
+0 thorns
 0 and
 0 silver
 0 fountains
-0 mud,
+0 mud
 0 %
 0 %
 0 %
@@ -5263,7 +5263,7 @@
 0 both
 0 moon
 0 and
-0 sun,
+0 sun
 0 %
 0 %
 -
@@ -5273,7 +5273,7 @@
 0 lives
 0 in
 0 sweetest
-0 bud.
+0 bud
 0 %
 0 %
 0 %
@@ -5281,19 +5281,19 @@
 0 All
 0 men
 0 make
-0 faults,
+0 faults
 0 and
 0 even
 0 I
 0 in
-0 this,
+0 this
 0 %
 -
 0 Authorizing
 0 thy
 0 trespass
 0 with
-0 compare,
+0 compare
 0 %
 0 %
 0 %
@@ -5305,7 +5305,7 @@
 0 corrupting
 0 salving
 0 thy
-0 amiss,
+0 amiss
 0 %
 0 %
 0 %
@@ -5318,7 +5318,7 @@
 0 than
 0 thy
 0 sins
-0 are:
+0 are
 0 %
 0 %
 -
@@ -5330,7 +5330,7 @@
 0 I
 0 bring
 0 in
-0 sense,
+0 sense
 0 %
 -
 0 Thy
@@ -5338,20 +5338,20 @@
 0 party
 0 is
 0 thy
-0 advocate,
+0 advocate
 0 %
 0 %
 0 %
 0 %
 -
 0 And
-0 'gainst
+0 gainst
 0 my
 0 self
 0 a
 0 lawful
 0 plea
-0 commence:
+0 commence
 0 %
 0 %
 -
@@ -5363,7 +5363,7 @@
 0 my
 0 love
 0 and
-0 hate,
+0 hate
 0 %
 -
 0 That
@@ -5372,7 +5372,7 @@
 0 accessary
 0 needs
 0 must
-0 be,
+0 be
 0 %
 0 %
 0 %
@@ -5385,7 +5385,7 @@
 0 sourly
 0 robs
 0 from
-0 me.
+0 me
 0 %
 -
 0 Let
@@ -5396,7 +5396,7 @@
 0 two
 0 must
 0 be
-0 twain,
+0 twain
 0 %
 -
 0 Although
@@ -5404,7 +5404,7 @@
 0 undivided
 0 loves
 0 are
-0 one:
+0 one
 0 %
 0 %
 0 %
@@ -5418,17 +5418,17 @@
 0 do
 0 with
 0 me
-0 remain,
+0 remain
 0 %
 -
 0 Without
 0 thy
-0 help,
+0 help
 0 by
 0 me
 0 be
 0 borne
-0 alone.
+0 alone
 0 %
 0 %
 -
@@ -5440,7 +5440,7 @@
 0 is
 0 but
 0 one
-0 respect,
+0 respect
 0 %
 -
 0 Though
@@ -5449,7 +5449,7 @@
 0 lives
 0 a
 0 separable
-0 spite,
+0 spite
 0 %
 0 %
 0 %
@@ -5459,9 +5459,9 @@
 0 it
 0 alter
 0 not
-0 love's
+0 loves
 0 sole
-0 effect,
+0 effect
 0 %
 0 %
 -
@@ -5472,8 +5472,8 @@
 0 sweet
 0 hours
 0 from
-0 love's
-0 delight.
+0 loves
+0 delight
 0 %
 -
 0 I
@@ -5481,7 +5481,7 @@
 0 not
 0 evermore
 0 acknowledge
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -5494,7 +5494,7 @@
 0 should
 0 do
 0 thee
-0 shame,
+0 shame
 0 %
 0 %
 -
@@ -5504,7 +5504,7 @@
 0 public
 0 kindness
 0 honour
-0 me,
+0 me
 0 %
 0 %
 0 %
@@ -5516,30 +5516,30 @@
 0 honour
 0 from
 0 thy
-0 name:
+0 name
 0 %
 0 %
 -
 0 But
 0 do
 0 not
-0 so,
+0 so
 0 I
 0 love
 0 thee
 0 in
 0 such
-0 sort,
+0 sort
 -
 0 As
 0 thou
 0 being
-0 mine,
+0 mine
 0 mine
 0 is
 0 thy
 0 good
-0 report.
+0 report
 0 %
 -
 0 As
@@ -5547,7 +5547,7 @@
 0 decrepit
 0 father
 0 takes
-0 delight,
+0 delight
 0 %
 0 %
 0 %
@@ -5561,15 +5561,15 @@
 0 do
 0 deeds
 0 of
-0 youth,
+0 youth
 0 %
 -
 0 So
-0 I,
+0 I
 0 made
 0 lame
 0 by
-0 Fortune's
+0 Fortunes
 0 dearest
 0 spite
 0 %
@@ -5583,17 +5583,17 @@
 0 thy
 0 worth
 0 and
-0 truth.
+0 truth
 0 %
 -
 0 For
 0 whether
-0 beauty,
-0 birth,
+0 beauty
+0 birth
 0 or
-0 wealth,
+0 wealth
 0 or
-0 wit,
+0 wit
 0 %
 0 %
 -
@@ -5601,9 +5601,9 @@
 0 any
 0 of
 0 these
-0 all,
+0 all
 0 or
-0 all,
+0 all
 0 or
 0 more
 0 %
@@ -5611,10 +5611,10 @@
 0 Entitled
 0 in
 0 thy
-0 parts,
+0 parts
 0 do
 0 crowned
-0 sit,
+0 sit
 0 %
 0 %
 0 %
@@ -5626,7 +5626,7 @@
 0 engrafted
 0 to
 0 this
-0 store:
+0 store
 0 %
 0 %
 -
@@ -5635,10 +5635,10 @@
 0 I
 0 am
 0 not
-0 lame,
-0 poor,
+0 lame
+0 poor
 0 nor
-0 despised,
+0 despised
 0 %
 -
 0 Whilst
@@ -5648,7 +5648,7 @@
 0 doth
 0 such
 0 substance
-0 give,
+0 give
 0 %
 0 %
 -
@@ -5658,7 +5658,7 @@
 0 thy
 0 abundance
 0 am
-0 sufficed,
+0 sufficed
 0 %
 0 %
 0 %
@@ -5671,29 +5671,29 @@
 0 all
 0 thy
 0 glory
-0 live:
+0 live
 0 %
 -
 0 Look
 0 what
 0 is
-0 best,
+0 best
 0 that
 0 best
 0 I
 0 wish
 0 in
-0 thee,
+0 thee
 -
 0 This
 0 wish
 0 I
-0 have,
+0 have
 0 then
 0 ten
 0 times
 0 happy
-0 me.
+0 me
 0 %
 -
 0 How
@@ -5712,18 +5712,18 @@
 0 dost
 0 breathe
 0 that
-0 pour'st
+0 pourst
 0 into
 0 my
-0 verse,
+0 verse
 0 %
 -
 0 Thine
 0 own
 0 sweet
-0 argument,
+0 argument
 0 too
-0 excellent,
+0 excellent
 0 %
 0 %
 0 %
@@ -5734,7 +5734,7 @@
 0 vulgar
 0 paper
 0 to
-0 rehearse?
+0 rehearse
 0 %
 0 %
 0 %
@@ -5749,28 +5749,28 @@
 0 if
 0 aught
 0 in
-0 me,
+0 me
 -
 0 Worthy
 0 perusal
 0 stand
 0 against
 0 thy
-0 sight,
+0 sight
 0 %
 0 %
 0 %
 0 %
 -
 0 For
-0 who's
+0 whos
 0 so
 0 dumb
 0 that
 0 cannot
 0 write
 0 to
-0 thee,
+0 thee
 0 %
 -
 0 When
@@ -5780,7 +5780,7 @@
 0 dost
 0 give
 0 invention
-0 light?
+0 light
 0 %
 0 %
 -
@@ -5788,7 +5788,7 @@
 0 thou
 0 the
 0 tenth
-0 Muse,
+0 Muse
 0 ten
 0 times
 0 more
@@ -5801,7 +5801,7 @@
 0 nine
 0 which
 0 rhymers
-0 invocate,
+0 invocate
 0 %
 0 %
 0 %
@@ -5811,7 +5811,7 @@
 0 that
 0 calls
 0 on
-0 thee,
+0 thee
 0 let
 0 him
 0 bring
@@ -5822,7 +5822,7 @@
 0 to
 0 outlive
 0 long
-0 date.
+0 date
 0 %
 0 %
 0 %
@@ -5836,19 +5836,19 @@
 0 please
 0 these
 0 curious
-0 days,
+0 days
 0 %
 -
 0 The
 0 pain
 0 be
-0 mine,
+0 mine
 0 but
 0 thine
 0 shall
 0 be
 0 the
-0 praise.
+0 praise
 -
 0 O
 0 how
@@ -5858,7 +5858,7 @@
 0 manners
 0 may
 0 I
-0 sing,
+0 sing
 0 %
 -
 0 When
@@ -5869,7 +5869,7 @@
 0 better
 0 part
 0 of
-0 me?
+0 me
 0 %
 -
 0 What
@@ -5881,26 +5881,26 @@
 0 mine
 0 own
 0 self
-0 bring:
+0 bring
 -
 0 And
 0 what
-0 is't
+0 ist
 0 but
 0 mine
 0 own
 0 when
 0 I
 0 praise
-0 thee?
+0 thee
 -
 0 Even
 0 for
-0 this,
+0 this
 0 let
 0 us
 0 divided
-0 live,
+0 live
 0 %
 0 %
 0 %
@@ -5913,7 +5913,7 @@
 0 name
 0 of
 0 single
-0 one,
+0 one
 0 %
 -
 0 That
@@ -5922,7 +5922,7 @@
 0 separation
 0 I
 0 may
-0 give:
+0 give
 0 %
 0 %
 0 %
@@ -5933,8 +5933,8 @@
 0 thee
 0 which
 0 thou
-0 deserv'st
-0 alone:
+0 deservst
+0 alone
 0 %
 0 %
 -
@@ -5945,7 +5945,7 @@
 0 torment
 0 wouldst
 0 thou
-0 prove,
+0 prove
 0 %
 0 %
 -
@@ -5957,7 +5957,7 @@
 0 leisure
 0 gave
 0 sweet
-0 leave,
+0 leave
 0 %
 -
 0 To
@@ -5967,7 +5967,7 @@
 0 with
 0 thoughts
 0 of
-0 love,
+0 love
 0 %
 0 %
 -
@@ -5978,7 +5978,7 @@
 0 so
 0 sweetly
 0 doth
-0 deceive.
+0 deceive
 0 %
 0 %
 -
@@ -5990,7 +5990,7 @@
 0 to
 0 make
 0 one
-0 twain,
+0 twain
 0 %
 -
 0 By
@@ -6000,20 +6000,20 @@
 0 who
 0 doth
 0 hence
-0 remain.
+0 remain
 0 %
 0 %
 -
 0 Take
 0 all
 0 my
-0 loves,
+0 loves
 0 my
-0 love,
+0 love
 0 yea
 0 take
 0 them
-0 all,
+0 all
 -
 0 What
 0 hast
@@ -6023,57 +6023,57 @@
 0 than
 0 thou
 0 hadst
-0 before?
+0 before
 0 %
 -
 0 No
-0 love,
+0 love
 0 my
-0 love,
+0 love
 0 that
 0 thou
 0 mayst
 0 true
 0 love
-0 call,
+0 call
 -
 0 All
 0 mine
 0 was
-0 thine,
+0 thine
 0 before
 0 thou
 0 hadst
 0 this
-0 more:
+0 more
 0 %
 -
 0 Then
 0 if
 0 for
 0 my
-0 love,
+0 love
 0 thou
 0 my
 0 love
-0 receivest,
+0 receivest
 0 %
 -
 0 I
 0 cannot
 0 blame
-0 thee,
+0 thee
 0 for
 0 my
 0 love
 0 thou
-0 usest,
+0 usest
 0 %
 -
 0 But
 0 yet
 0 be
-0 blamed,
+0 blamed
 0 if
 0 thou
 0 thy
@@ -6088,7 +6088,7 @@
 0 what
 0 thy
 0 self
-0 refusest.
+0 refusest
 0 %
 0 %
 -
@@ -6109,7 +6109,7 @@
 0 thee
 0 all
 0 my
-0 poverty:
+0 poverty
 0 %
 0 %
 0 %
@@ -6128,22 +6128,22 @@
 0 To
 0 bear
 0 greater
-0 wrong,
+0 wrong
 0 than
-0 hate's
+0 hates
 0 known
-0 injury.
+0 injury
 0 %
 0 %
 -
 0 Lascivious
-0 grace,
+0 grace
 0 in
 0 whom
 0 all
 0 ill
 0 well
-0 shows,
+0 shows
 0 %
 0 %
 -
@@ -6156,14 +6156,14 @@
 0 must
 0 not
 0 be
-0 foes.
+0 foes
 -
 0 Those
 0 pretty
 0 wrongs
 0 that
 0 liberty
-0 commits,
+0 commits
 0 %
 0 %
 0 %
@@ -6176,18 +6176,18 @@
 0 absent
 0 from
 0 thy
-0 heart,
+0 heart
 0 %
 0 %
 -
 0 Thy
-0 beauty,
+0 beauty
 0 and
 0 thy
 0 years
 0 full
 0 well
-0 befits,
+0 befits
 0 %
 0 %
 -
@@ -6197,29 +6197,29 @@
 0 follows
 0 where
 0 thou
-0 art.
+0 art
 0 %
 0 %
 0 %
 -
 0 Gentle
 0 thou
-0 art,
+0 art
 0 and
 0 therefore
 0 to
 0 be
-0 won,
+0 won
 0 %
 0 %
 -
 0 Beauteous
 0 thou
-0 art,
+0 art
 0 therefore
 0 to
 0 be
-0 assailed.
+0 assailed
 0 %
 0 %
 0 %
@@ -6228,10 +6228,10 @@
 0 when
 0 a
 0 woman
-0 woos,
+0 woos
 0 what
-0 woman's
-0 son,
+0 womans
+0 son
 0 %
 0 %
 -
@@ -6242,29 +6242,29 @@
 0 till
 0 he
 0 have
-0 prevailed?
+0 prevailed
 0 %
 0 %
 -
 0 Ay
-0 me,
+0 me
 0 but
 0 yet
 0 thou
 0 mightst
 0 my
 0 seat
-0 forbear,
+0 forbear
 0 %
 -
 0 And
 0 chide
 0 thy
-0 beauty,
+0 beauty
 0 and
 0 thy
 0 straying
-0 youth,
+0 youth
 0 %
 0 %
 -
@@ -6287,7 +6287,7 @@
 0 break
 0 a
 0 twofold
-0 truth:
+0 truth
 0 %
 -
 0 Hers
@@ -6297,7 +6297,7 @@
 0 tempting
 0 her
 0 to
-0 thee,
+0 thee
 0 %
 0 %
 -
@@ -6308,7 +6308,7 @@
 0 being
 0 false
 0 to
-0 me.
+0 me
 0 %
 0 %
 -
@@ -6321,7 +6321,7 @@
 0 not
 0 all
 0 my
-0 grief,
+0 grief
 -
 0 And
 0 yet
@@ -6332,7 +6332,7 @@
 0 I
 0 loved
 0 her
-0 dearly,
+0 dearly
 -
 0 That
 0 she
@@ -6342,7 +6342,7 @@
 0 of
 0 my
 0 wailing
-0 chief,
+0 chief
 0 %
 -
 0 A
@@ -6353,7 +6353,7 @@
 0 touches
 0 me
 0 more
-0 nearly.
+0 nearly
 0 %
 -
 0 Loving
@@ -6362,7 +6362,7 @@
 0 I
 0 will
 0 excuse
-0 ye,
+0 ye
 0 %
 0 %
 0 %
@@ -6370,13 +6370,13 @@
 0 Thou
 0 dost
 0 love
-0 her,
+0 her
 0 because
 0 thou
-0 know'st
+0 knowst
 0 I
 0 love
-0 her,
+0 her
 -
 0 And
 0 for
@@ -6387,9 +6387,9 @@
 0 doth
 0 she
 0 abuse
-0 me,
+0 me
 -
-0 Suff'ring
+0 Suffring
 0 my
 0 friend
 0 for
@@ -6397,40 +6397,40 @@
 0 sake
 0 to
 0 approve
-0 her.
+0 her
 0 %
 -
 0 If
 0 I
 0 lose
-0 thee,
+0 thee
 0 my
 0 loss
 0 is
 0 my
-0 love's
-0 gain,
+0 loves
+0 gain
 -
 0 And
 0 losing
-0 her,
+0 her
 0 my
 0 friend
 0 hath
 0 found
 0 that
-0 loss,
+0 loss
 0 %
 -
 0 Both
 0 find
 0 each
-0 other,
+0 other
 0 and
 0 I
 0 lose
 0 both
-0 twain,
+0 twain
 0 %
 -
 0 And
@@ -6442,27 +6442,27 @@
 0 on
 0 me
 0 this
-0 cross,
+0 cross
 -
 0 But
-0 here's
+0 heres
 0 the
-0 joy,
+0 joy
 0 my
 0 friend
 0 and
 0 I
 0 are
-0 one,
+0 one
 -
 0 Sweet
-0 flattery,
+0 flattery
 0 then
 0 she
 0 loves
 0 but
 0 me
-0 alone.
+0 alone
 0 %
 0 %
 -
@@ -6475,7 +6475,7 @@
 0 mine
 0 eyes
 0 best
-0 see,
+0 see
 -
 0 For
 0 all
@@ -6484,29 +6484,29 @@
 0 they
 0 view
 0 things
-0 unrespected,
+0 unrespected
 0 %
 0 %
 -
 0 But
 0 when
 0 I
-0 sleep,
+0 sleep
 0 in
 0 dreams
 0 they
 0 look
 0 on
-0 thee,
+0 thee
 -
 0 And
 0 darkly
-0 bright,
+0 bright
 0 are
 0 bright
 0 in
 0 dark
-0 directed.
+0 directed
 0 %
 0 %
 -
@@ -6524,11 +6524,11 @@
 0 How
 0 would
 0 thy
-0 shadow's
-0 form,
+0 shadows
+0 form
 0 form
 0 happy
-0 show,
+0 show
 0 %
 0 %
 -
@@ -6540,7 +6540,7 @@
 0 thy
 0 much
 0 clearer
-0 light,
+0 light
 0 %
 -
 0 When
@@ -6550,19 +6550,19 @@
 0 thy
 0 shade
 0 shines
-0 so!
+0 so
 0 %
 0 %
 -
 0 How
 0 would
-0 (I
-0 say)
+0 I
+0 say
 0 mine
 0 eyes
 0 be
 0 blessed
-0 made,
+0 made
 0 %
 -
 0 By
@@ -6572,7 +6572,7 @@
 0 in
 0 the
 0 living
-0 day,
+0 day
 0 %
 0 %
 -
@@ -6583,7 +6583,7 @@
 0 thy
 0 fair
 0 imperfect
-0 shade,
+0 shade
 0 %
 0 %
 -
@@ -6594,7 +6594,7 @@
 0 sightless
 0 eyes
 0 doth
-0 stay!
+0 stay
 0 %
 0 %
 -
@@ -6607,7 +6607,7 @@
 0 till
 0 I
 0 see
-0 thee,
+0 thee
 -
 0 And
 0 nights
@@ -6618,7 +6618,7 @@
 0 do
 0 show
 0 thee
-0 me.
+0 me
 -
 0 If
 0 the
@@ -6628,7 +6628,7 @@
 0 my
 0 flesh
 0 were
-0 thought,
+0 thought
 0 %
 -
 0 Injurious
@@ -6637,7 +6637,7 @@
 0 not
 0 stop
 0 my
-0 way,
+0 way
 0 %
 0 %
 0 %
@@ -6650,17 +6650,17 @@
 0 I
 0 would
 0 be
-0 brought,
+0 brought
 0 %
 -
 0 From
 0 limits
 0 far
-0 remote,
+0 remote
 0 where
 0 thou
 0 dost
-0 stay,
+0 stay
 0 %
 0 %
 -
@@ -6681,7 +6681,7 @@
 0 earth
 0 removed
 0 from
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -6694,7 +6694,7 @@
 0 both
 0 sea
 0 and
-0 land,
+0 land
 0 %
 -
 0 As
@@ -6706,10 +6706,10 @@
 0 where
 0 he
 0 would
-0 be.
+0 be
 -
 0 But
-0 ah,
+0 ah
 0 thought
 0 kills
 0 me
@@ -6728,7 +6728,7 @@
 0 when
 0 thou
 0 art
-0 gone,
+0 gone
 -
 0 But
 0 that
@@ -6738,17 +6738,17 @@
 0 earth
 0 and
 0 water
-0 wrought,
+0 wrought
 0 %
 -
 0 I
 0 must
-0 attend,
-0 time's
+0 attend
+0 times
 0 leisure
 0 with
 0 my
-0 moan.
+0 moan
 0 %
 0 %
 -
@@ -6757,7 +6757,7 @@
 0 by
 0 elements
 0 so
-0 slow,
+0 slow
 0 %
 0 %
 0 %
@@ -6765,33 +6765,33 @@
 -
 0 But
 0 heavy
-0 tears,
+0 tears
 0 badges
 0 of
-0 either's
-0 woe.
+0 eithers
+0 woe
 0 %
 0 %
 0 %
 -
 0 The
 0 other
-0 two,
+0 two
 0 slight
-0 air,
+0 air
 0 and
 0 purging
-0 fire,
+0 fire
 0 %
 0 %
 -
 0 Are
 0 both
 0 with
-0 thee,
+0 thee
 0 wherever
 0 I
-0 abide,
+0 abide
 0 %
 0 %
 0 %
@@ -6799,20 +6799,20 @@
 0 The
 0 first
 0 my
-0 thought,
+0 thought
 0 the
 0 other
 0 my
-0 desire,
+0 desire
 0 %
 0 %
 -
 0 These
-0 present-absent
+0 presentabsent
 0 with
 0 swift
 0 motion
-0 slide.
+0 slide
 0 %
 0 %
 0 %
@@ -6835,7 +6835,7 @@
 0 of
 0 love
 0 to
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -6845,28 +6845,28 @@
 0 being
 0 made
 0 of
-0 four,
+0 four
 0 with
 0 two
-0 alone,
+0 alone
 0 %
 -
 0 Sinks
 0 down
 0 to
-0 death,
+0 death
 0 oppressed
 0 with
-0 melancholy.
+0 melancholy
 0 %
 0 %
 0 %
 -
 0 Until
-0 life's
+0 lifes
 0 composition
 0 be
-0 recured,
+0 recured
 0 %
 0 %
 0 %
@@ -6879,7 +6879,7 @@
 0 messengers
 0 returned
 0 from
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -6891,30 +6891,30 @@
 0 come
 0 back
 0 again
-0 assured,
+0 assured
 0 %
 0 %
 -
 0 Of
 0 thy
 0 fair
-0 health,
+0 health
 0 recounting
 0 it
 0 to
-0 me.
+0 me
 0 %
 0 %
 -
 0 This
-0 told,
+0 told
 0 I
-0 joy,
+0 joy
 0 but
 0 then
 0 no
 0 longer
-0 glad,
+0 glad
 0 %
 -
 0 I
@@ -6925,7 +6925,7 @@
 0 and
 0 straight
 0 grow
-0 sad.
+0 sad
 0 %
 -
 0 Mine
@@ -6936,7 +6936,7 @@
 0 at
 0 a
 0 mortal
-0 war,
+0 war
 0 %
 -
 0 How
@@ -6946,30 +6946,30 @@
 0 conquest
 0 of
 0 thy
-0 sight,
+0 sight
 0 %
 0 %
 -
 0 Mine
-0 eye,
+0 eye
 0 my
 0 heart
 0 thy
-0 picture's
+0 pictures
 0 sight
 0 would
-0 bar,
+0 bar
 0 %
 -
 0 My
-0 heart,
+0 heart
 0 mine
 0 eye
 0 the
 0 freedom
 0 of
 0 that
-0 right,
+0 right
 0 %
 -
 0 My
@@ -6981,15 +6981,15 @@
 0 in
 0 him
 0 dost
-0 lie,
+0 lie
 -
-0 (A
+0 A
 0 closet
 0 never
 0 pierced
 0 with
 0 crystal
-0 eyes)
+0 eyes
 0 %
 0 %
 0 %
@@ -7000,7 +7000,7 @@
 0 doth
 0 that
 0 plea
-0 deny,
+0 deny
 0 %
 0 %
 0 %
@@ -7012,7 +7012,7 @@
 0 thy
 0 fair
 0 appearance
-0 lies.
+0 lies
 0 %
 0 %
 -
@@ -7030,12 +7030,12 @@
 0 A
 0 quest
 0 of
-0 thoughts,
+0 thoughts
 0 all
 0 tenants
 0 to
 0 the
-0 heart,
+0 heart
 0 %
 -
 0 And
@@ -7051,35 +7051,35 @@
 -
 0 The
 0 clear
-0 eye's
-0 moiety,
+0 eyes
+0 moiety
 0 and
 0 the
 0 dear
-0 heart's
-0 part.
+0 hearts
+0 part
 0 %
 -
 0 As
-0 thus,
+0 thus
 0 mine
-0 eye's
+0 eyes
 0 due
 0 is
 0 thy
 0 outward
-0 part,
+0 part
 0 %
 -
 0 And
 0 my
-0 heart's
-0 right,
+0 hearts
+0 right
 0 thy
 0 inward
 0 love
 0 of
-0 heart.
+0 heart
 0 %
 -
 0 Betwixt
@@ -7090,7 +7090,7 @@
 0 a
 0 league
 0 is
-0 took,
+0 took
 0 %
 -
 0 And
@@ -7101,7 +7101,7 @@
 0 now
 0 unto
 0 the
-0 other,
+0 other
 0 %
 -
 0 When
@@ -7112,7 +7112,7 @@
 0 famished
 0 for
 0 a
-0 look,
+0 look
 0 %
 -
 0 Or
@@ -7123,18 +7123,18 @@
 0 sighs
 0 himself
 0 doth
-0 smother;
+0 smother
 0 %
 -
 0 With
 0 my
-0 love's
+0 loves
 0 picture
 0 then
 0 my
 0 eye
 0 doth
-0 feast,
+0 feast
 0 %
 -
 0 And
@@ -7144,7 +7144,7 @@
 0 banquet
 0 bids
 0 my
-0 heart:
+0 heart
 0 %
 0 %
 -
@@ -7154,8 +7154,8 @@
 0 eye
 0 is
 0 my
-0 heart's
-0 guest,
+0 hearts
+0 guest
 0 %
 0 %
 -
@@ -7168,7 +7168,7 @@
 0 doth
 0 share
 0 a
-0 part.
+0 part
 -
 0 So
 0 either
@@ -7177,18 +7177,18 @@
 0 picture
 0 or
 0 my
-0 love,
+0 love
 0 %
 0 %
 -
 0 Thy
 0 self
-0 away,
+0 away
 0 art
 0 present
 0 still
 0 with
-0 me,
+0 me
 0 %
 0 %
 -
@@ -7200,7 +7200,7 @@
 0 my
 0 thoughts
 0 canst
-0 move,
+0 move
 0 %
 -
 0 And
@@ -7208,16 +7208,16 @@
 0 am
 0 still
 0 with
-0 them,
+0 them
 0 and
 0 they
 0 with
-0 thee.
+0 thee
 -
 0 Or
 0 if
 0 they
-0 sleep,
+0 sleep
 0 thy
 0 picture
 0 in
@@ -7227,12 +7227,12 @@
 -
 0 Awakes
 0 my
-0 heart,
+0 heart
 0 to
-0 heart's
+0 hearts
 0 and
-0 eye's
-0 delight.
+0 eyes
+0 delight
 0 %
 0 %
 -
@@ -7244,7 +7244,7 @@
 0 I
 0 took
 0 my
-0 way,
+0 way
 0 %
 -
 0 Each
@@ -7253,7 +7253,7 @@
 0 truest
 0 bars
 0 to
-0 thrust,
+0 thrust
 0 %
 0 %
 0 %
@@ -7272,32 +7272,32 @@
 0 From
 0 hands
 0 of
-0 falsehood,
+0 falsehood
 0 in
 0 sure
 0 wards
 0 of
-0 trust!
+0 trust
 0 %
 -
 0 But
-0 thou,
+0 thou
 0 to
 0 whom
 0 my
 0 jewels
 0 trifles
-0 are,
+0 are
 0 %
 0 %
 -
 0 Most
 0 worthy
-0 comfort,
+0 comfort
 0 now
 0 my
 0 greatest
-0 grief,
+0 grief
 0 %
 0 %
 0 %
@@ -7305,11 +7305,11 @@
 0 Thou
 0 best
 0 of
-0 dearest,
+0 dearest
 0 and
 0 mine
 0 only
-0 care,
+0 care
 0 %
 0 %
 -
@@ -7320,7 +7320,7 @@
 0 of
 0 every
 0 vulgar
-0 thief.
+0 thief
 0 %
 0 %
 -
@@ -7332,19 +7332,19 @@
 0 up
 0 in
 0 any
-0 chest,
+0 chest
 0 %
 -
 0 Save
 0 where
 0 thou
 0 art
-0 not,
+0 not
 0 though
 0 I
 0 feel
 0 thou
-0 art,
+0 art
 -
 0 Within
 0 the
@@ -7352,7 +7352,7 @@
 0 closure
 0 of
 0 my
-0 breast,
+0 breast
 0 %
 0 %
 0 %
@@ -7365,7 +7365,7 @@
 0 mayst
 0 come
 0 and
-0 part,
+0 part
 0 %
 -
 0 And
@@ -7374,9 +7374,9 @@
 0 thou
 0 wilt
 0 be
-0 stol'n
+0 stoln
 0 I
-0 fear,
+0 fear
 0 %
 -
 0 For
@@ -7387,17 +7387,17 @@
 0 a
 0 prize
 0 so
-0 dear.
+0 dear
 0 %
 -
 0 Against
 0 that
 0 time
-0 (if
+0 if
 0 ever
 0 that
 0 time
-0 come)
+0 come
 0 %
 0 %
 -
@@ -7409,7 +7409,7 @@
 0 frown
 0 on
 0 my
-0 defects,
+0 defects
 0 %
 -
 0 When
@@ -7420,7 +7420,7 @@
 0 cast
 0 his
 0 utmost
-0 sum,
+0 sum
 0 %
 -
 0 Called
@@ -7429,7 +7429,7 @@
 0 audit
 0 by
 0 advised
-0 respects,
+0 respects
 0 %
 0 %
 0 %
@@ -7441,7 +7441,7 @@
 0 thou
 0 shalt
 0 strangely
-0 pass,
+0 pass
 0 %
 0 %
 -
@@ -7453,7 +7453,7 @@
 0 that
 0 sun
 0 thine
-0 eye,
+0 eye
 0 %
 -
 0 When
@@ -7472,7 +7472,7 @@
 0 find
 0 of
 0 settled
-0 gravity;
+0 gravity
 0 %
 0 %
 0 %
@@ -7495,7 +7495,7 @@
 0 of
 0 mine
 0 own
-0 desert,
+0 desert
 0 %
 0 %
 0 %
@@ -7503,11 +7503,11 @@
 0 And
 0 this
 0 my
-0 hand,
+0 hand
 0 against
 0 my
 0 self
-0 uprear,
+0 uprear
 0 %
 0 %
 -
@@ -7518,30 +7518,30 @@
 0 reasons
 0 on
 0 thy
-0 part,
+0 part
 0 %
 0 %
 -
 0 To
 0 leave
 0 poor
-0 me,
+0 me
 0 thou
 0 hast
 0 the
 0 strength
 0 of
-0 laws,
+0 laws
 -
 0 Since
 0 why
 0 to
-0 love,
+0 love
 0 I
 0 can
 0 allege
 0 no
-0 cause.
+0 cause
 0 %
 -
 0 How
@@ -7551,7 +7551,7 @@
 0 journey
 0 on
 0 the
-0 way,
+0 way
 0 %
 0 %
 -
@@ -7559,10 +7559,10 @@
 0 what
 0 I
 0 seek
-0 (my
+0 my
 0 weary
-0 travel's
-0 end)
+0 travels
+0 end
 0 %
 0 %
 -
@@ -7577,7 +7577,7 @@
 0 say
 0 %
 -
-0 'Thus
+0 Thus
 0 far
 0 the
 0 miles
@@ -7585,29 +7585,29 @@
 0 measured
 0 from
 0 thy
-0 friend.'
+0 friend
 0 %
 -
 0 The
 0 beast
 0 that
 0 bears
-0 me,
+0 me
 0 tired
 0 with
 0 my
-0 woe,
+0 woe
 0 %
 -
 0 Plods
 0 dully
-0 on,
+0 on
 0 to
 0 bear
 0 that
 0 weight
 0 in
-0 me,
+0 me
 0 %
 -
 0 As
@@ -7629,7 +7629,7 @@
 0 being
 0 made
 0 from
-0 thee:
+0 thee
 0 %
 -
 0 The
@@ -7638,7 +7638,7 @@
 0 cannot
 0 provoke
 0 him
-0 on,
+0 on
 0 %
 0 %
 0 %
@@ -7649,7 +7649,7 @@
 0 thrusts
 0 into
 0 his
-0 hide,
+0 hide
 0 %
 0 %
 0 %
@@ -7660,7 +7660,7 @@
 0 answers
 0 with
 0 a
-0 groan,
+0 groan
 0 %
 0 %
 0 %
@@ -7673,7 +7673,7 @@
 0 spurring
 0 to
 0 his
-0 side,
+0 side
 0 %
 -
 0 For
@@ -7685,7 +7685,7 @@
 0 this
 0 in
 0 my
-0 mind,
+0 mind
 -
 0 My
 0 grief
@@ -7694,7 +7694,7 @@
 0 and
 0 my
 0 joy
-0 behind.
+0 behind
 0 %
 0 %
 -
@@ -7705,31 +7705,31 @@
 0 excuse
 0 the
 0 slow
-0 offence,
+0 offence
 0 %
 0 %
 -
 0 Of
 0 my
 0 dull
-0 bearer,
+0 bearer
 0 when
 0 from
 0 thee
 0 I
-0 speed,
+0 speed
 0 %
 -
 0 From
 0 where
 0 thou
-0 art,
+0 art
 0 why
 0 should
 0 I
 0 haste
 0 me
-0 thence?
+0 thence
 -
 0 Till
 0 I
@@ -7738,7 +7738,7 @@
 0 posting
 0 is
 0 no
-0 need.
+0 need
 0 %
 0 %
 -
@@ -7750,7 +7750,7 @@
 0 poor
 0 beast
 0 then
-0 find,
+0 find
 0 %
 -
 0 When
@@ -7759,7 +7759,7 @@
 0 can
 0 seem
 0 but
-0 slow?
+0 slow
 0 %
 0 %
 0 %
@@ -7772,7 +7772,7 @@
 0 mounted
 0 on
 0 the
-0 wind,
+0 wind
 0 %
 -
 0 In
@@ -7782,7 +7782,7 @@
 0 motion
 0 shall
 0 I
-0 know,
+0 know
 0 %
 0 %
 -
@@ -7794,63 +7794,63 @@
 0 my
 0 desire
 0 keep
-0 pace,
+0 pace
 0 %
 -
 0 Therefore
 0 desire
-0 (of
-0 perfect'st
+0 of
+0 perfectst
 0 love
 0 being
-0 made)
+0 made
 0 %
 0 %
 0 %
 -
 0 Shall
 0 neigh
-0 (no
+0 no
 0 dull
-0 flesh)
+0 flesh
 0 in
 0 his
 0 fiery
-0 race,
+0 race
 0 %
 -
 0 But
-0 love,
+0 love
 0 for
-0 love,
+0 love
 0 thus
 0 shall
 0 excuse
 0 my
-0 jade,
+0 jade
 0 %
 -
 0 Since
 0 from
 0 thee
-0 going,
+0 going
 0 he
 0 went
-0 wilful-slow,
+0 wilfulslow
 0 %
 0 %
 0 %
 -
 0 Towards
 0 thee
-0 I'll
-0 run,
+0 Ill
+0 run
 0 and
 0 give
 0 him
 0 leave
 0 to
-0 go.
+0 go
 -
 0 So
 0 am
@@ -7860,7 +7860,7 @@
 0 rich
 0 whose
 0 blessed
-0 key,
+0 key
 0 %
 -
 0 Can
@@ -7869,8 +7869,8 @@
 0 to
 0 his
 0 sweet
-0 up-locked
-0 treasure,
+0 uplocked
+0 treasure
 0 %
 0 %
 -
@@ -7881,7 +7881,7 @@
 0 not
 0 every
 0 hour
-0 survey,
+0 survey
 0 %
 0 %
 -
@@ -7892,7 +7892,7 @@
 0 point
 0 of
 0 seldom
-0 pleasure.
+0 pleasure
 0 %
 0 %
 -
@@ -7903,7 +7903,7 @@
 0 solemn
 0 and
 0 so
-0 rare,
+0 rare
 0 %
 0 %
 -
@@ -7914,7 +7914,7 @@
 0 that
 0 long
 0 year
-0 set,
+0 set
 0 %
 0 %
 -
@@ -7925,7 +7925,7 @@
 0 they
 0 thinly
 0 placed
-0 are,
+0 are
 0 %
 0 %
 -
@@ -7934,7 +7934,7 @@
 0 jewels
 0 in
 0 the
-0 carcanet.
+0 carcanet
 0 %
 0 %
 0 %
@@ -7959,7 +7959,7 @@
 0 the
 0 robe
 0 doth
-0 hide,
+0 hide
 0 %
 -
 0 To
@@ -7967,7 +7967,7 @@
 0 some
 0 special
 0 instant
-0 special-blest,
+0 specialblest
 0 %
 0 %
 0 %
@@ -7978,7 +7978,7 @@
 0 unfolding
 0 his
 0 imprisoned
-0 pride.
+0 pride
 0 %
 0 %
 0 %
@@ -7990,7 +7990,7 @@
 0 whose
 0 worthiness
 0 gives
-0 scope,
+0 scope
 0 %
 0 %
 0 %
@@ -7998,22 +7998,22 @@
 0 Being
 0 had
 0 to
-0 triumph,
+0 triumph
 0 being
 0 lacked
 0 to
-0 hope.
+0 hope
 0 %
 0 %
 -
 0 What
 0 is
 0 your
-0 substance,
+0 substance
 0 whereof
 0 are
 0 you
-0 made,
+0 made
 0 %
 0 %
 -
@@ -8024,29 +8024,29 @@
 0 shadows
 0 on
 0 you
-0 tend?
+0 tend
 0 %
 0 %
 -
 0 Since
 0 every
-0 one,
+0 one
 0 hath
 0 every
-0 one,
 0 one
-0 shade,
+0 one
+0 shade
 0 %
 0 %
 -
 0 And
 0 you
 0 but
-0 one,
+0 one
 0 can
 0 every
 0 shadow
-0 lend:
+0 lend
 0 %
 0 %
 -
@@ -8054,7 +8054,7 @@
 0 Adonis
 0 and
 0 the
-0 counterfeit,
+0 counterfeit
 0 %
 0 %
 0 %
@@ -8065,7 +8065,7 @@
 0 poorly
 0 imitated
 0 after
-0 you,
+0 you
 0 %
 0 %
 0 %
@@ -8073,13 +8073,13 @@
 0 %
 -
 0 On
-0 Helen's
+0 Helens
 0 cheek
 0 all
 0 art
 0 of
 0 beauty
-0 set,
+0 set
 0 %
 0 %
 -
@@ -8090,19 +8090,19 @@
 0 tires
 0 are
 0 painted
-0 new:
+0 new
 0 %
 0 %
 -
 0 Speak
 0 of
 0 the
-0 spring,
+0 spring
 0 and
 0 foison
 0 of
 0 the
-0 year,
+0 year
 0 %
 -
 0 The
@@ -8112,7 +8112,7 @@
 0 of
 0 your
 0 beauty
-0 show,
+0 show
 0 %
 0 %
 -
@@ -8122,7 +8122,7 @@
 0 your
 0 bounty
 0 doth
-0 appear,
+0 appear
 0 %
 0 %
 0 %
@@ -8134,7 +8134,7 @@
 0 blessed
 0 shape
 0 we
-0 know.
+0 know
 0 %
 0 %
 -
@@ -8145,19 +8145,19 @@
 0 you
 0 have
 0 some
-0 part,
+0 part
 0 %
 0 %
 -
 0 But
 0 you
 0 like
-0 none,
+0 none
 0 none
 0 you
 0 for
 0 constant
-0 heart.
+0 heart
 0 %
 -
 0 O
@@ -8167,7 +8167,7 @@
 0 doth
 0 beauty
 0 beauteous
-0 seem,
+0 seem
 0 %
 0 %
 -
@@ -8178,14 +8178,14 @@
 0 which
 0 truth
 0 doth
-0 give!
+0 give
 0 %
 0 %
 -
 0 The
 0 rose
 0 looks
-0 fair,
+0 fair
 0 but
 0 fairer
 0 we
@@ -8196,12 +8196,12 @@
 0 For
 0 that
 0 sweet
-0 odour,
+0 odour
 0 which
 0 doth
 0 in
 0 it
-0 live:
+0 live
 0 %
 -
 0 The
@@ -8212,7 +8212,7 @@
 0 as
 0 deep
 0 a
-0 dye,
+0 dye
 0 %
 -
 0 As
@@ -8221,7 +8221,7 @@
 0 tincture
 0 of
 0 the
-0 roses,
+0 roses
 0 %
 0 %
 0 %
@@ -8229,21 +8229,21 @@
 0 Hang
 0 on
 0 such
-0 thorns,
+0 thorns
 0 and
 0 play
 0 as
-0 wantonly,
+0 wantonly
 0 %
 0 %
 -
 0 When
-0 summer's
+0 summers
 0 breath
 0 their
 0 masked
 0 buds
-0 discloses:
+0 discloses
 0 %
 0 %
 0 %
@@ -8255,16 +8255,16 @@
 0 only
 0 is
 0 their
-0 show,
+0 show
 0 %
 0 %
 -
 0 They
 0 live
-0 unwooed,
+0 unwooed
 0 and
 0 unrespected
-0 fade,
+0 fade
 0 %
 0 %
 0 %
@@ -8272,50 +8272,50 @@
 -
 0 Die
 0 to
-0 themselves.
+0 themselves
 0 Sweet
 0 roses
 0 do
 0 not
-0 so,
+0 so
 0 %
 0 %
 -
 0 Of
 0 their
 0 sweet
-0 deaths,
+0 deaths
 0 are
 0 sweetest
 0 odours
-0 made:
+0 made
 0 %
 0 %
 -
 0 And
 0 so
 0 of
-0 you,
+0 you
 0 beauteous
 0 and
 0 lovely
-0 youth,
+0 youth
 0 %
 0 %
 -
 0 When
 0 that
 0 shall
-0 fade,
+0 fade
 0 my
 0 verse
 0 distills
 0 your
-0 truth.
+0 truth
 0 %
 -
 0 Not
-0 marble,
+0 marble
 0 nor
 0 the
 0 gilded
@@ -8331,7 +8331,7 @@
 0 outlive
 0 this
 0 powerful
-0 rhyme,
+0 rhyme
 0 %
 0 %
 0 %
@@ -8349,11 +8349,11 @@
 -
 0 Than
 0 unswept
-0 stone,
+0 stone
 0 besmeared
 0 with
 0 sluttish
-0 time.
+0 time
 0 %
 0 %
 0 %
@@ -8363,7 +8363,7 @@
 0 war
 0 shall
 0 statues
-0 overturn,
+0 overturn
 0 %
 0 %
 0 %
@@ -8376,36 +8376,36 @@
 0 the
 0 work
 0 of
-0 masonry,
+0 masonry
 0 %
 0 %
 -
 0 Nor
 0 Mars
 0 his
-0 sword,
+0 sword
 0 nor
-0 war's
+0 wars
 0 quick
 0 fire
 0 shall
-0 burn:
+0 burn
 -
 0 The
 0 living
 0 record
 0 of
 0 your
-0 memory.
+0 memory
 0 %
 0 %
 0 %
 0 %
 -
-0 'Gainst
-0 death,
+0 Gainst
+0 death
 0 and
-0 all-oblivious
+0 alloblivious
 0 enmity
 0 %
 0 %
@@ -8416,13 +8416,13 @@
 0 Shall
 0 you
 0 pace
-0 forth,
+0 forth
 0 your
 0 praise
 0 shall
 0 still
 0 find
-0 room,
+0 room
 -
 0 Even
 0 in
@@ -8443,7 +8443,7 @@
 0 to
 0 the
 0 ending
-0 doom.
+0 doom
 0 %
 -
 0 So
@@ -8453,26 +8453,26 @@
 0 that
 0 your
 0 self
-0 arise,
+0 arise
 0 %
 0 %
 -
 0 You
 0 live
 0 in
-0 this,
+0 this
 0 and
 0 dwell
 0 in
-0 lovers'
-0 eyes.
+0 lovers
+0 eyes
 0 %
 -
 0 Sweet
 0 love
 0 renew
 0 thy
-0 force,
+0 force
 0 be
 0 it
 0 not
@@ -8485,28 +8485,28 @@
 0 blunter
 0 be
 0 than
-0 appetite,
+0 appetite
 0 %
 0 %
 0 %
 -
 0 Which
 0 but
-0 to-day
+0 today
 0 by
 0 feeding
 0 is
-0 allayed,
+0 allayed
 0 %
 0 %
 0 %
 -
-0 To-morrow
+0 Tomorrow
 0 sharpened
 0 in
 0 his
 0 former
-0 might.
+0 might
 0 %
 0 %
 0 %
@@ -8515,9 +8515,9 @@
 0 So
 0 love
 0 be
-0 thou,
+0 thou
 0 although
-0 to-day
+0 today
 0 thou
 0 fill
 0 %
@@ -8525,18 +8525,18 @@
 -
 0 Thy
 0 hungry
-0 eyes,
+0 eyes
 0 even
 0 till
 0 they
 0 wink
 0 with
-0 fulness,
+0 fulness
 0 %
 -
-0 To-morrow
+0 Tomorrow
 0 see
-0 again,
+0 again
 0 and
 0 do
 0 not
@@ -8548,11 +8548,11 @@
 0 The
 0 spirit
 0 of
-0 love,
+0 love
 0 with
 0 a
 0 perpetual
-0 dulness:
+0 dulness
 0 %
 0 %
 -
@@ -8570,11 +8570,11 @@
 0 Which
 0 parts
 0 the
-0 shore,
+0 shore
 0 where
 0 two
 0 contracted
-0 new,
+0 new
 0 %
 0 %
 -
@@ -8582,43 +8582,43 @@
 0 daily
 0 to
 0 the
-0 banks,
+0 banks
 0 that
 0 when
 0 they
-0 see:
+0 see
 0 %
 -
 0 Return
 0 of
-0 love,
+0 love
 0 more
 0 blest
 0 may
 0 be
 0 the
-0 view.
+0 view
 0 %
 -
 0 Or
 0 call
 0 it
-0 winter,
+0 winter
 0 which
 0 being
 0 full
 0 of
-0 care,
+0 care
 0 %
 -
 0 Makes
-0 summer's
-0 welcome,
+0 summers
+0 welcome
 0 thrice
 0 more
-0 wished,
+0 wished
 0 more
-0 rare.
+0 rare
 0 %
 0 %
 -
@@ -8630,17 +8630,17 @@
 0 I
 0 do
 0 but
-0 tend,
+0 tend
 0 %
 -
 0 Upon
 0 the
-0 hours,
+0 hours
 0 and
 0 times
 0 of
 0 your
-0 desire?
+0 desire
 0 %
 0 %
 -
@@ -8652,7 +8652,7 @@
 0 at
 0 all
 0 to
-0 spend;
+0 spend
 0 %
 -
 0 Nor
@@ -8661,7 +8661,7 @@
 0 do
 0 till
 0 you
-0 require.
+0 require
 0 %
 0 %
 0 %
@@ -8671,21 +8671,21 @@
 0 I
 0 chide
 0 the
-0 world-without-end
-0 hour,
+0 worldwithoutend
+0 hour
 0 %
 0 %
 0 %
 -
 0 Whilst
 0 I
-0 (my
-0 sovereign)
+0 my
+0 sovereign
 0 watch
 0 the
 0 clock
 0 for
-0 you,
+0 you
 0 %
 -
 0 Nor
@@ -8694,7 +8694,7 @@
 0 bitterness
 0 of
 0 absence
-0 sour,
+0 sour
 0 %
 0 %
 0 %
@@ -8706,7 +8706,7 @@
 0 your
 0 servant
 0 once
-0 adieu.
+0 adieu
 0 %
 0 %
 -
@@ -8717,18 +8717,18 @@
 0 with
 0 my
 0 jealous
-0 thought,
+0 thought
 0 %
 0 %
 -
 0 Where
 0 you
 0 may
-0 be,
+0 be
 0 or
 0 your
 0 affairs
-0 suppose,
+0 suppose
 0 %
 0 %
 -
@@ -8746,12 +8746,12 @@
 0 Save
 0 where
 0 you
-0 are,
+0 are
 0 how
 0 happy
 0 you
 0 make
-0 those.
+0 those
 0 %
 -
 0 So
@@ -8759,32 +8759,32 @@
 0 a
 0 fool
 0 is
-0 love,
+0 love
 0 that
 0 in
 0 your
-0 will,
+0 will
 -
-0 (Though
+0 Though
 0 you
 0 do
 0 any
-0 thing)
+0 thing
 0 he
 0 thinks
 0 no
-0 ill.
+0 ill
 0 %
 -
 0 That
 0 god
-0 forbid,
+0 forbid
 0 that
 0 made
 0 me
 0 first
 0 your
-0 slave,
+0 slave
 0 %
 -
 0 I
@@ -8795,19 +8795,19 @@
 0 your
 0 times
 0 of
-0 pleasure,
+0 pleasure
 0 %
 -
 0 Or
 0 at
 0 your
 0 hand
-0 th'
+0 th
 0 account
 0 of
 0 hours
 0 to
-0 crave,
+0 crave
 -
 0 Being
 0 your
@@ -8816,7 +8816,7 @@
 0 to
 0 stay
 0 your
-0 leisure.
+0 leisure
 0 %
 0 %
 -
@@ -8824,19 +8824,19 @@
 0 let
 0 me
 0 suffer
-0 (being
+0 being
 0 at
 0 your
-0 beck)
+0 beck
 0 %
 0 %
 -
-0 Th'
+0 Th
 0 imprisoned
 0 absence
 0 of
 0 your
-0 liberty,
+0 liberty
 0 %
 0 %
 0 %
@@ -8849,7 +8849,7 @@
 0 sufferance
 0 bide
 0 each
-0 check,
+0 check
 0 %
 0 %
 -
@@ -8857,7 +8857,7 @@
 0 accusing
 0 you
 0 of
-0 injury.
+0 injury
 0 %
 0 %
 0 %
@@ -8867,12 +8867,12 @@
 0 Be
 0 where
 0 you
-0 list,
+0 list
 0 your
 0 charter
 0 is
 0 so
-0 strong,
+0 strong
 0 %
 -
 0 That
@@ -8889,12 +8889,12 @@
 0 To
 0 what
 0 you
-0 will,
+0 will
 0 to
 0 you
 0 it
 0 doth
-0 belong,
+0 belong
 0 %
 -
 0 Your
@@ -8902,8 +8902,8 @@
 0 to
 0 pardon
 0 of
-0 self-doing
-0 crime.
+0 selfdoing
+0 crime
 0 %
 0 %
 0 %
@@ -8911,12 +8911,12 @@
 0 I
 0 am
 0 to
-0 wait,
+0 wait
 0 though
 0 waiting
 0 so
 0 be
-0 hell,
+0 hell
 0 %
 -
 0 Not
@@ -8927,28 +8927,28 @@
 0 it
 0 ill
 0 or
-0 well.
+0 well
 0 %
 -
 0 If
 0 there
 0 be
 0 nothing
-0 new,
+0 new
 0 but
 0 that
 0 which
-0 is,
+0 is
 0 %
 -
 0 Hath
 0 been
-0 before,
+0 before
 0 how
 0 are
 0 our
 0 brains
-0 beguiled,
+0 beguiled
 0 %
 0 %
 -
@@ -8969,7 +8969,7 @@
 0 of
 0 a
 0 former
-0 child!
+0 child
 0 %
 0 %
 0 %
@@ -8981,7 +8981,7 @@
 0 with
 0 a
 0 backward
-0 look,
+0 look
 0 %
 0 %
 -
@@ -8992,7 +8992,7 @@
 0 courses
 0 of
 0 the
-0 sun,
+0 sun
 0 %
 0 %
 -
@@ -9003,7 +9003,7 @@
 0 in
 0 some
 0 antique
-0 book,
+0 book
 0 %
 0 %
 -
@@ -9014,7 +9014,7 @@
 0 in
 0 character
 0 was
-0 done.
+0 done
 0 %
 0 %
 -
@@ -9027,7 +9027,7 @@
 0 old
 0 world
 0 could
-0 say,
+0 say
 -
 0 To
 0 this
@@ -9035,7 +9035,7 @@
 0 wonder
 0 of
 0 your
-0 frame,
+0 frame
 0 %
 0 %
 0 %
@@ -9043,11 +9043,11 @@
 0 Whether
 0 we
 0 are
-0 mended,
+0 mended
 0 or
 0 whether
 0 better
-0 they,
+0 they
 0 %
 0 %
 -
@@ -9056,7 +9056,7 @@
 0 revolution
 0 be
 0 the
-0 same.
+0 same
 0 %
 0 %
 0 %
@@ -9070,7 +9070,7 @@
 0 wits
 0 of
 0 former
-0 days,
+0 days
 0 %
 -
 0 To
@@ -9079,7 +9079,7 @@
 0 have
 0 given
 0 admiring
-0 praise.
+0 praise
 0 %
 0 %
 0 %
@@ -9092,7 +9092,7 @@
 0 towards
 0 the
 0 pebbled
-0 shore,
+0 shore
 0 %
 -
 0 So
@@ -9102,7 +9102,7 @@
 0 hasten
 0 to
 0 their
-0 end,
+0 end
 0 %
 0 %
 -
@@ -9113,7 +9113,7 @@
 0 that
 0 which
 0 goes
-0 before,
+0 before
 0 %
 0 %
 -
@@ -9123,7 +9123,7 @@
 0 all
 0 forwards
 0 do
-0 contend.
+0 contend
 0 %
 0 %
 0 %
@@ -9134,17 +9134,17 @@
 0 the
 0 main
 0 of
-0 light,
+0 light
 0 %
 0 %
 0 %
 -
 0 Crawls
 0 to
-0 maturity,
+0 maturity
 0 wherewith
 0 being
-0 crowned,
+0 crowned
 0 %
 0 %
 0 %
@@ -9152,10 +9152,10 @@
 -
 0 Crooked
 0 eclipses
-0 'gainst
+0 gainst
 0 his
 0 glory
-0 fight,
+0 fight
 0 %
 0 %
 0 %
@@ -9164,12 +9164,12 @@
 0 And
 0 Time
 0 that
-0 gave,
+0 gave
 0 doth
 0 now
 0 his
 0 gift
-0 confound.
+0 confound
 0 %
 -
 0 Time
@@ -9179,7 +9179,7 @@
 0 flourish
 0 set
 0 on
-0 youth,
+0 youth
 0 %
 0 %
 -
@@ -9188,8 +9188,8 @@
 0 the
 0 parallels
 0 in
-0 beauty's
-0 brow,
+0 beautys
+0 brow
 0 %
 0 %
 0 %
@@ -9199,8 +9199,8 @@
 0 the
 0 rarities
 0 of
-0 nature's
-0 truth,
+0 natures
+0 truth
 0 %
 0 %
 0 %
@@ -9213,7 +9213,7 @@
 0 his
 0 scythe
 0 to
-0 mow.
+0 mow
 0 %
 -
 0 And
@@ -9221,7 +9221,7 @@
 0 to
 0 times
 0 in
-0 hope,
+0 hope
 0 my
 0 verse
 0 shall
@@ -9229,11 +9229,11 @@
 -
 0 Praising
 0 thy
-0 worth,
+0 worth
 0 despite
 0 his
 0 cruel
-0 hand.
+0 hand
 0 %
 0 %
 0 %
@@ -9241,7 +9241,7 @@
 0 Is
 0 it
 0 thy
-0 will,
+0 will
 0 thy
 0 image
 0 should
@@ -9255,7 +9255,7 @@
 0 to
 0 the
 0 weary
-0 night?
+0 night
 0 %
 0 %
 0 %
@@ -9267,7 +9267,7 @@
 0 slumbers
 0 should
 0 be
-0 broken,
+0 broken
 0 %
 0 %
 -
@@ -9279,7 +9279,7 @@
 0 do
 0 mock
 0 my
-0 sight?
+0 sight
 0 %
 -
 0 Is
@@ -9288,7 +9288,7 @@
 0 spirit
 0 that
 0 thou
-0 send'st
+0 sendst
 0 from
 0 thee
 0 %
@@ -9301,7 +9301,7 @@
 0 my
 0 deeds
 0 to
-0 pry,
+0 pry
 0 %
 -
 0 To
@@ -9312,7 +9312,7 @@
 0 idle
 0 hours
 0 in
-0 me,
+0 me
 0 %
 -
 0 The
@@ -9321,21 +9321,21 @@
 0 tenure
 0 of
 0 thy
-0 jealousy?
+0 jealousy
 0 %
 0 %
 0 %
 -
 0 O
-0 no,
+0 no
 0 thy
 0 love
 0 though
-0 much,
+0 much
 0 is
 0 not
 0 so
-0 great,
+0 great
 -
 0 It
 0 is
@@ -9345,7 +9345,7 @@
 0 keeps
 0 mine
 0 eye
-0 awake,
+0 awake
 0 %
 -
 0 Mine
@@ -9356,7 +9356,7 @@
 0 doth
 0 my
 0 rest
-0 defeat,
+0 defeat
 0 %
 -
 0 To
@@ -9366,39 +9366,39 @@
 0 ever
 0 for
 0 thy
-0 sake.
+0 sake
 0 %
 0 %
 -
 0 For
 0 thee
 0 watch
-0 I,
+0 I
 0 whilst
 0 thou
 0 dost
 0 wake
-0 elsewhere,
+0 elsewhere
 0 %
 -
 0 From
 0 me
 0 far
-0 off,
+0 off
 0 with
 0 others
 0 all
 0 too
-0 near.
+0 near
 0 %
 -
 0 Sin
 0 of
-0 self-love
+0 selflove
 0 possesseth
 0 all
 0 mine
-0 eye,
+0 eye
 0 %
 0 %
 0 %
@@ -9406,12 +9406,12 @@
 0 And
 0 all
 0 my
-0 soul,
+0 soul
 0 and
 0 all
 0 my
 0 every
-0 part;
+0 part
 0 %
 -
 0 And
@@ -9421,7 +9421,7 @@
 0 there
 0 is
 0 no
-0 remedy,
+0 remedy
 0 %
 0 %
 -
@@ -9432,7 +9432,7 @@
 0 inward
 0 in
 0 my
-0 heart.
+0 heart
 0 %
 0 %
 -
@@ -9443,19 +9443,19 @@
 0 gracious
 0 is
 0 as
-0 mine,
+0 mine
 0 %
 0 %
 -
 0 No
 0 shape
 0 so
-0 true,
+0 true
 0 no
 0 truth
 0 of
 0 such
-0 account,
+0 account
 0 %
 -
 0 And
@@ -9466,7 +9466,7 @@
 0 own
 0 worth
 0 do
-0 define,
+0 define
 0 %
 -
 0 As
@@ -9476,7 +9476,7 @@
 0 in
 0 all
 0 worths
-0 surmount.
+0 surmount
 0 %
 0 %
 -
@@ -9496,7 +9496,7 @@
 0 chopt
 0 with
 0 tanned
-0 antiquity,
+0 antiquity
 0 %
 0 %
 0 %
@@ -9504,36 +9504,36 @@
 -
 0 Mine
 0 own
-0 self-love
+0 selflove
 0 quite
 0 contrary
 0 I
-0 read:
+0 read
 0 %
 0 %
 0 %
 -
-0 Self,
+0 Self
 0 so
-0 self-loving
+0 selfloving
 0 were
-0 iniquity.
+0 iniquity
 0 %
 0 %
 0 %
 0 %
 0 %
 -
-0 'Tis
+0 Tis
 0 thee
-0 (my
-0 self)
+0 my
+0 self
 0 that
 0 for
 0 my
 0 self
 0 I
-0 praise,
+0 praise
 -
 0 Painting
 0 my
@@ -9542,7 +9542,7 @@
 0 beauty
 0 of
 0 thy
-0 days.
+0 days
 0 %
 0 %
 -
@@ -9558,12 +9558,12 @@
 0 %
 -
 0 With
-0 Time's
+0 Times
 0 injurious
 0 hand
 0 crushed
 0 and
-0 o'erworn,
+0 oerworn
 0 %
 0 %
 0 %
@@ -9582,7 +9582,7 @@
 0 With
 0 lines
 0 and
-0 wrinkles,
+0 wrinkles
 0 when
 0 his
 0 youthful
@@ -9594,9 +9594,9 @@
 0 travelled
 0 on
 0 to
-0 age's
+0 ages
 0 steepy
-0 night,
+0 night
 0 %
 0 %
 0 %
@@ -9607,18 +9607,18 @@
 0 beauties
 0 whereof
 0 now
-0 he's
+0 hes
 0 king
 0 %
 0 %
 -
 0 Are
-0 vanishing,
+0 vanishing
 0 or
 0 vanished
 0 out
 0 of
-0 sight,
+0 sight
 0 %
 0 %
 0 %
@@ -9629,7 +9629,7 @@
 0 treasure
 0 of
 0 his
-0 spring:
+0 spring
 0 %
 0 %
 0 %
@@ -9647,9 +9647,9 @@
 -
 0 Against
 0 confounding
-0 age's
+0 ages
 0 cruel
-0 knife,
+0 knife
 0 %
 0 %
 0 %
@@ -9669,12 +9669,12 @@
 -
 0 My
 0 sweet
-0 love's
-0 beauty,
+0 loves
+0 beauty
 0 though
 0 my
-0 lover's
-0 life.
+0 lovers
+0 life
 0 %
 0 %
 -
@@ -9686,38 +9686,38 @@
 0 black
 0 lines
 0 be
-0 seen,
+0 seen
 0 %
 -
 0 And
 0 they
 0 shall
-0 live,
+0 live
 0 and
 0 he
 0 in
 0 them
 0 still
-0 green.
+0 green
 -
 0 When
 0 I
 0 have
 0 seen
 0 by
-0 Time's
+0 Times
 0 fell
 0 hand
 0 defaced
 0 %
 -
 0 The
-0 rich-proud
+0 richproud
 0 cost
 0 of
 0 outworn
 0 buried
-0 age,
+0 age
 0 %
 0 %
 0 %
@@ -9728,7 +9728,7 @@
 0 towers
 0 I
 0 see
-0 down-rased,
+0 downrased
 0 %
 0 %
 0 %
@@ -9739,7 +9739,7 @@
 0 slave
 0 to
 0 mortal
-0 rage.
+0 rage
 0 %
 0 %
 0 %
@@ -9761,7 +9761,7 @@
 0 kingdom
 0 of
 0 the
-0 shore,
+0 shore
 0 %
 0 %
 0 %
@@ -9774,17 +9774,17 @@
 0 of
 0 the
 0 watery
-0 main,
+0 main
 0 %
 -
 0 Increasing
 0 store
 0 with
-0 loss,
+0 loss
 0 and
 0 loss
 0 with
-0 store.
+0 store
 0 %
 0 %
 -
@@ -9795,7 +9795,7 @@
 0 such
 0 interchange
 0 of
-0 State,
+0 State
 0 %
 0 %
 -
@@ -9803,9 +9803,9 @@
 0 state
 0 it
 0 self
-0 confounded,
+0 confounded
 0 to
-0 decay,
+0 decay
 0 %
 0 %
 0 %
@@ -9829,7 +9829,7 @@
 0 take
 0 my
 0 love
-0 away.
+0 away
 0 %
 -
 0 This
@@ -9846,31 +9846,31 @@
 0 But
 0 weep
 0 to
-0 have,
+0 have
 0 that
 0 which
 0 it
 0 fears
 0 to
-0 lose.
+0 lose
 -
 0 Since
-0 brass,
+0 brass
 0 nor
-0 stone,
+0 stone
 0 nor
-0 earth,
+0 earth
 0 nor
 0 boundless
-0 sea,
+0 sea
 0 %
 -
 0 But
 0 sad
 0 mortality
-0 o'ersways
+0 oersways
 0 their
-0 power,
+0 power
 0 %
 0 %
 0 %
@@ -9884,7 +9884,7 @@
 0 beauty
 0 hold
 0 a
-0 plea,
+0 plea
 0 %
 -
 0 Whose
@@ -9894,18 +9894,18 @@
 0 stronger
 0 than
 0 a
-0 flower?
+0 flower
 0 %
 0 %
 -
 0 O
 0 how
 0 shall
-0 summer's
+0 summers
 0 honey
 0 breath
 0 hold
-0 out,
+0 out
 0 %
 0 %
 -
@@ -9914,8 +9914,8 @@
 0 wrackful
 0 siege
 0 of
-0 batt'ring
-0 days,
+0 battring
+0 days
 0 %
 0 %
 0 %
@@ -9926,7 +9926,7 @@
 0 are
 0 not
 0 so
-0 stout,
+0 stout
 0 %
 0 %
 0 %
@@ -9939,14 +9939,14 @@
 0 strong
 0 but
 0 time
-0 decays?
+0 decays
 0 %
 -
 0 O
 0 fearful
-0 meditation,
+0 meditation
 0 where
-0 alack,
+0 alack
 0 %
 0 %
 0 %
@@ -9954,14 +9954,14 @@
 0 %
 -
 0 Shall
-0 Time's
+0 Times
 0 best
 0 jewel
 0 from
-0 Time's
+0 Times
 0 chest
 0 lie
-0 hid?
+0 hid
 0 %
 -
 0 Or
@@ -9973,7 +9973,7 @@
 0 his
 0 swift
 0 foot
-0 back,
+0 back
 -
 0 Or
 0 who
@@ -9982,17 +9982,17 @@
 0 of
 0 beauty
 0 can
-0 forbid?
+0 forbid
 0 %
 0 %
 -
 0 O
-0 none,
+0 none
 0 unless
 0 this
 0 miracle
 0 have
-0 might,
+0 might
 0 %
 0 %
 0 %
@@ -10006,7 +10006,7 @@
 0 may
 0 still
 0 shine
-0 bright.
+0 bright
 -
 0 Tired
 0 with
@@ -10016,7 +10016,7 @@
 0 restful
 0 death
 0 I
-0 cry,
+0 cry
 0 %
 -
 0 As
@@ -10025,7 +10025,7 @@
 0 desert
 0 a
 0 beggar
-0 born,
+0 born
 0 %
 0 %
 0 %
@@ -10035,7 +10035,7 @@
 0 nothing
 0 trimmed
 0 in
-0 jollity,
+0 jollity
 0 %
 0 %
 0 %
@@ -10045,7 +10045,7 @@
 0 purest
 0 faith
 0 unhappily
-0 forsworn,
+0 forsworn
 0 %
 0 %
 0 %
@@ -10056,7 +10056,7 @@
 0 gilded
 0 honour
 0 shamefully
-0 misplaced,
+0 misplaced
 0 %
 0 %
 0 %
@@ -10067,7 +10067,7 @@
 0 maiden
 0 virtue
 0 rudely
-0 strumpeted,
+0 strumpeted
 0 %
 0 %
 0 %
@@ -10078,7 +10078,7 @@
 0 right
 0 perfection
 0 wrongfully
-0 disgraced,
+0 disgraced
 0 %
 0 %
 0 %
@@ -10099,9 +10099,9 @@
 0 And
 0 art
 0 made
-0 tongue-tied
+0 tonguetied
 0 by
-0 authority,
+0 authority
 0 %
 0 %
 0 %
@@ -10109,9 +10109,9 @@
 -
 0 And
 0 folly
-0 (doctor-like)
+0 doctorlike
 0 controlling
-0 skill,
+0 skill
 0 %
 0 %
 0 %
@@ -10122,7 +10122,7 @@
 0 simple
 0 truth
 0 miscalled
-0 simplicity,
+0 simplicity
 0 %
 0 %
 0 %
@@ -10134,7 +10134,7 @@
 0 good
 0 attending
 0 captain
-0 ill.
+0 ill
 0 %
 0 %
 0 %
@@ -10143,23 +10143,23 @@
 0 Tired
 0 with
 0 all
-0 these,
+0 these
 0 from
 0 these
 0 would
 0 I
 0 be
-0 gone,
+0 gone
 -
 0 Save
 0 that
 0 to
-0 die,
+0 die
 0 I
 0 leave
 0 my
 0 love
-0 alone.
+0 alone
 0 %
 -
 0 Ah
@@ -10168,7 +10168,7 @@
 0 infection
 0 should
 0 he
-0 live,
+0 live
 0 %
 0 %
 0 %
@@ -10178,7 +10178,7 @@
 0 his
 0 presence
 0 grace
-0 impiety,
+0 impiety
 0 %
 0 %
 0 %
@@ -10190,7 +10190,7 @@
 0 him
 0 advantage
 0 should
-0 achieve,
+0 achieve
 0 %
 0 %
 0 %
@@ -10201,7 +10201,7 @@
 0 self
 0 with
 0 his
-0 society?
+0 society
 0 %
 0 %
 0 %
@@ -10212,7 +10212,7 @@
 0 painting
 0 imitate
 0 his
-0 cheek,
+0 cheek
 0 %
 0 %
 0 %
@@ -10224,7 +10224,7 @@
 0 of
 0 his
 0 living
-0 hue?
+0 hue
 0 %
 0 %
 -
@@ -10233,7 +10233,7 @@
 0 poor
 0 beauty
 0 indirectly
-0 seek,
+0 seek
 0 %
 0 %
 0 %
@@ -10241,23 +10241,23 @@
 -
 0 Roses
 0 of
-0 shadow,
+0 shadow
 0 since
 0 his
 0 rose
 0 is
-0 true?
+0 true
 0 %
 0 %
 -
 0 Why
 0 should
 0 he
-0 live,
+0 live
 0 now
 0 nature
 0 bankrupt
-0 is,
+0 is
 0 %
 0 %
 -
@@ -10268,7 +10268,7 @@
 0 blush
 0 through
 0 lively
-0 veins,
+0 veins
 0 %
 0 %
 -
@@ -10279,41 +10279,41 @@
 0 exchequer
 0 now
 0 but
-0 his,
+0 his
 0 %
 0 %
 -
 0 And
 0 proud
 0 of
-0 many,
+0 many
 0 lives
 0 upon
 0 his
-0 gains?
+0 gains
 0 %
 0 %
 -
 0 O
 0 him
 0 she
-0 stores,
+0 stores
 0 to
 0 show
 0 what
 0 wealth
 0 she
-0 had,
+0 had
 -
 0 In
 0 days
 0 long
-0 since,
+0 since
 0 before
 0 these
 0 last
 0 so
-0 bad.
+0 bad
 0 %
 -
 0 Thus
@@ -10324,7 +10324,7 @@
 0 map
 0 of
 0 days
-0 outworn,
+0 outworn
 0 %
 -
 0 When
@@ -10335,7 +10335,7 @@
 0 as
 0 flowers
 0 do
-0 now,
+0 now
 0 %
 -
 0 Before
@@ -10345,7 +10345,7 @@
 0 of
 0 fair
 0 were
-0 born,
+0 born
 0 %
 0 %
 -
@@ -10355,7 +10355,7 @@
 0 on
 0 a
 0 living
-0 brow:
+0 brow
 0 %
 0 %
 0 %
@@ -10366,7 +10366,7 @@
 0 tresses
 0 of
 0 the
-0 dead,
+0 dead
 0 %
 0 %
 0 %
@@ -10374,10 +10374,10 @@
 0 The
 0 right
 0 of
-0 sepulchres,
+0 sepulchres
 0 were
 0 shorn
-0 away,
+0 away
 0 %
 0 %
 0 %
@@ -10389,17 +10389,17 @@
 0 life
 0 on
 0 second
-0 head,
+0 head
 0 %
 0 %
 -
 0 Ere
-0 beauty's
+0 beautys
 0 dead
 0 fleece
 0 made
 0 another
-0 gay:
+0 gay
 0 %
 0 %
 0 %
@@ -10411,17 +10411,17 @@
 0 antique
 0 hours
 0 are
-0 seen,
+0 seen
 0 %
 0 %
 -
 0 Without
 0 all
-0 ornament,
+0 ornament
 0 it
 0 self
 0 and
-0 true,
+0 true
 0 %
 0 %
 0 %
@@ -10430,8 +10430,8 @@
 0 no
 0 summer
 0 of
-0 another's
-0 green,
+0 anothers
+0 green
 0 %
 0 %
 0 %
@@ -10444,7 +10444,7 @@
 0 dress
 0 his
 0 beauty
-0 new,
+0 new
 0 %
 0 %
 -
@@ -10456,7 +10456,7 @@
 0 map
 0 doth
 0 Nature
-0 store,
+0 store
 0 %
 -
 0 To
@@ -10467,7 +10467,7 @@
 0 beauty
 0 was
 0 of
-0 yore.
+0 yore
 0 %
 -
 0 Those
@@ -10476,10 +10476,10 @@
 0 thee
 0 that
 0 the
-0 world's
+0 worlds
 0 eye
 0 doth
-0 view,
+0 view
 -
 0 Want
 0 nothing
@@ -10489,28 +10489,28 @@
 0 of
 0 hearts
 0 can
-0 mend:
+0 mend
 0 %
 -
 0 All
 0 tongues
-0 (the
+0 the
 0 voice
 0 of
-0 souls)
+0 souls
 0 give
 0 thee
 0 that
-0 due,
+0 due
 -
 0 Uttering
 0 bare
-0 truth,
+0 truth
 0 even
 0 so
 0 as
 0 foes
-0 commend.
+0 commend
 0 %
 0 %
 -
@@ -10521,7 +10521,7 @@
 0 outward
 0 praise
 0 is
-0 crowned,
+0 crowned
 0 %
 0 %
 -
@@ -10534,7 +10534,7 @@
 0 thee
 0 so
 0 thine
-0 own,
+0 own
 -
 0 In
 0 other
@@ -10554,7 +10554,7 @@
 0 the
 0 eye
 0 hath
-0 shown.
+0 shown
 0 %
 0 %
 -
@@ -10565,7 +10565,7 @@
 0 beauty
 0 of
 0 thy
-0 mind,
+0 mind
 0 %
 0 %
 -
@@ -10577,18 +10577,18 @@
 0 measure
 0 by
 0 thy
-0 deeds,
+0 deeds
 0 %
 -
 0 Then
 0 churls
 0 their
 0 thoughts
-0 (although
+0 although
 0 their
 0 eyes
 0 were
-0 kind)
+0 kind
 0 %
 -
 0 To
@@ -10600,7 +10600,7 @@
 0 rank
 0 smell
 0 of
-0 weeds:
+0 weeds
 -
 0 But
 0 why
@@ -10609,19 +10609,19 @@
 0 matcheth
 0 not
 0 thy
-0 show,
+0 show
 0 %
 0 %
 -
 0 The
 0 soil
 0 is
-0 this,
+0 this
 0 that
 0 thou
 0 dost
 0 common
-0 grow.
+0 grow
 0 %
 -
 0 That
@@ -10632,17 +10632,17 @@
 0 not
 0 be
 0 thy
-0 defect,
+0 defect
 0 %
 -
 0 For
-0 slander's
+0 slanders
 0 mark
 0 was
 0 ever
 0 yet
 0 the
-0 fair,
+0 fair
 0 %
 0 %
 -
@@ -10651,7 +10651,7 @@
 0 of
 0 beauty
 0 is
-0 suspect,
+0 suspect
 0 %
 0 %
 0 %
@@ -10662,20 +10662,20 @@
 0 that
 0 flies
 0 in
-0 heaven's
+0 heavens
 0 sweetest
-0 air.
+0 air
 0 %
 0 %
 -
 0 So
 0 thou
 0 be
-0 good,
+0 good
 0 slander
 0 doth
 0 but
-0 approve,
+0 approve
 0 %
 0 %
 -
@@ -10686,7 +10686,7 @@
 0 being
 0 wooed
 0 of
-0 time,
+0 time
 0 %
 0 %
 -
@@ -10697,17 +10697,17 @@
 0 sweetest
 0 buds
 0 doth
-0 love,
+0 love
 0 %
 0 %
 -
 0 And
 0 thou
-0 present'st
+0 presentst
 0 a
 0 pure
 0 unstained
-0 prime.
+0 prime
 0 %
 0 %
 0 %
@@ -10720,16 +10720,16 @@
 0 ambush
 0 of
 0 young
-0 days,
+0 days
 0 %
 -
 0 Either
 0 not
-0 assailed,
+0 assailed
 0 or
 0 victor
 0 being
-0 charged,
+0 charged
 0 %
 0 %
 0 %
@@ -10742,15 +10742,15 @@
 0 be
 0 so
 0 thy
-0 praise,
+0 praise
 0 %
 -
 0 To
 0 tie
 0 up
-0 envy,
+0 envy
 0 evermore
-0 enlarged,
+0 enlarged
 0 %
 0 %
 0 %
@@ -10764,7 +10764,7 @@
 0 masked
 0 not
 0 thy
-0 show,
+0 show
 0 %
 -
 0 Then
@@ -10774,7 +10774,7 @@
 0 of
 0 hearts
 0 shouldst
-0 owe.
+0 owe
 0 %
 0 %
 -
@@ -10786,7 +10786,7 @@
 0 when
 0 I
 0 am
-0 dead,
+0 dead
 0 %
 -
 0 Than
@@ -10819,7 +10819,7 @@
 0 vilest
 0 worms
 0 to
-0 dwell:
+0 dwell
 0 %
 -
 0 Nay
@@ -10827,9 +10827,9 @@
 0 you
 0 read
 0 this
-0 line,
+0 line
 0 remember
-0 not,
+0 not
 0 %
 0 %
 -
@@ -10837,12 +10837,12 @@
 0 hand
 0 that
 0 writ
-0 it,
+0 it
 0 for
 0 I
 0 love
 0 you
-0 so,
+0 so
 -
 0 That
 0 I
@@ -10852,7 +10852,7 @@
 0 thoughts
 0 would
 0 be
-0 forgot,
+0 forgot
 0 %
 -
 0 If
@@ -10863,27 +10863,27 @@
 0 should
 0 make
 0 you
-0 woe.
+0 woe
 0 %
 -
 0 O
 0 if
-0 (I
-0 say)
+0 I
+0 say
 0 you
 0 look
 0 upon
 0 this
-0 verse,
+0 verse
 0 %
 -
 0 When
 0 I
-0 (perhaps)
+0 perhaps
 0 compounded
 0 am
 0 with
-0 clay,
+0 clay
 0 %
 0 %
 0 %
@@ -10896,7 +10896,7 @@
 0 my
 0 poor
 0 name
-0 rehearse;
+0 rehearse
 0 %
 -
 0 But
@@ -10907,7 +10907,7 @@
 0 with
 0 my
 0 life
-0 decay.
+0 decay
 0 %
 -
 0 Lest
@@ -10918,7 +10918,7 @@
 0 look
 0 into
 0 your
-0 moan,
+0 moan
 0 %
 -
 0 And
@@ -10929,7 +10929,7 @@
 0 after
 0 I
 0 am
-0 gone.
+0 gone
 0 %
 -
 0 O
@@ -10940,7 +10940,7 @@
 0 task
 0 you
 0 to
-0 recite,
+0 recite
 0 %
 -
 0 What
@@ -10957,11 +10957,11 @@
 0 After
 0 my
 0 death
-0 (dear
-0 love)
+0 dear
+0 love
 0 forget
 0 me
-0 quite,
+0 quite
 0 %
 0 %
 -
@@ -10972,7 +10972,7 @@
 0 can
 0 nothing
 0 worthy
-0 prove.
+0 prove
 0 %
 0 %
 -
@@ -10982,7 +10982,7 @@
 0 devise
 0 some
 0 virtuous
-0 lie,
+0 lie
 0 %
 0 %
 0 %
@@ -10995,7 +10995,7 @@
 0 than
 0 mine
 0 own
-0 desert,
+0 desert
 0 %
 -
 0 And
@@ -11004,7 +11004,7 @@
 0 praise
 0 upon
 0 deceased
-0 I,
+0 I
 0 %
 0 %
 0 %
@@ -11014,7 +11014,7 @@
 0 truth
 0 would
 0 willingly
-0 impart:
+0 impart
 0 %
 0 %
 0 %
@@ -11029,7 +11029,7 @@
 0 seem
 0 false
 0 in
-0 this,
+0 this
 -
 0 That
 0 you
@@ -11039,7 +11039,7 @@
 0 well
 0 of
 0 me
-0 untrue,
+0 untrue
 0 %
 -
 0 My
@@ -11049,7 +11049,7 @@
 0 where
 0 my
 0 body
-0 is,
+0 is
 0 %
 0 %
 -
@@ -11060,9 +11060,9 @@
 0 to
 0 shame
 0 nor
-0 me,
+0 me
 0 nor
-0 you.
+0 you
 -
 0 For
 0 I
@@ -11073,17 +11073,17 @@
 0 which
 0 I
 0 bring
-0 forth,
+0 forth
 -
 0 And
 0 so
 0 should
-0 you,
+0 you
 0 to
 0 love
 0 things
 0 nothing
-0 worth.
+0 worth
 0 %
 -
 0 That
@@ -11094,14 +11094,14 @@
 0 mayst
 0 in
 0 me
-0 behold,
+0 behold
 0 %
 -
 0 When
 0 yellow
-0 leaves,
+0 leaves
 0 or
-0 none,
+0 none
 0 or
 0 few
 0 do
@@ -11115,19 +11115,19 @@
 0 shake
 0 against
 0 the
-0 cold,
+0 cold
 0 %
 0 %
 -
 0 Bare
 0 ruined
-0 choirs,
+0 choirs
 0 where
 0 late
 0 the
 0 sweet
 0 birds
-0 sang.
+0 sang
 0 %
 -
 0 In
@@ -11138,7 +11138,7 @@
 0 twilight
 0 of
 0 such
-0 day,
+0 day
 0 %
 -
 0 As
@@ -11147,7 +11147,7 @@
 0 fadeth
 0 in
 0 the
-0 west,
+0 west
 0 %
 0 %
 0 %
@@ -11160,10 +11160,10 @@
 0 night
 0 doth
 0 take
-0 away,
+0 away
 0 %
 -
-0 Death's
+0 Deaths
 0 second
 0 self
 0 that
@@ -11171,7 +11171,7 @@
 0 up
 0 all
 0 in
-0 rest.
+0 rest
 0 %
 -
 0 In
@@ -11182,7 +11182,7 @@
 0 glowing
 0 of
 0 such
-0 fire,
+0 fire
 0 %
 -
 0 That
@@ -11193,16 +11193,16 @@
 0 his
 0 youth
 0 doth
-0 lie,
+0 lie
 0 %
 -
 0 As
 0 the
-0 death-bed,
+0 deathbed
 0 whereon
 0 it
 0 must
-0 expire,
+0 expire
 0 %
 0 %
 0 %
@@ -11214,31 +11214,31 @@
 0 it
 0 was
 0 nourished
-0 by.
+0 by
 0 %
 0 %
 -
 0 This
 0 thou
-0 perceiv'st,
+0 perceivst
 0 which
 0 makes
 0 thy
 0 love
 0 more
-0 strong,
+0 strong
 0 %
 -
 0 To
 0 love
 0 that
-0 well,
+0 well
 0 which
 0 thou
 0 must
 0 leave
 0 ere
-0 long.
+0 long
 -
 0 But
 0 be
@@ -11246,7 +11246,7 @@
 0 when
 0 that
 0 fell
-0 arrest,
+0 arrest
 0 %
 0 %
 0 %
@@ -11257,7 +11257,7 @@
 0 shall
 0 carry
 0 me
-0 away,
+0 away
 0 %
 0 %
 0 %
@@ -11269,7 +11269,7 @@
 0 this
 0 line
 0 some
-0 interest,
+0 interest
 0 %
 0 %
 -
@@ -11280,17 +11280,17 @@
 0 with
 0 thee
 0 shall
-0 stay.
+0 stay
 0 %
 0 %
 -
 0 When
 0 thou
 0 reviewest
-0 this,
+0 this
 0 thou
 0 dost
-0 review,
+0 review
 0 %
 0 %
 0 %
@@ -11301,7 +11301,7 @@
 0 was
 0 consecrate
 0 to
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -11311,11 +11311,11 @@
 0 can
 0 have
 0 but
-0 earth,
+0 earth
 0 which
 0 is
 0 his
-0 due,
+0 due
 -
 0 My
 0 spirit
@@ -11325,7 +11325,7 @@
 0 better
 0 part
 0 of
-0 me,
+0 me
 0 %
 -
 0 So
@@ -11337,16 +11337,16 @@
 0 the
 0 dregs
 0 of
-0 life,
+0 life
 -
 0 The
 0 prey
 0 of
-0 worms,
+0 worms
 0 my
 0 body
 0 being
-0 dead,
+0 dead
 0 %
 0 %
 -
@@ -11355,8 +11355,8 @@
 0 conquest
 0 of
 0 a
-0 wretch's
-0 knife,
+0 wretchs
+0 knife
 0 %
 0 %
 0 %
@@ -11367,7 +11367,7 @@
 0 thee
 0 to
 0 be
-0 remembered,
+0 remembered
 0 %
 0 %
 0 %
@@ -11375,23 +11375,23 @@
 0 The
 0 worth
 0 of
-0 that,
+0 that
 0 is
 0 that
 0 which
 0 it
-0 contains,
+0 contains
 0 %
 -
 0 And
 0 that
 0 is
-0 this,
+0 this
 0 and
 0 this
 0 with
 0 thee
-0 remains.
+0 remains
 0 %
 -
 0 So
@@ -11403,16 +11403,16 @@
 0 as
 0 food
 0 to
-0 life,
+0 life
 -
 0 Or
 0 as
-0 sweet-seasoned
+0 sweetseasoned
 0 showers
 0 are
 0 to
 0 the
-0 ground;
+0 ground
 0 %
 0 %
 -
@@ -11428,21 +11428,21 @@
 0 strife
 -
 0 As
-0 'twixt
+0 twixt
 0 a
 0 miser
 0 and
 0 his
 0 wealth
 0 is
-0 found.
+0 found
 0 %
 -
 0 Now
 0 proud
 0 as
 0 an
-0 enjoyer,
+0 enjoyer
 0 and
 0 anon
 0 %
@@ -11456,7 +11456,7 @@
 0 will
 0 steal
 0 his
-0 treasure,
+0 treasure
 0 %
 0 %
 -
@@ -11467,7 +11467,7 @@
 0 be
 0 with
 0 you
-0 alone,
+0 alone
 0 %
 0 %
 -
@@ -11479,7 +11479,7 @@
 0 may
 0 see
 0 my
-0 pleasure,
+0 pleasure
 0 %
 -
 0 Sometime
@@ -11489,7 +11489,7 @@
 0 feasting
 0 on
 0 your
-0 sight,
+0 sight
 0 %
 0 %
 -
@@ -11501,7 +11501,7 @@
 0 starved
 0 for
 0 a
-0 look,
+0 look
 0 %
 -
 0 Possessing
@@ -11518,13 +11518,13 @@
 0 Save
 0 what
 0 is
-0 had,
+0 had
 0 or
 0 must
 0 from
 0 you
 0 be
-0 took.
+0 took
 -
 0 Thus
 0 do
@@ -11534,16 +11534,16 @@
 0 surfeit
 0 day
 0 by
-0 day,
+0 day
 0 %
 -
 0 Or
 0 gluttoning
 0 on
-0 all,
+0 all
 0 or
 0 all
-0 away.
+0 away
 0 %
 0 %
 0 %
@@ -11556,7 +11556,7 @@
 0 barren
 0 of
 0 new
-0 pride?
+0 pride
 0 %
 -
 0 So
@@ -11565,7 +11565,7 @@
 0 variation
 0 or
 0 quick
-0 change?
+0 change
 0 %
 0 %
 0 %
@@ -11582,12 +11582,12 @@
 0 %
 -
 0 To
-0 new-found
-0 methods,
+0 newfound
+0 methods
 0 and
 0 to
 0 compounds
-0 strange?
+0 strange
 0 %
 0 %
 0 %
@@ -11597,10 +11597,10 @@
 0 I
 0 still
 0 all
-0 one,
+0 one
 0 ever
 0 the
-0 same,
+0 same
 0 %
 -
 0 And
@@ -11609,7 +11609,7 @@
 0 in
 0 a
 0 noted
-0 weed,
+0 weed
 0 %
 0 %
 0 %
@@ -11621,18 +11621,18 @@
 0 almost
 0 tell
 0 my
-0 name,
+0 name
 0 %
 0 %
 -
 0 Showing
 0 their
-0 birth,
+0 birth
 0 and
 0 where
 0 they
 0 did
-0 proceed?
+0 proceed
 0 %
 0 %
 -
@@ -11644,7 +11644,7 @@
 0 always
 0 write
 0 of
-0 you,
+0 you
 0 %
 -
 0 And
@@ -11654,7 +11654,7 @@
 0 are
 0 still
 0 my
-0 argument:
+0 argument
 0 %
 0 %
 -
@@ -11666,7 +11666,7 @@
 0 dressing
 0 old
 0 words
-0 new,
+0 new
 0 %
 -
 0 Spending
@@ -11674,7 +11674,7 @@
 0 what
 0 is
 0 already
-0 spent:
+0 spent
 0 %
 0 %
 0 %
@@ -11688,7 +11688,7 @@
 0 daily
 0 new
 0 and
-0 old,
+0 old
 0 %
 -
 0 So
@@ -11699,7 +11699,7 @@
 0 telling
 0 what
 0 is
-0 told.
+0 told
 0 %
 -
 0 Thy
@@ -11710,7 +11710,7 @@
 0 how
 0 thy
 0 beauties
-0 wear,
+0 wear
 0 %
 -
 0 Thy
@@ -11719,7 +11719,7 @@
 0 thy
 0 precious
 0 minutes
-0 waste,
+0 waste
 0 %
 0 %
 0 %
@@ -11728,22 +11728,22 @@
 0 vacant
 0 leaves
 0 thy
-0 mind's
+0 minds
 0 imprint
 0 will
-0 bear,
+0 bear
 0 %
 0 %
 -
 0 And
 0 of
 0 this
-0 book,
+0 book
 0 this
 0 learning
 0 mayst
 0 thou
-0 taste.
+0 taste
 0 %
 -
 0 The
@@ -11753,7 +11753,7 @@
 0 glass
 0 will
 0 truly
-0 show,
+0 show
 0 %
 0 %
 -
@@ -11763,7 +11763,7 @@
 0 will
 0 give
 0 thee
-0 memory,
+0 memory
 0 %
 0 %
 0 %
@@ -11771,19 +11771,19 @@
 0 Thou
 0 by
 0 thy
-0 dial's
+0 dials
 0 shady
 0 stealth
 0 mayst
-0 know,
+0 know
 0 %
 0 %
 -
-0 Time's
+0 Times
 0 thievish
 0 progress
 0 to
-0 eternity.
+0 eternity
 0 %
 0 %
 0 %
@@ -11795,7 +11795,7 @@
 0 thy
 0 memory
 0 cannot
-0 contain,
+0 contain
 0 %
 0 %
 0 %
@@ -11805,7 +11805,7 @@
 0 to
 0 these
 0 waste
-0 blanks,
+0 blanks
 0 and
 0 thou
 0 shalt
@@ -11814,11 +11814,11 @@
 -
 0 Those
 0 children
-0 nursed,
+0 nursed
 0 delivered
 0 from
 0 thy
-0 brain,
+0 brain
 0 %
 0 %
 0 %
@@ -11830,29 +11830,29 @@
 0 acquaintance
 0 of
 0 thy
-0 mind.
+0 mind
 0 %
 0 %
 -
 0 These
-0 offices,
+0 offices
 0 so
 0 oft
 0 as
 0 thou
 0 wilt
-0 look,
+0 look
 0 %
 0 %
 -
 0 Shall
 0 profit
-0 thee,
+0 thee
 0 and
 0 much
 0 enrich
 0 thy
-0 book.
+0 book
 0 %
 0 %
 -
@@ -11864,7 +11864,7 @@
 0 thee
 0 for
 0 my
-0 muse,
+0 muse
 0 %
 -
 0 And
@@ -11874,7 +11874,7 @@
 0 assistance
 0 in
 0 my
-0 verse,
+0 verse
 0 %
 0 %
 -
@@ -11885,7 +11885,7 @@
 0 hath
 0 got
 0 my
-0 use,
+0 use
 0 %
 0 %
 -
@@ -11894,14 +11894,14 @@
 0 thee
 0 their
 0 poesy
-0 disperse.
+0 disperse
 0 %
 0 %
 0 %
 0 %
 -
 0 Thine
-0 eyes,
+0 eyes
 0 that
 0 taught
 0 the
@@ -11909,14 +11909,14 @@
 0 on
 0 high
 0 to
-0 sing,
+0 sing
 -
 0 And
 0 heavy
 0 ignorance
 0 aloft
 0 to
-0 fly,
+0 fly
 0 %
 0 %
 0 %
@@ -11927,8 +11927,8 @@
 0 feathers
 0 to
 0 the
-0 learned's
-0 wing,
+0 learneds
+0 wing
 0 %
 0 %
 0 %
@@ -11938,7 +11938,7 @@
 0 grace
 0 a
 0 double
-0 majesty.
+0 majesty
 0 %
 0 %
 0 %
@@ -11952,29 +11952,29 @@
 0 that
 0 which
 0 I
-0 compile,
+0 compile
 0 %
 -
 0 Whose
 0 influence
 0 is
-0 thine,
+0 thine
 0 and
 0 born
 0 of
-0 thee,
+0 thee
 0 %
 0 %
 -
 0 In
-0 others'
+0 others
 0 works
 0 thou
 0 dost
 0 but
 0 mend
 0 the
-0 style,
+0 style
 0 %
 -
 0 And
@@ -11984,7 +11984,7 @@
 0 sweet
 0 graces
 0 graced
-0 be.
+0 be
 0 %
 0 %
 -
@@ -11993,7 +11993,7 @@
 0 art
 0 all
 0 my
-0 art,
+0 art
 0 and
 0 dost
 0 advance
@@ -12002,10 +12002,10 @@
 0 As
 0 high
 0 as
-0 learning,
+0 learning
 0 my
 0 rude
-0 ignorance.
+0 ignorance
 0 %
 0 %
 0 %
@@ -12017,7 +12017,7 @@
 0 call
 0 upon
 0 thy
-0 aid,
+0 aid
 0 %
 0 %
 -
@@ -12028,7 +12028,7 @@
 0 all
 0 thy
 0 gentle
-0 grace,
+0 grace
 0 %
 0 %
 -
@@ -12038,7 +12038,7 @@
 0 gracious
 0 numbers
 0 are
-0 decayed,
+0 decayed
 0 %
 0 %
 0 %
@@ -12051,13 +12051,13 @@
 0 give
 0 an
 0 other
-0 place.
+0 place
 0 %
 -
 0 I
 0 grant
-0 (sweet
-0 love)
+0 sweet
+0 love
 0 thy
 0 lovely
 0 argument
@@ -12071,7 +12071,7 @@
 0 of
 0 a
 0 worthier
-0 pen,
+0 pen
 0 %
 0 %
 0 %
@@ -12083,35 +12083,35 @@
 0 thy
 0 poet
 0 doth
-0 invent,
+0 invent
 0 %
 0 %
 -
 0 He
 0 robs
 0 thee
-0 of,
+0 of
 0 and
 0 pays
 0 it
 0 thee
-0 again,
+0 again
 0 %
 -
 0 He
 0 lends
 0 thee
-0 virtue,
+0 virtue
 0 and
 0 he
 0 stole
 0 that
-0 word,
+0 word
 0 %
 -
 0 From
 0 thy
-0 behaviour,
+0 behaviour
 0 beauty
 0 doth
 0 he
@@ -12125,7 +12125,7 @@
 0 it
 0 in
 0 thy
-0 cheek:
+0 cheek
 0 he
 0 can
 0 afford
@@ -12134,13 +12134,13 @@
 0 No
 0 praise
 0 to
-0 thee,
+0 thee
 0 but
 0 what
 0 in
 0 thee
 0 doth
-0 live.
+0 live
 -
 0 Then
 0 thank
@@ -12151,18 +12151,18 @@
 0 which
 0 he
 0 doth
-0 say,
+0 say
 -
 0 Since
 0 what
 0 he
 0 owes
-0 thee,
+0 thee
 0 thou
 0 thy
 0 self
 0 dost
-0 pay.
+0 pay
 -
 0 O
 0 how
@@ -12173,7 +12173,7 @@
 0 of
 0 you
 0 do
-0 write,
+0 write
 -
 0 Knowing
 0 a
@@ -12182,7 +12182,7 @@
 0 doth
 0 use
 0 your
-0 name,
+0 name
 0 %
 0 %
 -
@@ -12194,17 +12194,17 @@
 0 spends
 0 all
 0 his
-0 might,
+0 might
 0 %
 -
 0 To
 0 make
 0 me
-0 tongue-tied
+0 tonguetied
 0 speaking
 0 of
 0 your
-0 fame.
+0 fame
 0 %
 0 %
 -
@@ -12212,11 +12212,11 @@
 0 since
 0 your
 0 worth
-0 (wide
+0 wide
 0 as
 0 the
 0 ocean
-0 is)
+0 is
 0 %
 -
 0 The
@@ -12226,17 +12226,17 @@
 0 proudest
 0 sail
 0 doth
-0 bear,
+0 bear
 0 %
 0 %
 -
 0 My
 0 saucy
 0 bark
-0 (inferior
+0 inferior
 0 far
 0 to
-0 his)
+0 his
 0 %
 0 %
 0 %
@@ -12247,7 +12247,7 @@
 0 main
 0 doth
 0 wilfully
-0 appear.
+0 appear
 0 %
 0 %
 0 %
@@ -12259,7 +12259,7 @@
 0 hold
 0 me
 0 up
-0 afloat,
+0 afloat
 0 %
 0 %
 -
@@ -12270,29 +12270,29 @@
 0 soundless
 0 deep
 0 doth
-0 ride,
+0 ride
 0 %
 0 %
 -
 0 Or
-0 (being
-0 wrecked)
+0 being
+0 wrecked
 0 I
 0 am
 0 a
 0 worthless
-0 boat,
+0 boat
 0 %
 0 %
 -
 0 He
 0 of
 0 tall
-0 building,
+0 building
 0 and
 0 of
 0 goodly
-0 pride.
+0 pride
 0 %
 0 %
 -
@@ -12304,18 +12304,18 @@
 0 I
 0 be
 0 cast
-0 away,
+0 away
 0 %
 -
 0 The
 0 worst
 0 was
-0 this,
+0 this
 0 my
 0 love
 0 was
 0 my
-0 decay.
+0 decay
 0 %
 -
 0 Or
@@ -12325,7 +12325,7 @@
 0 your
 0 epitaph
 0 to
-0 make,
+0 make
 0 %
 0 %
 -
@@ -12337,7 +12337,7 @@
 0 in
 0 earth
 0 am
-0 rotten,
+0 rotten
 0 %
 -
 0 From
@@ -12346,7 +12346,7 @@
 0 memory
 0 death
 0 cannot
-0 take,
+0 take
 0 %
 0 %
 0 %
@@ -12358,7 +12358,7 @@
 0 part
 0 will
 0 be
-0 forgotten.
+0 forgotten
 0 %
 0 %
 -
@@ -12369,20 +12369,20 @@
 0 immortal
 0 life
 0 shall
-0 have,
+0 have
 0 %
 0 %
 -
 0 Though
 0 I
-0 (once
-0 gone)
+0 once
+0 gone
 0 to
 0 all
 0 the
 0 world
 0 must
-0 die,
+0 die
 -
 0 The
 0 earth
@@ -12392,17 +12392,17 @@
 0 but
 0 a
 0 common
-0 grave,
+0 grave
 0 %
 -
 0 When
 0 you
 0 entombed
 0 in
-0 men's
+0 mens
 0 eyes
 0 shall
-0 lie,
+0 lie
 0 %
 0 %
 -
@@ -12412,7 +12412,7 @@
 0 be
 0 my
 0 gentle
-0 verse,
+0 verse
 0 %
 0 %
 0 %
@@ -12423,7 +12423,7 @@
 0 yet
 0 created
 0 shall
-0 o'er-read,
+0 oerread
 0 %
 0 %
 0 %
@@ -12431,11 +12431,11 @@
 0 And
 0 tongues
 0 to
-0 be,
+0 be
 0 your
 0 being
 0 shall
-0 rehearse,
+0 rehearse
 0 %
 0 %
 -
@@ -12447,30 +12447,30 @@
 0 this
 0 world
 0 are
-0 dead,
+0 dead
 0 %
 -
 0 You
 0 still
 0 shall
 0 live
-0 (such
+0 such
 0 virtue
 0 hath
 0 my
-0 pen)
+0 pen
 0 %
 -
 0 Where
 0 breath
 0 most
-0 breathes,
+0 breathes
 0 even
 0 in
 0 the
 0 mouths
 0 of
-0 men.
+0 men
 -
 0 I
 0 grant
@@ -12480,7 +12480,7 @@
 0 married
 0 to
 0 my
-0 muse,
+0 muse
 0 %
 -
 0 And
@@ -12488,7 +12488,7 @@
 0 mayst
 0 without
 0 attaint
-0 o'erlook
+0 oerlook
 0 %
 0 %
 0 %
@@ -12508,10 +12508,10 @@
 0 Of
 0 their
 0 fair
-0 subject,
+0 subject
 0 blessing
 0 every
-0 book.
+0 book
 0 %
 0 %
 0 %
@@ -12524,7 +12524,7 @@
 0 knowledge
 0 as
 0 in
-0 hue,
+0 hue
 0 %
 -
 0 Finding
@@ -12534,7 +12534,7 @@
 0 limit
 0 past
 0 my
-0 praise,
+0 praise
 0 %
 0 %
 -
@@ -12544,7 +12544,7 @@
 0 enforced
 0 to
 0 seek
-0 anew,
+0 anew
 0 %
 0 %
 0 %
@@ -12554,8 +12554,8 @@
 0 stamp
 0 of
 0 the
-0 time-bettering
-0 days.
+0 timebettering
+0 days
 0 %
 0 %
 0 %
@@ -12563,12 +12563,12 @@
 0 And
 0 do
 0 so
-0 love,
+0 love
 0 yet
 0 when
 0 they
 0 have
-0 devised,
+0 devised
 0 %
 -
 0 What
@@ -12576,7 +12576,7 @@
 0 touches
 0 rhetoric
 0 can
-0 lend,
+0 lend
 0 %
 0 %
 0 %
@@ -12584,10 +12584,10 @@
 -
 0 Thou
 0 truly
-0 fair,
+0 fair
 0 wert
 0 truly
-0 sympathized,
+0 sympathized
 0 %
 0 %
 0 %
@@ -12596,11 +12596,11 @@
 0 In
 0 true
 0 plain
-0 words,
+0 words
 0 by
 0 thy
-0 true-telling
-0 friend.
+0 truetelling
+0 friend
 0 %
 0 %
 -
@@ -12611,19 +12611,19 @@
 0 might
 0 be
 0 better
-0 used,
+0 used
 0 %
 0 %
 -
 0 Where
 0 cheeks
 0 need
-0 blood,
+0 blood
 0 in
 0 thee
 0 it
 0 is
-0 abused.
+0 abused
 0 %
 -
 0 I
@@ -12633,7 +12633,7 @@
 0 you
 0 did
 0 painting
-0 need,
+0 need
 0 %
 0 %
 -
@@ -12644,19 +12644,19 @@
 0 fair
 0 no
 0 painting
-0 set,
+0 set
 0 %
 0 %
 -
 0 I
 0 found
-0 (or
+0 or
 0 thought
 0 I
-0 found)
+0 found
 0 you
 0 did
-0 exceed,
+0 exceed
 0 %
 -
 0 That
@@ -12664,8 +12664,8 @@
 0 tender
 0 of
 0 a
-0 poet's
-0 debt:
+0 poets
+0 debt
 0 %
 0 %
 0 %
@@ -12677,7 +12677,7 @@
 0 slept
 0 in
 0 your
-0 report,
+0 report
 0 %
 0 %
 -
@@ -12689,7 +12689,7 @@
 0 extant
 0 well
 0 might
-0 show,
+0 show
 0 %
 -
 0 How
@@ -12700,18 +12700,18 @@
 0 doth
 0 come
 0 too
-0 short,
+0 short
 0 %
 -
 0 Speaking
 0 of
-0 worth,
+0 worth
 0 what
 0 worth
 0 in
 0 you
 0 doth
-0 grow.
+0 grow
 0 %
 -
 0 This
@@ -12721,7 +12721,7 @@
 0 sin
 0 you
 0 did
-0 impute,
+0 impute
 0 %
 0 %
 -
@@ -12732,7 +12732,7 @@
 0 my
 0 glory
 0 being
-0 dumb,
+0 dumb
 0 %
 0 %
 -
@@ -12742,7 +12742,7 @@
 0 not
 0 beauty
 0 being
-0 mute,
+0 mute
 0 %
 0 %
 0 %
@@ -12751,11 +12751,11 @@
 0 others
 0 would
 0 give
-0 life,
+0 life
 0 and
 0 bring
 0 a
-0 tomb.
+0 tomb
 0 %
 -
 0 There
@@ -12767,7 +12767,7 @@
 0 of
 0 your
 0 fair
-0 eyes,
+0 eyes
 -
 0 Than
 0 both
@@ -12776,7 +12776,7 @@
 0 can
 0 in
 0 praise
-0 devise.
+0 devise
 0 %
 0 %
 -
@@ -12785,21 +12785,21 @@
 0 it
 0 that
 0 says
-0 most,
+0 most
 0 which
 0 can
 0 say
-0 more,
+0 more
 -
 0 Than
 0 this
 0 rich
-0 praise,
+0 praise
 0 that
 0 you
-0 alone,
+0 alone
 0 are
-0 you?
+0 you
 0 %
 -
 0 In
@@ -12808,7 +12808,7 @@
 0 immured
 0 is
 0 the
-0 store,
+0 store
 0 %
 0 %
 0 %
@@ -12819,7 +12819,7 @@
 0 where
 0 your
 0 equal
-0 grew.
+0 grew
 0 %
 0 %
 0 %
@@ -12830,7 +12830,7 @@
 0 that
 0 pen
 0 doth
-0 dwell,
+0 dwell
 0 %
 0 %
 0 %
@@ -12843,7 +12843,7 @@
 0 not
 0 some
 0 small
-0 glory,
+0 glory
 0 %
 -
 0 But
@@ -12851,20 +12851,20 @@
 0 that
 0 writes
 0 of
-0 you,
+0 you
 0 if
 0 he
 0 can
-0 tell,
+0 tell
 -
 0 That
 0 you
 0 are
-0 you,
+0 you
 0 so
 0 dignifies
 0 his
-0 story.
+0 story
 0 %
 0 %
 -
@@ -12876,7 +12876,7 @@
 0 in
 0 you
 0 is
-0 writ,
+0 writ
 0 %
 -
 0 Not
@@ -12886,7 +12886,7 @@
 0 nature
 0 made
 0 so
-0 clear,
+0 clear
 0 %
 0 %
 -
@@ -12897,7 +12897,7 @@
 0 shall
 0 fame
 0 his
-0 wit,
+0 wit
 0 %
 0 %
 -
@@ -12906,7 +12906,7 @@
 0 style
 0 admired
 0 every
-0 where.
+0 where
 0 %
 0 %
 0 %
@@ -12919,29 +12919,29 @@
 0 blessings
 0 add
 0 a
-0 curse,
+0 curse
 0 %
 0 %
 -
 0 Being
 0 fond
 0 on
-0 praise,
+0 praise
 0 which
 0 makes
 0 your
 0 praises
-0 worse.
+0 worse
 0 %
 -
 0 My
-0 tongue-tied
+0 tonguetied
 0 muse
 0 in
 0 manners
 0 holds
 0 her
-0 still,
+0 still
 0 %
 0 %
 -
@@ -12951,7 +12951,7 @@
 0 your
 0 praise
 0 richly
-0 compiled,
+0 compiled
 0 %
 0 %
 0 %
@@ -12961,7 +12961,7 @@
 0 character
 0 with
 0 golden
-0 quill,
+0 quill
 0 %
 0 %
 0 %
@@ -12974,19 +12974,19 @@
 0 all
 0 the
 0 Muses
-0 filed.
+0 filed
 0 %
 0 %
 -
 0 I
 0 think
 0 good
-0 thoughts,
+0 thoughts
 0 whilst
 0 other
 0 write
 0 good
-0 words,
+0 words
 0 %
 -
 0 And
@@ -12995,7 +12995,7 @@
 0 clerk
 0 still
 0 cry
-0 Amen,
+0 Amen
 0 %
 0 %
 0 %
@@ -13006,7 +13006,7 @@
 0 that
 0 able
 0 spirit
-0 affords,
+0 affords
 0 %
 0 %
 0 %
@@ -13017,20 +13017,20 @@
 0 of
 0 well
 0 refined
-0 pen.
+0 pen
 0 %
 0 %
 0 %
 -
 0 Hearing
 0 you
-0 praised,
+0 praised
 0 I
 0 say
-0 'tis
-0 so,
-0 'tis
-0 true,
+0 tis
+0 so
+0 tis
+0 true
 0 %
 -
 0 And
@@ -13041,7 +13041,7 @@
 0 praise
 0 add
 0 something
-0 more,
+0 more
 0 %
 -
 0 But
@@ -13049,31 +13049,31 @@
 0 is
 0 in
 0 my
-0 thought,
+0 thought
 0 whose
 0 love
 0 to
 0 you
 -
-0 (Though
+0 Though
 0 words
 0 come
-0 hindmost)
+0 hindmost
 0 holds
 0 his
 0 rank
-0 before,
+0 before
 0 %
 0 %
 -
 0 Then
-0 others,
+0 others
 0 for
 0 the
 0 breath
 0 of
 0 words
-0 respect,
+0 respect
 0 %
 0 %
 -
@@ -13081,10 +13081,10 @@
 0 for
 0 my
 0 dumb
-0 thoughts,
+0 thoughts
 0 speaking
 0 in
-0 effect.
+0 effect
 0 %
 0 %
 -
@@ -13097,17 +13097,17 @@
 0 of
 0 his
 0 great
-0 verse,
+0 verse
 -
 0 Bound
 0 for
 0 the
 0 prize
 0 of
-0 (all
+0 all
 0 too
-0 precious)
-0 you,
+0 precious
+0 you
 0 %
 -
 0 That
@@ -13118,7 +13118,7 @@
 0 in
 0 my
 0 brain
-0 inhearse,
+0 inhearse
 0 %
 -
 0 Making
@@ -13128,35 +13128,35 @@
 0 womb
 0 wherein
 0 they
-0 grew?
+0 grew
 0 %
 0 %
 -
 0 Was
 0 it
 0 his
-0 spirit,
+0 spirit
 0 by
 0 spirits
 0 taught
 0 to
-0 write,
+0 write
 0 %
 -
 0 Above
 0 a
 0 mortal
-0 pitch,
+0 pitch
 0 that
 0 struck
 0 me
-0 dead?
+0 dead
 0 %
 0 %
 -
-0 No,
+0 No
 0 neither
-0 he,
+0 he
 0 nor
 0 his
 0 compeers
@@ -13167,10 +13167,10 @@
 -
 0 Giving
 0 him
-0 aid,
+0 aid
 0 my
 0 verse
-0 astonished.
+0 astonished
 0 %
 0 %
 0 %
@@ -13192,7 +13192,7 @@
 0 gulls
 0 him
 0 with
-0 intelligence,
+0 intelligence
 0 %
 0 %
 0 %
@@ -13204,7 +13204,7 @@
 0 my
 0 silence
 0 cannot
-0 boast,
+0 boast
 0 %
 0 %
 0 %
@@ -13217,7 +13217,7 @@
 0 any
 0 fear
 0 from
-0 thence.
+0 thence
 0 %
 -
 0 But
@@ -13227,29 +13227,29 @@
 0 filled
 0 up
 0 his
-0 line,
+0 line
 0 %
 0 %
 -
 0 Then
 0 lacked
 0 I
-0 matter,
+0 matter
 0 that
 0 enfeebled
-0 mine.
+0 mine
 0 %
 0 %
 0 %
 -
-0 Farewell!
+0 Farewell
 0 thou
 0 art
 0 too
 0 dear
 0 for
 0 my
-0 possessing,
+0 possessing
 0 %
 0 %
 -
@@ -13257,9 +13257,9 @@
 0 like
 0 enough
 0 thou
-0 know'st
+0 knowst
 0 thy
-0 estimate,
+0 estimate
 0 %
 0 %
 0 %
@@ -13271,7 +13271,7 @@
 0 worth
 0 gives
 0 thee
-0 releasing:
+0 releasing
 0 %
 0 %
 -
@@ -13281,7 +13281,7 @@
 0 thee
 0 are
 0 all
-0 determinate.
+0 determinate
 0 %
 0 %
 0 %
@@ -13295,7 +13295,7 @@
 0 but
 0 by
 0 thy
-0 granting,
+0 granting
 -
 0 And
 0 for
@@ -13304,7 +13304,7 @@
 0 where
 0 is
 0 my
-0 deserving?
+0 deserving
 0 %
 0 %
 -
@@ -13317,7 +13317,7 @@
 0 in
 0 me
 0 is
-0 wanting,
+0 wanting
 -
 0 And
 0 so
@@ -13326,30 +13326,30 @@
 0 back
 0 again
 0 is
-0 swerving.
+0 swerving
 0 %
 0 %
 -
 0 Thy
 0 self
 0 thou
-0 gav'st,
+0 gavst
 0 thy
 0 own
 0 worth
 0 then
 0 not
-0 knowing,
+0 knowing
 -
 0 Or
 0 me
 0 to
 0 whom
 0 thou
-0 gav'st
-0 it,
+0 gavst
+0 it
 0 else
-0 mistaking,
+0 mistaking
 0 %
 -
 0 So
@@ -13358,18 +13358,18 @@
 0 gift
 0 upon
 0 misprision
-0 growing,
+0 growing
 0 %
 0 %
 0 %
 -
 0 Comes
 0 home
-0 again,
+0 again
 0 on
 0 better
 0 judgement
-0 making.
+0 making
 0 %
 0 %
 0 %
@@ -13383,17 +13383,17 @@
 0 a
 0 dream
 0 doth
-0 flatter,
+0 flatter
 -
 0 In
 0 sleep
 0 a
-0 king,
+0 king
 0 but
 0 waking
 0 no
 0 such
-0 matter.
+0 matter
 0 %
 -
 0 When
@@ -13404,7 +13404,7 @@
 0 to
 0 set
 0 me
-0 light,
+0 light
 0 %
 -
 0 And
@@ -13415,28 +13415,28 @@
 0 the
 0 eye
 0 of
-0 scorn,
+0 scorn
 0 %
 -
 0 Upon
 0 thy
-0 side,
+0 side
 0 against
 0 my
 0 self
-0 I'll
-0 fight,
+0 Ill
+0 fight
 0 %
 0 %
 -
 0 And
 0 prove
 0 thee
-0 virtuous,
+0 virtuous
 0 though
 0 thou
 0 art
-0 forsworn:
+0 forsworn
 0 %
 0 %
 -
@@ -13446,7 +13446,7 @@
 0 weakness
 0 being
 0 best
-0 acquainted,
+0 acquainted
 0 %
 0 %
 0 %
@@ -13464,11 +13464,11 @@
 -
 0 Of
 0 faults
-0 concealed,
+0 concealed
 0 wherein
 0 I
 0 am
-0 attainted:
+0 attainted
 0 %
 0 %
 0 %
@@ -13477,11 +13477,11 @@
 0 thou
 0 in
 0 losing
-0 me,
+0 me
 0 shalt
 0 win
 0 much
-0 glory:
+0 glory
 0 %
 -
 0 And
@@ -13492,7 +13492,7 @@
 0 be
 0 a
 0 gainer
-0 too,
+0 too
 0 %
 -
 0 For
@@ -13502,7 +13502,7 @@
 0 loving
 0 thoughts
 0 on
-0 thee,
+0 thee
 0 %
 0 %
 -
@@ -13513,15 +13513,15 @@
 0 my
 0 self
 0 I
-0 do,
+0 do
 0 %
 0 %
 -
 0 Doing
 0 thee
-0 vantage,
-0 double-vantage
-0 me.
+0 vantage
+0 doublevantage
+0 me
 0 %
 0 %
 0 %
@@ -13531,24 +13531,24 @@
 0 Such
 0 is
 0 my
-0 love,
+0 love
 0 to
 0 thee
 0 I
 0 so
-0 belong,
+0 belong
 0 %
 -
 0 That
 0 for
 0 thy
-0 right,
+0 right
 0 my
 0 self
 0 will
 0 bear
 0 all
-0 wrong.
+0 wrong
 -
 0 Say
 0 that
@@ -13558,7 +13558,7 @@
 0 me
 0 for
 0 some
-0 fault,
+0 fault
 0 %
 -
 0 And
@@ -13567,7 +13567,7 @@
 0 comment
 0 upon
 0 that
-0 offence,
+0 offence
 0 %
 0 %
 0 %
@@ -13575,12 +13575,12 @@
 0 Speak
 0 of
 0 my
-0 lameness,
+0 lameness
 0 and
 0 I
 0 straight
 0 will
-0 halt:
+0 halt
 0 %
 -
 0 Against
@@ -13588,7 +13588,7 @@
 0 reasons
 0 making
 0 no
-0 defence.
+0 defence
 0 %
 0 %
 0 %
@@ -13597,12 +13597,12 @@
 0 Thou
 0 canst
 0 not
-0 (love)
+0 love
 0 disgrace
 0 me
 0 half
 0 so
-0 ill,
+0 ill
 0 %
 -
 0 To
@@ -13611,19 +13611,19 @@
 0 form
 0 upon
 0 desired
-0 change,
+0 change
 0 %
 0 %
 0 %
 -
 0 As
-0 I'll
+0 Ill
 0 my
 0 self
-0 disgrace,
+0 disgrace
 0 knowing
 0 thy
-0 will,
+0 will
 0 %
 0 %
 -
@@ -13633,7 +13633,7 @@
 0 strangle
 0 and
 0 look
-0 strange:
+0 strange
 0 %
 0 %
 0 %
@@ -13646,7 +13646,7 @@
 0 and
 0 in
 0 my
-0 tongue,
+0 tongue
 0 %
 -
 0 Thy
@@ -13656,19 +13656,19 @@
 0 no
 0 more
 0 shall
-0 dwell,
+0 dwell
 0 %
 0 %
 -
 0 Lest
 0 I
-0 (too
+0 too
 0 much
-0 profane)
+0 profane
 0 should
 0 do
 0 it
-0 wronk:
+0 wronk
 0 %
 -
 0 And
@@ -13677,42 +13677,42 @@
 0 our
 0 old
 0 acquaintance
-0 tell.
+0 tell
 0 %
 0 %
 0 %
 -
 0 For
-0 thee,
+0 thee
 0 against
 0 my
 0 self
-0 I'll
+0 Ill
 0 vow
-0 debate,
+0 debate
 0 %
 0 %
 -
 0 For
 0 I
 0 must
-0 ne'er
+0 neer
 0 love
 0 him
 0 whom
 0 thou
 0 dost
-0 hate.
+0 hate
 -
 0 Then
 0 hate
 0 me
 0 when
 0 thou
-0 wilt,
+0 wilt
 0 if
-0 ever,
-0 now,
+0 ever
+0 now
 0 %
 -
 0 Now
@@ -13724,17 +13724,17 @@
 0 my
 0 deeds
 0 to
-0 cross,
+0 cross
 -
 0 join
 0 with
 0 the
 0 spite
 0 of
-0 fortune,
+0 fortune
 0 make
 0 me
-0 bow,
+0 bow
 0 %
 -
 0 And
@@ -13744,20 +13744,20 @@
 0 in
 0 for
 0 an
-0 after-loss:
+0 afterloss
 0 %
 0 %
 -
 0 Ah
 0 do
-0 not,
+0 not
 0 when
 0 my
 0 heart
 0 hath
-0 'scaped
+0 scaped
 0 this
-0 sorrow,
+0 sorrow
 -
 0 Come
 0 in
@@ -13766,7 +13766,7 @@
 0 of
 0 a
 0 conquered
-0 woe,
+0 woe
 0 %
 0 %
 -
@@ -13777,7 +13777,7 @@
 0 night
 0 a
 0 rainy
-0 morrow,
+0 morrow
 0 %
 0 %
 -
@@ -13786,7 +13786,7 @@
 0 out
 0 a
 0 purposed
-0 overthrow.
+0 overthrow
 0 %
 0 %
 0 %
@@ -13796,12 +13796,12 @@
 0 thou
 0 wilt
 0 leave
-0 me,
+0 me
 0 do
 0 not
 0 leave
 0 me
-0 last,
+0 last
 -
 0 When
 0 other
@@ -13810,7 +13810,7 @@
 0 have
 0 done
 0 their
-0 spite,
+0 spite
 0 %
 0 %
 -
@@ -13818,7 +13818,7 @@
 0 in
 0 the
 0 onset
-0 come,
+0 come
 0 so
 0 shall
 0 I
@@ -13831,8 +13831,8 @@
 0 very
 0 worst
 0 of
-0 fortune's
-0 might.
+0 fortunes
+0 might
 0 %
 0 %
 -
@@ -13840,44 +13840,44 @@
 0 other
 0 strains
 0 of
-0 woe,
+0 woe
 0 which
 0 now
 0 seem
-0 woe,
+0 woe
 0 %
 -
 0 Compared
 0 with
 0 loss
 0 of
-0 thee,
+0 thee
 0 will
 0 not
 0 seem
-0 so.
+0 so
 0 %
 -
 0 Some
 0 glory
 0 in
 0 their
-0 birth,
+0 birth
 0 some
 0 in
 0 their
-0 skill,
+0 skill
 0 %
 -
 0 Some
 0 in
 0 their
-0 wealth,
+0 wealth
 0 some
 0 in
 0 their
-0 body's
-0 force,
+0 bodys
+0 force
 0 %
 -
 0 Some
@@ -13885,8 +13885,8 @@
 0 their
 0 garments
 0 though
-0 new-fangled
-0 ill:
+0 newfangled
+0 ill
 0 %
 0 %
 0 %
@@ -13896,11 +13896,11 @@
 0 their
 0 hawks
 0 and
-0 hounds,
+0 hounds
 0 some
 0 in
 0 their
-0 horse.
+0 horse
 -
 0 And
 0 every
@@ -13908,7 +13908,7 @@
 0 hath
 0 his
 0 adjunct
-0 pleasure,
+0 pleasure
 0 %
 0 %
 0 %
@@ -13920,7 +13920,7 @@
 0 joy
 0 above
 0 the
-0 rest,
+0 rest
 0 %
 0 %
 -
@@ -13930,7 +13930,7 @@
 0 are
 0 not
 0 my
-0 measure,
+0 measure
 0 %
 0 %
 0 %
@@ -13942,7 +13942,7 @@
 0 in
 0 one
 0 general
-0 best.
+0 best
 0 %
 0 %
 -
@@ -13954,16 +13954,16 @@
 0 high
 0 birth
 0 to
-0 me,
+0 me
 0 %
 -
 0 Richer
 0 than
-0 wealth,
+0 wealth
 0 prouder
 0 than
-0 garments'
-0 costs,
+0 garments
+0 costs
 0 %
 0 %
 0 %
@@ -13975,40 +13975,40 @@
 0 hawks
 0 and
 0 horses
-0 be:
+0 be
 0 %
 0 %
 -
 0 And
 0 having
-0 thee,
+0 thee
 0 of
 0 all
-0 men's
+0 mens
 0 pride
 0 I
-0 boast.
+0 boast
 0 %
 -
 0 Wretched
 0 in
 0 this
-0 alone,
+0 alone
 0 that
 0 thou
 0 mayst
-0 take,
+0 take
 0 %
 0 %
 -
 0 All
 0 this
-0 away,
+0 away
 0 and
 0 me
 0 most
 0 wretchcd
-0 make.
+0 make
 0 %
 0 %
 -
@@ -14020,7 +14020,7 @@
 0 steal
 0 thy
 0 self
-0 away,
+0 away
 0 %
 -
 0 For
@@ -14030,7 +14030,7 @@
 0 thou
 0 art
 0 assured
-0 mine,
+0 mine
 0 %
 0 %
 -
@@ -14042,7 +14042,7 @@
 0 thy
 0 love
 0 will
-0 stay,
+0 stay
 0 %
 -
 0 For
@@ -14052,7 +14052,7 @@
 0 that
 0 love
 0 of
-0 thine.
+0 thine
 0 %
 0 %
 -
@@ -14065,7 +14065,7 @@
 0 the
 0 worst
 0 of
-0 wrongs,
+0 wrongs
 -
 0 When
 0 in
@@ -14076,10 +14076,10 @@
 0 my
 0 life
 0 hath
-0 end,
+0 end
 -
 0 I
-0 see,
+0 see
 0 a
 0 better
 0 state
@@ -14090,13 +14090,13 @@
 0 %
 -
 0 Than
-0 that,
+0 that
 0 which
 0 on
 0 thy
 0 humour
 0 doth
-0 depend.
+0 depend
 0 %
 0 %
 -
@@ -14107,7 +14107,7 @@
 0 me
 0 with
 0 inconstant
-0 mind,
+0 mind
 0 %
 0 %
 -
@@ -14119,7 +14119,7 @@
 0 thy
 0 revolt
 0 doth
-0 lie,
+0 lie
 0 %
 -
 0 O
@@ -14129,7 +14129,7 @@
 0 title
 0 do
 0 I
-0 find,
+0 find
 0 %
 0 %
 -
@@ -14137,53 +14137,53 @@
 0 to
 0 have
 0 thy
-0 love,
+0 love
 0 happy
 0 to
-0 die!
+0 die
 0 %
 0 %
 -
 0 But
-0 what's
+0 whats
 0 so
-0 blessed-fair
+0 blessedfair
 0 that
 0 fears
 0 no
-0 blot?
+0 blot
 0 %
 0 %
 -
 0 Thou
 0 mayst
 0 be
-0 false,
+0 false
 0 and
 0 yet
 0 I
 0 know
 0 it
-0 not.
+0 not
 -
 0 So
 0 shall
 0 I
-0 live,
+0 live
 0 supposing
 0 thou
 0 art
-0 true,
+0 true
 0 %
 0 %
 -
 0 Like
 0 a
 0 deceived
-0 husband,
+0 husband
 0 so
-0 love's
-0 face,
+0 loves
+0 face
 0 %
 0 %
 0 %
@@ -14193,21 +14193,21 @@
 0 seem
 0 love
 0 to
-0 me,
+0 me
 0 though
 0 altered
-0 new:
+0 new
 0 %
 -
 0 Thy
 0 looks
 0 with
-0 me,
+0 me
 0 thy
 0 heart
 0 in
 0 other
-0 place.
+0 place
 0 %
 -
 0 For
@@ -14218,7 +14218,7 @@
 0 hatred
 0 in
 0 thine
-0 eye,
+0 eye
 0 %
 -
 0 Therefore
@@ -14228,16 +14228,16 @@
 0 cannot
 0 know
 0 thy
-0 change,
+0 change
 0 %
 0 %
 -
 0 In
-0 many's
-0 looks,
+0 manys
+0 looks
 0 the
 0 false
-0 heart's
+0 hearts
 0 history
 0 %
 0 %
@@ -14251,7 +14251,7 @@
 0 frowns
 0 and
 0 wrinkles
-0 strange.
+0 strange
 0 %
 -
 0 But
@@ -14260,7 +14260,7 @@
 0 thy
 0 creation
 0 did
-0 decree,
+0 decree
 0 %
 0 %
 0 %
@@ -14273,17 +14273,17 @@
 0 love
 0 should
 0 ever
-0 dwell,
+0 dwell
 0 %
 -
-0 Whate'er
+0 Whateer
 0 thy
-0 thoughts,
+0 thoughts
 0 or
 0 thy
-0 heart's
+0 hearts
 0 workings
-0 be,
+0 be
 0 %
 0 %
 -
@@ -14291,21 +14291,21 @@
 0 looks
 0 should
 0 nothing
-0 thence,
+0 thence
 0 but
 0 sweetness
-0 tell.
+0 tell
 0 %
 0 %
 -
 0 How
 0 like
-0 Eve's
+0 Eves
 0 apple
 0 doth
 0 thy
 0 beauty
-0 grow,
+0 grow
 0 %
 0 %
 -
@@ -14316,7 +14316,7 @@
 0 answer
 0 not
 0 thy
-0 show.
+0 show
 0 %
 0 %
 -
@@ -14325,40 +14325,40 @@
 0 have
 0 power
 0 to
-0 hurt,
+0 hurt
 0 and
 0 will
 0 do
-0 none,
+0 none
 -
 0 That
 0 do
 0 not
 0 do
 0 the
-0 thing,
+0 thing
 0 they
 0 most
 0 do
-0 show,
+0 show
 -
 0 Who
 0 moving
-0 others,
+0 others
 0 are
 0 themselves
 0 as
-0 stone,
+0 stone
 0 %
 0 %
 0 %
 -
-0 Unmoved,
-0 cold,
+0 Unmoved
+0 cold
 0 and
 0 to
 0 temptation
-0 slow:
+0 slow
 0 %
 0 %
 0 %
@@ -14368,8 +14368,8 @@
 0 rightly
 0 do
 0 inherit
-0 heaven's
-0 graces,
+0 heavens
+0 graces
 0 %
 0 %
 0 %
@@ -14377,10 +14377,10 @@
 -
 0 And
 0 husband
-0 nature's
+0 natures
 0 riches
 0 from
-0 expense,
+0 expense
 0 %
 0 %
 0 %
@@ -14394,40 +14394,40 @@
 0 owners
 0 of
 0 their
-0 faces,
+0 faces
 0 %
 -
-0 Others,
+0 Others
 0 but
 0 stewards
 0 of
 0 their
-0 excellence:
+0 excellence
 0 %
 0 %
 0 %
 0 %
 -
 0 The
-0 summer's
+0 summers
 0 flower
 0 is
 0 to
 0 the
 0 summer
-0 sweet,
+0 sweet
 0 %
 0 %
 -
 0 Though
 0 to
 0 it
-0 self,
+0 self
 0 it
 0 only
 0 live
 0 and
-0 die,
+0 die
 0 %
 -
 0 But
@@ -14437,7 +14437,7 @@
 0 with
 0 base
 0 infection
-0 meet,
+0 meet
 0 %
 0 %
 -
@@ -14446,7 +14446,7 @@
 0 weed
 0 outbraves
 0 his
-0 dignity:
+0 dignity
 0 %
 0 %
 0 %
@@ -14459,18 +14459,18 @@
 0 sourest
 0 by
 0 their
-0 deeds,
+0 deeds
 0 %
 0 %
 -
 0 Lilies
 0 that
-0 fester,
+0 fester
 0 smell
 0 far
 0 worse
 0 than
-0 weeds.
+0 weeds
 0 %
 0 %
 -
@@ -14482,7 +14482,7 @@
 0 thou
 0 make
 0 the
-0 shame,
+0 shame
 0 %
 -
 0 Which
@@ -14492,7 +14492,7 @@
 0 in
 0 the
 0 fragrant
-0 rose,
+0 rose
 0 %
 0 %
 -
@@ -14503,7 +14503,7 @@
 0 of
 0 thy
 0 budding
-0 name!
+0 name
 0 %
 0 %
 -
@@ -14515,7 +14515,7 @@
 0 thou
 0 thy
 0 sins
-0 enclose!
+0 enclose
 0 %
 -
 0 That
@@ -14526,38 +14526,38 @@
 0 story
 0 of
 0 thy
-0 days,
+0 days
 0 %
 -
-0 (Making
+0 Making
 0 lascivious
 0 comments
 0 on
 0 thy
-0 sport)
+0 sport
 0 %
 0 %
 0 %
 0 %
 -
 0 Cannot
-0 dispraise,
+0 dispraise
 0 but
 0 in
 0 a
 0 kind
 0 of
-0 praise,
+0 praise
 0 %
 0 %
 -
 0 Naming
 0 thy
-0 name,
+0 name
 0 blesses
 0 an
 0 ill
-0 report.
+0 report
 0 %
 0 %
 0 %
@@ -14569,7 +14569,7 @@
 0 have
 0 those
 0 vices
-0 got,
+0 got
 0 %
 0 %
 -
@@ -14579,18 +14579,18 @@
 0 habitation
 0 chose
 0 out
-0 thee,
+0 thee
 0 %
 0 %
 0 %
 -
 0 Where
-0 beauty's
+0 beautys
 0 veil
 0 doth
 0 cover
 0 every
-0 blot,
+0 blot
 0 %
 0 %
 0 %
@@ -14600,31 +14600,31 @@
 0 things
 0 turns
 0 to
-0 fair,
+0 fair
 0 that
 0 eyes
 0 can
-0 see!
+0 see
 -
 0 Take
 0 heed
-0 (dear
-0 heart)
+0 dear
+0 heart
 0 of
 0 this
 0 large
-0 privilege,
+0 privilege
 0 %
 0 %
 -
 0 The
 0 hardest
 0 knife
-0 ill-used
+0 illused
 0 doth
 0 lose
 0 his
-0 edge.
+0 edge
 0 %
 0 %
 -
@@ -14633,9 +14633,9 @@
 0 thy
 0 fault
 0 is
-0 youth,
+0 youth
 0 some
-0 wantonness,
+0 wantonness
 0 %
 0 %
 -
@@ -14647,7 +14647,7 @@
 0 youth
 0 and
 0 gentle
-0 sport,
+0 sport
 0 %
 -
 0 Both
@@ -14659,16 +14659,16 @@
 0 of
 0 more
 0 and
-0 less:
+0 less
 -
 0 Thou
-0 mak'st
+0 makst
 0 faults
-0 graces,
+0 graces
 0 that
 0 to
 0 thee
-0 resort:
+0 resort
 0 %
 0 %
 -
@@ -14679,7 +14679,7 @@
 0 of
 0 a
 0 throned
-0 queen,
+0 queen
 0 %
 0 %
 -
@@ -14689,7 +14689,7 @@
 0 will
 0 be
 0 well
-0 esteemed:
+0 esteemed
 0 %
 0 %
 0 %
@@ -14702,17 +14702,17 @@
 0 in
 0 thee
 0 are
-0 seen,
+0 seen
 0 %
 -
 0 To
 0 truths
-0 translated,
+0 translated
 0 and
 0 for
 0 true
 0 things
-0 deemed.
+0 deemed
 0 %
 0 %
 -
@@ -14723,7 +14723,7 @@
 0 the
 0 stern
 0 wolf
-0 betray,
+0 betray
 0 %
 0 %
 -
@@ -14735,7 +14735,7 @@
 0 could
 0 his
 0 looks
-0 translate!
+0 translate
 0 %
 -
 0 How
@@ -14744,7 +14744,7 @@
 0 mightst
 0 thou
 0 lead
-0 away,
+0 away
 0 %
 0 %
 0 %
@@ -14758,28 +14758,28 @@
 0 of
 0 all
 0 thy
-0 state!
+0 state
 -
 0 But
 0 do
 0 not
-0 so,
+0 so
 0 I
 0 love
 0 thee
 0 in
 0 such
-0 sort,
+0 sort
 -
 0 As
 0 thou
 0 being
-0 mine,
+0 mine
 0 mine
 0 is
 0 thy
 0 good
-0 report.
+0 report
 0 %
 -
 0 How
@@ -14794,13 +14794,13 @@
 0 %
 -
 0 From
-0 thee,
+0 thee
 0 the
 0 pleasure
 0 of
 0 the
 0 fleeting
-0 year!
+0 year
 0 %
 0 %
 -
@@ -14808,18 +14808,18 @@
 0 freezings
 0 have
 0 I
-0 felt,
+0 felt
 0 what
 0 dark
 0 days
-0 seen!
+0 seen
 0 %
 -
 0 What
 0 old
-0 December's
+0 Decembers
 0 bareness
-0 everywhere!
+0 everywhere
 0 %
 0 %
 0 %
@@ -14832,8 +14832,8 @@
 0 time
 0 removed
 0 was
-0 summer's
-0 time,
+0 summers
+0 time
 0 %
 0 %
 -
@@ -14843,7 +14843,7 @@
 0 big
 0 with
 0 rich
-0 increase,
+0 increase
 0 %
 0 %
 0 %
@@ -14854,7 +14854,7 @@
 0 burden
 0 of
 0 the
-0 prime,
+0 prime
 0 %
 0 %
 0 %
@@ -14864,8 +14864,8 @@
 0 wombs
 0 after
 0 their
-0 lords'
-0 decease:
+0 lords
+0 decease
 0 %
 0 %
 0 %
@@ -14884,10 +14884,10 @@
 0 But
 0 hope
 0 of
-0 orphans,
+0 orphans
 0 and
 0 unfathered
-0 fruit,
+0 fruit
 0 %
 0 %
 0 %
@@ -14899,40 +14899,40 @@
 0 pleasures
 0 wait
 0 on
-0 thee,
+0 thee
 0 %
 0 %
 -
 0 And
 0 thou
-0 away,
+0 away
 0 the
 0 very
 0 birds
 0 are
-0 mute.
+0 mute
 0 %
 0 %
 -
 0 Or
 0 if
 0 they
-0 sing,
-0 'tis
+0 sing
+0 tis
 0 with
 0 so
 0 dull
 0 a
-0 cheer,
+0 cheer
 -
 0 That
 0 leaves
 0 look
-0 pale,
+0 pale
 0 dreading
 0 the
-0 winter's
-0 near.
+0 winters
+0 near
 0 %
 0 %
 -
@@ -14944,17 +14944,17 @@
 0 absent
 0 in
 0 the
-0 spring,
+0 spring
 0 %
 -
 0 When
-0 proud-pied
+0 proudpied
 0 April
-0 (dressed
+0 dressed
 0 in
 0 all
 0 his
-0 trim)
+0 trim
 0 %
 0 %
 -
@@ -14966,7 +14966,7 @@
 0 youth
 0 in
 0 every
-0 thing:
+0 thing
 0 %
 -
 0 That
@@ -14976,7 +14976,7 @@
 0 and
 0 leaped
 0 with
-0 him.
+0 him
 0 %
 0 %
 -
@@ -14985,7 +14985,7 @@
 0 the
 0 lays
 0 of
-0 birds,
+0 birds
 0 nor
 0 the
 0 sweet
@@ -14998,7 +14998,7 @@
 0 odour
 0 and
 0 in
-0 hue,
+0 hue
 0 %
 0 %
 -
@@ -15006,9 +15006,9 @@
 0 make
 0 me
 0 any
-0 summer's
+0 summers
 0 story
-0 tell:
+0 tell
 0 %
 0 %
 0 %
@@ -15022,7 +15022,7 @@
 0 them
 0 where
 0 they
-0 grew:
+0 grew
 -
 0 Nor
 0 did
@@ -15030,8 +15030,8 @@
 0 wonder
 0 at
 0 the
-0 lily's
-0 white,
+0 lilys
+0 white
 0 %
 0 %
 -
@@ -15042,29 +15042,29 @@
 0 vermilion
 0 in
 0 the
-0 rose,
+0 rose
 0 %
 0 %
 -
 0 They
 0 were
 0 but
-0 sweet,
+0 sweet
 0 but
 0 figures
 0 of
-0 delight:
+0 delight
 0 %
 0 %
 -
 0 Drawn
 0 after
-0 you,
+0 you
 0 you
 0 pattern
 0 of
 0 all
-0 those.
+0 those
 0 %
 0 %
 -
@@ -15072,10 +15072,10 @@
 0 seemed
 0 it
 0 winter
-0 still,
+0 still
 0 and
 0 you
-0 away,
+0 away
 0 %
 0 %
 -
@@ -15087,7 +15087,7 @@
 0 with
 0 these
 0 did
-0 play.
+0 play
 0 %
 -
 0 The
@@ -15096,13 +15096,13 @@
 0 thus
 0 did
 0 I
-0 chide,
+0 chide
 0 %
 0 %
 0 %
 -
 0 Sweet
-0 thief,
+0 thief
 0 whence
 0 didst
 0 thou
@@ -15110,14 +15110,14 @@
 0 thy
 0 sweet
 0 that
-0 smells,
+0 smells
 -
 0 If
 0 not
 0 from
 0 my
-0 love's
-0 breath?
+0 loves
+0 breath
 0 The
 0 purple
 0 pride
@@ -15130,19 +15130,19 @@
 0 check
 0 for
 0 complexion
-0 dwells,
+0 dwells
 0 %
 0 %
 -
 0 In
 0 my
-0 love's
+0 loves
 0 veins
 0 thou
 0 hast
 0 too
 0 grossly
-0 dyed.
+0 dyed
 0 %
 -
 0 The
@@ -15151,7 +15151,7 @@
 0 condemned
 0 for
 0 thy
-0 hand,
+0 hand
 0 %
 0 %
 0 %
@@ -15161,9 +15161,9 @@
 0 of
 0 marjoram
 0 had
-0 stol'n
+0 stoln
 0 thy
-0 hair,
+0 hair
 0 %
 0 %
 -
@@ -15173,17 +15173,17 @@
 0 on
 0 thorns
 0 did
-0 stand,
+0 stand
 0 %
 0 %
 0 %
 -
 0 One
 0 blushing
-0 shame,
+0 shame
 0 another
 0 white
-0 despair:
+0 despair
 0 %
 0 %
 0 %
@@ -15192,13 +15192,13 @@
 0 A
 0 third
 0 nor
-0 red,
+0 red
 0 nor
-0 white,
+0 white
 0 had
-0 stol'n
+0 stoln
 0 of
-0 both,
+0 both
 -
 0 And
 0 to
@@ -15207,7 +15207,7 @@
 0 had
 0 annexed
 0 thy
-0 breath,
+0 breath
 0 %
 0 %
 -
@@ -15229,30 +15229,30 @@
 0 him
 0 up
 0 to
-0 death.
+0 death
 0 %
 0 %
 -
 0 More
 0 flowers
 0 I
-0 noted,
+0 noted
 0 yet
 0 I
 0 none
 0 could
-0 see,
+0 see
 0 %
 -
 0 But
-0 sweet,
+0 sweet
 0 or
 0 colour
 0 it
 0 had
-0 stol'n
+0 stoln
 0 from
-0 thee.
+0 thee
 0 %
 -
 0 Where
@@ -15261,9 +15261,9 @@
 0 Muse
 0 that
 0 thou
-0 forget'st
+0 forgetst
 0 so
-0 long,
+0 long
 0 %
 -
 0 To
@@ -15275,16 +15275,16 @@
 0 thee
 0 all
 0 thy
-0 might?
+0 might
 -
-0 Spend'st
+0 Spendst
 0 thou
 0 thy
 0 fury
 0 on
 0 some
 0 worthless
-0 song,
+0 song
 0 %
 0 %
 -
@@ -15295,16 +15295,16 @@
 0 lend
 0 base
 0 subjects
-0 light?
+0 light
 0 %
 0 %
 -
 0 Return
 0 forgetful
-0 Muse,
+0 Muse
 0 and
 0 straight
-0 redeem,
+0 redeem
 0 %
 0 %
 0 %
@@ -15316,7 +15316,7 @@
 0 time
 0 so
 0 idly
-0 spent,
+0 spent
 0 %
 0 %
 0 %
@@ -15329,7 +15329,7 @@
 0 doth
 0 thy
 0 lays
-0 esteem,
+0 esteem
 0 %
 -
 0 And
@@ -15339,18 +15339,18 @@
 0 both
 0 skill
 0 and
-0 argument.
+0 argument
 0 %
 0 %
 -
 0 Rise
 0 resty
-0 Muse,
+0 Muse
 0 my
-0 love's
+0 loves
 0 sweet
 0 face
-0 survey,
+0 survey
 0 %
 0 %
 -
@@ -15360,28 +15360,28 @@
 0 any
 0 wrinkle
 0 graven
-0 there,
+0 there
 0 %
 0 %
 0 %
 -
 0 If
-0 any,
+0 any
 0 be
 0 a
 0 satire
 0 to
-0 decay,
+0 decay
 0 %
 0 %
 0 %
 -
 0 And
 0 make
-0 time's
+0 times
 0 spoils
 0 despised
-0 everywhere.
+0 everywhere
 0 %
 0 %
 0 %
@@ -15395,17 +15395,17 @@
 0 than
 0 Time
 0 wastes
-0 life,
+0 life
 0 %
 -
 0 So
 0 thou
-0 prevent'st
+0 preventst
 0 his
-0 scythe,
+0 scythe
 0 and
 0 crooked
-0 knife.
+0 knife
 0 %
 0 %
 -
@@ -15416,7 +15416,7 @@
 0 shall
 0 be
 0 thy
-0 amends,
+0 amends
 0 %
 0 %
 -
@@ -15427,7 +15427,7 @@
 0 truth
 0 in
 0 beauty
-0 dyed?
+0 dyed
 0 %
 0 %
 -
@@ -15438,50 +15438,50 @@
 0 on
 0 my
 0 love
-0 depends:
+0 depends
 0 %
 0 %
 -
 0 So
 0 dost
 0 thou
-0 too,
+0 too
 0 and
 0 therein
-0 dignified:
+0 dignified
 0 %
 0 %
 0 %
 -
 0 Make
 0 answer
-0 Muse,
+0 Muse
 0 wilt
 0 thou
 0 not
 0 haply
-0 say,
+0 say
 0 %
 0 %
 -
-0 'Truth
+0 Truth
 0 needs
 0 no
 0 colour
 0 with
 0 his
 0 colour
-0 fixed,
+0 fixed
 0 %
 0 %
 -
 0 Beauty
 0 no
-0 pencil,
-0 beauty's
+0 pencil
+0 beautys
 0 truth
 0 to
-0 lay:
+0 lay
 0 %
 0 %
 0 %
@@ -15489,10 +15489,10 @@
 0 But
 0 best
 0 is
-0 best,
+0 best
 0 if
 0 never
-0 intermixed'?
+0 intermixed
 0 %
 0 %
 0 %
@@ -15501,21 +15501,21 @@
 0 he
 0 needs
 0 no
-0 praise,
+0 praise
 0 wilt
 0 thou
 0 be
-0 dumb?
+0 dumb
 0 %
 -
 0 Excuse
 0 not
 0 silence
-0 so,
-0 for't
+0 so
+0 fort
 0 lies
 0 in
-0 thee,
+0 thee
 0 %
 0 %
 -
@@ -15526,7 +15526,7 @@
 0 outlive
 0 a
 0 gilded
-0 tomb:
+0 tomb
 0 %
 0 %
 -
@@ -15538,18 +15538,18 @@
 0 ages
 0 yet
 0 to
-0 be.
+0 be
 0 %
 -
 0 Then
 0 do
 0 thy
 0 office
-0 Muse,
+0 Muse
 0 I
 0 teach
 0 thee
-0 how,
+0 how
 0 %
 -
 0 To
@@ -15557,11 +15557,11 @@
 0 him
 0 seem
 0 long
-0 hence,
+0 hence
 0 as
 0 he
 0 shows
-0 now.
+0 now
 -
 0 My
 0 love
@@ -15571,38 +15571,38 @@
 0 more
 0 weak
 0 in
-0 seeming,
+0 seeming
 0 %
 -
 0 I
 0 love
 0 not
-0 less,
+0 less
 0 though
 0 less
 0 the
 0 show
-0 appear,
+0 appear
 0 %
 -
 0 That
 0 love
 0 is
-0 merchandized,
+0 merchandized
 0 whose
 0 rich
-0 esteeming,
+0 esteeming
 0 %
 0 %
 0 %
 -
 0 The
-0 owner's
+0 owners
 0 tongue
 0 doth
 0 publish
 0 every
-0 where.
+0 where
 0 %
 0 %
 0 %
@@ -15610,13 +15610,13 @@
 0 Our
 0 love
 0 was
-0 new,
+0 new
 0 and
 0 then
 0 but
 0 in
 0 the
-0 spring,
+0 spring
 -
 0 When
 0 I
@@ -15627,15 +15627,15 @@
 0 it
 0 with
 0 my
-0 lays,
+0 lays
 -
 0 As
 0 Philomel
 0 in
-0 summer's
+0 summers
 0 front
 0 doth
-0 sing,
+0 sing
 0 %
 0 %
 0 %
@@ -15648,7 +15648,7 @@
 0 growth
 0 of
 0 riper
-0 days:
+0 days
 0 %
 -
 0 Not
@@ -15670,7 +15670,7 @@
 0 did
 0 hush
 0 the
-0 night,
+0 night
 0 %
 -
 0 But
@@ -15679,7 +15679,7 @@
 0 music
 0 burthens
 0 every
-0 bough,
+0 bough
 0 %
 0 %
 0 %
@@ -15691,18 +15691,18 @@
 0 lose
 0 their
 0 dear
-0 delight.
+0 delight
 0 %
 0 %
 -
 0 Therefore
 0 like
-0 her,
+0 her
 0 I
 0 sometime
 0 hold
 0 my
-0 tongue:
+0 tongue
 0 %
 0 %
 -
@@ -15714,7 +15714,7 @@
 0 you
 0 with
 0 my
-0 song.
+0 song
 0 %
 -
 0 Alack
@@ -15723,7 +15723,7 @@
 0 my
 0 muse
 0 brings
-0 forth,
+0 forth
 0 %
 0 %
 0 %
@@ -15736,7 +15736,7 @@
 0 to
 0 show
 0 her
-0 pride,
+0 pride
 0 %
 -
 0 The
@@ -15757,7 +15757,7 @@
 0 my
 0 added
 0 praise
-0 beside.
+0 beside
 0 %
 0 %
 -
@@ -15770,7 +15770,7 @@
 0 no
 0 more
 0 can
-0 write!
+0 write
 -
 0 Look
 0 in
@@ -15780,15 +15780,15 @@
 0 there
 0 appears
 0 a
-0 face,
+0 face
 0 %
 -
 0 That
-0 over-goes
+0 overgoes
 0 my
 0 blunt
 0 invention
-0 quite,
+0 quite
 0 %
 0 %
 0 %
@@ -15796,11 +15796,11 @@
 -
 0 Dulling
 0 my
-0 lines,
+0 lines
 0 and
 0 doing
 0 me
-0 disgrace.
+0 disgrace
 0 %
 0 %
 0 %
@@ -15812,7 +15812,7 @@
 0 then
 0 striving
 0 to
-0 mend,
+0 mend
 0 %
 0 %
 -
@@ -15823,7 +15823,7 @@
 0 that
 0 before
 0 was
-0 well?
+0 well
 0 %
 0 %
 -
@@ -15834,7 +15834,7 @@
 0 pass
 0 my
 0 verses
-0 tend,
+0 tend
 0 %
 0 %
 -
@@ -15846,11 +15846,11 @@
 0 your
 0 gifts
 0 to
-0 tell.
+0 tell
 0 %
 -
 0 And
-0 more,
+0 more
 0 much
 0 more
 0 than
@@ -15858,18 +15858,18 @@
 0 my
 0 verse
 0 can
-0 sit,
+0 sit
 -
 0 Your
 0 own
 0 glass
 0 shows
-0 you,
+0 you
 0 when
 0 you
 0 look
 0 in
-0 it.
+0 it
 -
 0 To
 0 me
@@ -15879,7 +15879,7 @@
 0 never
 0 can
 0 be
-0 old,
+0 old
 0 %
 -
 0 For
@@ -15891,16 +15891,16 @@
 0 your
 0 eye
 0 I
-0 eyed,
+0 eyed
 -
 0 Such
 0 seems
 0 your
 0 beauty
-0 still:
+0 still
 0 three
 0 winters
-0 cold,
+0 cold
 0 %
 0 %
 -
@@ -15910,8 +15910,8 @@
 0 forests
 0 shook
 0 three
-0 summers'
-0 pride,
+0 summers
+0 pride
 0 %
 0 %
 -
@@ -15921,7 +15921,7 @@
 0 to
 0 yellow
 0 autumn
-0 turned,
+0 turned
 0 %
 0 %
 0 %
@@ -15933,7 +15933,7 @@
 0 seasons
 0 have
 0 I
-0 seen,
+0 seen
 0 %
 0 %
 -
@@ -15944,7 +15944,7 @@
 0 three
 0 hot
 0 Junes
-0 burned,
+0 burned
 0 %
 0 %
 -
@@ -15957,7 +15957,7 @@
 0 which
 0 yet
 0 are
-0 green.
+0 green
 -
 0 Ah
 0 yet
@@ -15966,25 +15966,25 @@
 0 like
 0 a
 0 dial
-0 hand,
+0 hand
 0 %
 0 %
 -
 0 Steal
 0 from
 0 his
-0 figure,
+0 figure
 0 and
 0 no
 0 pace
-0 perceived,
+0 perceived
 0 %
 0 %
 -
 0 So
 0 your
 0 sweet
-0 hue,
+0 hue
 0 which
 0 methinks
 0 still
@@ -15993,25 +15993,25 @@
 0 %
 -
 0 Hath
-0 motion,
+0 motion
 0 and
 0 mine
 0 eye
 0 may
 0 be
-0 deceived.
+0 deceived
 0 %
 0 %
 -
 0 For
 0 fear
 0 of
-0 which,
+0 which
 0 hear
 0 this
 0 thou
 0 age
-0 unbred,
+0 unbred
 0 %
 -
 0 Ere
@@ -16019,9 +16019,9 @@
 0 were
 0 born
 0 was
-0 beauty's
+0 beautys
 0 summer
-0 dead.
+0 dead
 0 %
 0 %
 -
@@ -16031,7 +16031,7 @@
 0 love
 0 be
 0 called
-0 idolatry,
+0 idolatry
 0 %
 0 %
 0 %
@@ -16042,7 +16042,7 @@
 0 as
 0 an
 0 idol
-0 show,
+0 show
 0 %
 0 %
 0 %
@@ -16059,23 +16059,23 @@
 0 %
 -
 0 To
-0 one,
+0 one
 0 of
-0 one,
+0 one
 0 still
-0 such,
+0 such
 0 and
 0 ever
-0 so.
+0 so
 0 %
 -
 0 Kind
 0 is
 0 my
 0 love
-0 to-day,
-0 to-morrow
-0 kind,
+0 today
+0 tomorrow
+0 kind
 0 %
 0 %
 0 %
@@ -16085,7 +16085,7 @@
 0 in
 0 a
 0 wondrous
-0 excellence,
+0 excellence
 0 %
 0 %
 0 %
@@ -16096,7 +16096,7 @@
 0 verse
 0 to
 0 constancy
-0 confined,
+0 confined
 0 %
 0 %
 0 %
@@ -16104,34 +16104,34 @@
 -
 0 One
 0 thing
-0 expressing,
+0 expressing
 0 leaves
 0 out
-0 difference.
+0 difference
 0 %
 0 %
 0 %
 0 %
 -
-0 Fair,
-0 kind,
+0 Fair
+0 kind
 0 and
-0 true,
+0 true
 0 is
 0 all
 0 my
-0 argument,
+0 argument
 0 %
 0 %
 -
-0 Fair,
-0 kind,
+0 Fair
+0 kind
 0 and
-0 true,
+0 true
 0 varying
 0 to
 0 other
-0 words,
+0 words
 0 %
 0 %
 -
@@ -16142,41 +16142,41 @@
 0 is
 0 my
 0 invention
-0 spent,
+0 spent
 0 %
 0 %
 -
 0 Three
 0 themes
 0 in
-0 one,
+0 one
 0 which
 0 wondrous
 0 scope
-0 affords.
+0 affords
 0 %
 0 %
 -
-0 Fair,
-0 kind,
+0 Fair
+0 kind
 0 and
-0 true,
+0 true
 0 have
 0 often
 0 lived
-0 alone.
+0 alone
 0 %
 0 %
 -
 0 Which
 0 three
 0 till
-0 now,
+0 now
 0 never
 0 kept
 0 seat
 0 in
-0 one.
+0 one
 0 %
 -
 0 When
@@ -16185,7 +16185,7 @@
 0 chronicle
 0 of
 0 wasted
-0 time,
+0 time
 0 %
 0 %
 0 %
@@ -16196,7 +16196,7 @@
 0 of
 0 the
 0 fairest
-0 wights,
+0 wights
 0 %
 0 %
 0 %
@@ -16206,7 +16206,7 @@
 0 making
 0 beautiful
 0 old
-0 rhyme,
+0 rhyme
 0 %
 0 %
 0 %
@@ -16216,10 +16216,10 @@
 0 praise
 0 of
 0 ladies
-0 dead,
+0 dead
 0 and
 0 lovely
-0 knights,
+0 knights
 0 %
 0 %
 -
@@ -16229,21 +16229,21 @@
 0 blazon
 0 of
 0 sweet
-0 beauty's
-0 best,
+0 beautys
+0 best
 0 %
 0 %
 -
 0 Of
-0 hand,
+0 hand
 0 of
-0 foot,
+0 foot
 0 of
-0 lip,
+0 lip
 0 of
-0 eye,
+0 eye
 0 of
-0 brow,
+0 brow
 -
 0 I
 0 see
@@ -16252,7 +16252,7 @@
 0 pen
 0 would
 0 have
-0 expressed,
+0 expressed
 0 %
 0 %
 -
@@ -16263,7 +16263,7 @@
 0 as
 0 you
 0 master
-0 now.
+0 now
 0 %
 0 %
 -
@@ -16281,10 +16281,10 @@
 0 Of
 0 this
 0 our
-0 time,
+0 time
 0 all
 0 you
-0 prefiguring,
+0 prefiguring
 0 %
 0 %
 0 %
@@ -16296,7 +16296,7 @@
 0 but
 0 with
 0 divining
-0 eyes,
+0 eyes
 0 %
 0 %
 -
@@ -16308,7 +16308,7 @@
 0 your
 0 worth
 0 to
-0 sing:
+0 sing
 0 %
 -
 0 For
@@ -16318,41 +16318,41 @@
 0 behold
 0 these
 0 present
-0 days,
+0 days
 0 %
 0 %
 -
 0 Have
 0 eyes
 0 to
-0 wonder,
+0 wonder
 0 but
 0 lack
 0 tongues
 0 to
-0 praise.
+0 praise
 0 %
 -
 0 Not
 0 mine
 0 own
-0 fears,
+0 fears
 0 nor
 0 the
 0 prophetic
-0 soul,
+0 soul
 0 %
 0 %
 -
 0 Of
 0 the
 0 wide
-0 world,
+0 world
 0 dreaming
 0 on
 0 things
 0 to
-0 come,
+0 come
 0 %
 -
 0 Can
@@ -16363,7 +16363,7 @@
 0 my
 0 true
 0 love
-0 control,
+0 control
 0 %
 -
 0 Supposed
@@ -16372,7 +16372,7 @@
 0 to
 0 a
 0 confined
-0 doom.
+0 doom
 0 %
 0 %
 0 %
@@ -16383,7 +16383,7 @@
 0 hath
 0 her
 0 eclipse
-0 endured,
+0 endured
 0 %
 0 %
 0 %
@@ -16395,7 +16395,7 @@
 0 mock
 0 their
 0 own
-0 presage,
+0 presage
 0 %
 0 %
 -
@@ -16403,7 +16403,7 @@
 0 now
 0 crown
 0 themselves
-0 assured,
+0 assured
 0 %
 0 %
 0 %
@@ -16416,7 +16416,7 @@
 0 olives
 0 of
 0 endless
-0 age.
+0 age
 0 %
 0 %
 0 %
@@ -16429,39 +16429,39 @@
 0 this
 0 most
 0 balmy
-0 time,
+0 time
 0 %
 -
 0 My
 0 love
 0 looks
-0 fresh,
+0 fresh
 0 and
 0 death
 0 to
 0 me
-0 subscribes,
+0 subscribes
 0 %
 -
 0 Since
 0 spite
 0 of
 0 him
-0 I'll
+0 Ill
 0 live
 0 in
 0 this
 0 poor
-0 rhyme,
+0 rhyme
 -
 0 While
 0 he
 0 insults
-0 o'er
+0 oer
 0 dull
 0 and
 0 speechless
-0 tribes.
+0 tribes
 0 %
 0 %
 -
@@ -16472,29 +16472,29 @@
 0 shalt
 0 find
 0 thy
-0 monument,
+0 monument
 0 %
 0 %
 -
 0 When
-0 tyrants'
+0 tyrants
 0 crests
 0 and
 0 tombs
 0 of
 0 brass
 0 are
-0 spent.
+0 spent
 0 %
 -
-0 What's
+0 Whats
 0 in
 0 the
 0 brain
 0 that
 0 ink
 0 may
-0 character,
+0 character
 0 %
 0 %
 -
@@ -16506,17 +16506,17 @@
 0 thee
 0 my
 0 true
-0 spirit,
+0 spirit
 0 %
 -
-0 What's
+0 Whats
 0 new
 0 to
-0 speak,
+0 speak
 0 what
 0 now
 0 to
-0 register,
+0 register
 0 %
 0 %
 -
@@ -16524,21 +16524,21 @@
 0 may
 0 express
 0 my
-0 love,
+0 love
 0 or
 0 thy
 0 dear
-0 merit?
+0 merit
 0 %
 -
 0 Nothing
 0 sweet
-0 boy,
+0 boy
 0 but
 0 yet
 0 like
 0 prayers
-0 divine,
+0 divine
 0 %
 0 %
 -
@@ -16547,21 +16547,21 @@
 0 each
 0 day
 0 say
-0 o'er
+0 oer
 0 the
 0 very
-0 same,
+0 same
 0 %
 -
 0 Counting
 0 no
 0 old
 0 thing
-0 old,
+0 old
 0 thou
-0 mine,
+0 mine
 0 I
-0 thine,
+0 thine
 0 %
 -
 0 Even
@@ -16572,7 +16572,7 @@
 0 hallowed
 0 thy
 0 fair
-0 name.
+0 name
 0 %
 -
 0 So
@@ -16580,9 +16580,9 @@
 0 eternal
 0 love
 0 in
-0 love's
+0 loves
 0 fresh
-0 case,
+0 case
 0 %
 0 %
 -
@@ -16593,7 +16593,7 @@
 0 and
 0 injury
 0 of
-0 age,
+0 age
 0 %
 0 %
 -
@@ -16602,7 +16602,7 @@
 0 to
 0 necessary
 0 wrinkles
-0 place,
+0 place
 0 %
 0 %
 0 %
@@ -16614,7 +16614,7 @@
 0 for
 0 aye
 0 his
-0 page,
+0 page
 0 %
 0 %
 0 %
@@ -16626,7 +16626,7 @@
 0 of
 0 love
 0 there
-0 bred,
+0 bred
 0 %
 0 %
 -
@@ -16638,7 +16638,7 @@
 0 would
 0 show
 0 it
-0 dead.
+0 dead
 0 %
 -
 0 O
@@ -16649,7 +16649,7 @@
 0 was
 0 false
 0 of
-0 heart,
+0 heart
 0 %
 -
 0 Though
@@ -16658,7 +16658,7 @@
 0 my
 0 flame
 0 to
-0 qualify,
+0 qualify
 0 %
 0 %
 0 %
@@ -16670,7 +16670,7 @@
 0 from
 0 my
 0 self
-0 depart,
+0 depart
 0 %
 0 %
 -
@@ -16683,18 +16683,18 @@
 0 thy
 0 breast
 0 doth
-0 lie:
+0 lie
 -
 0 That
 0 is
 0 my
 0 home
 0 of
-0 love,
+0 love
 0 if
 0 I
 0 have
-0 ranged,
+0 ranged
 -
 0 Like
 0 him
@@ -16702,7 +16702,7 @@
 0 travels
 0 I
 0 return
-0 again,
+0 again
 0 %
 0 %
 0 %
@@ -16710,12 +16710,12 @@
 0 Just
 0 to
 0 the
-0 time,
+0 time
 0 not
 0 with
 0 the
 0 time
-0 exchanged,
+0 exchanged
 0 %
 -
 0 So
@@ -16726,7 +16726,7 @@
 0 water
 0 for
 0 my
-0 stain,
+0 stain
 0 %
 -
 0 Never
@@ -16735,7 +16735,7 @@
 0 in
 0 my
 0 nature
-0 reigned,
+0 reigned
 0 %
 0 %
 0 %
@@ -16747,7 +16747,7 @@
 0 all
 0 kinds
 0 of
-0 blood,
+0 blood
 0 %
 0 %
 -
@@ -16757,7 +16757,7 @@
 0 so
 0 preposterously
 0 be
-0 stained,
+0 stained
 0 %
 0 %
 0 %
@@ -16770,7 +16770,7 @@
 0 thy
 0 sum
 0 of
-0 good:
+0 good
 0 %
 -
 0 For
@@ -16779,7 +16779,7 @@
 0 wide
 0 universe
 0 I
-0 call,
+0 call
 0 %
 0 %
 0 %
@@ -16787,23 +16787,23 @@
 0 Save
 0 thou
 0 my
-0 rose,
+0 rose
 0 in
 0 it
 0 thou
 0 art
 0 my
-0 all.
+0 all
 -
 0 Alas
-0 'tis
-0 true,
+0 tis
+0 true
 0 I
 0 have
 0 gone
 0 here
 0 and
-0 there,
+0 there
 0 %
 -
 0 And
@@ -16814,26 +16814,26 @@
 0 motley
 0 to
 0 the
-0 view,
+0 view
 0 %
 -
 0 Gored
 0 mine
 0 own
-0 thoughts,
+0 thoughts
 0 sold
 0 cheap
 0 what
 0 is
 0 most
-0 dear,
+0 dear
 -
 0 Made
 0 old
 0 offences
 0 of
 0 affections
-0 new.
+0 new
 0 %
 0 %
 0 %
@@ -16842,7 +16842,7 @@
 0 Most
 0 true
 0 it
-0 is,
+0 is
 0 that
 0 I
 0 have
@@ -16852,11 +16852,11 @@
 -
 0 Askance
 0 and
-0 strangely:
+0 strangely
 0 but
 0 by
 0 all
-0 above,
+0 above
 0 %
 0 %
 0 %
@@ -16867,7 +16867,7 @@
 0 my
 0 heart
 0 another
-0 youth,
+0 youth
 0 %
 0 %
 0 %
@@ -16880,19 +16880,19 @@
 0 my
 0 best
 0 of
-0 love.
+0 love
 0 %
 -
 0 Now
 0 all
 0 is
-0 done,
+0 done
 0 have
 0 what
 0 shall
 0 have
 0 no
-0 end,
+0 end
 -
 0 Mine
 0 appetite
@@ -16907,35 +16907,35 @@
 -
 0 On
 0 newer
-0 proof,
+0 proof
 0 to
 0 try
 0 an
 0 older
-0 friend,
+0 friend
 0 %
 0 %
 -
 0 A
 0 god
 0 in
-0 love,
+0 love
 0 to
 0 whom
 0 I
 0 am
-0 confined.
+0 confined
 0 %
 -
 0 Then
 0 give
 0 me
-0 welcome,
+0 welcome
 0 next
 0 my
 0 heaven
 0 the
-0 best,
+0 best
 0 %
 -
 0 Even
@@ -16946,7 +16946,7 @@
 0 most
 0 most
 0 loving
-0 breast.
+0 breast
 0 %
 -
 0 O
@@ -16957,7 +16957,7 @@
 0 you
 0 with
 0 Fortune
-0 chide,
+0 chide
 0 %
 -
 0 The
@@ -16966,7 +16966,7 @@
 0 of
 0 my
 0 harmful
-0 deeds,
+0 deeds
 0 %
 0 %
 0 %
@@ -16978,7 +16978,7 @@
 0 for
 0 my
 0 life
-0 provide,
+0 provide
 0 %
 0 %
 -
@@ -16988,7 +16988,7 @@
 0 which
 0 public
 0 manners
-0 breeds.
+0 breeds
 0 %
 0 %
 0 %
@@ -17001,7 +17001,7 @@
 0 name
 0 receives
 0 a
-0 brand,
+0 brand
 0 %
 -
 0 And
@@ -17019,21 +17019,21 @@
 0 what
 0 it
 0 works
-0 in,
+0 in
 0 like
 0 the
-0 dyer's
-0 hand:
+0 dyers
+0 hand
 0 %
 -
 0 Pity
 0 me
-0 then,
+0 then
 0 and
 0 wish
 0 I
 0 were
-0 renewed,
+0 renewed
 0 %
 0 %
 -
@@ -17044,17 +17044,17 @@
 0 patient
 0 I
 0 will
-0 drink,
+0 drink
 0 %
 0 %
 -
 0 Potions
 0 of
 0 eisel
-0 'gainst
+0 gainst
 0 my
 0 strong
-0 infection,
+0 infection
 0 %
 0 %
 0 %
@@ -17065,7 +17065,7 @@
 0 I
 0 will
 0 bitter
-0 think,
+0 think
 0 %
 0 %
 0 %
@@ -17075,7 +17075,7 @@
 0 penance
 0 to
 0 correct
-0 correction.
+0 correction
 0 %
 0 %
 0 %
@@ -17085,11 +17085,11 @@
 0 me
 0 then
 0 dear
-0 friend,
+0 friend
 0 and
 0 I
 0 assure
-0 ye,
+0 ye
 0 %
 -
 0 Even
@@ -17100,7 +17100,7 @@
 0 enough
 0 to
 0 cure
-0 me.
+0 me
 0 %
 -
 0 Your
@@ -17108,9 +17108,9 @@
 0 and
 0 pity
 0 doth
-0 th'
+0 th
 0 impression
-0 fill,
+0 fill
 0 %
 0 %
 -
@@ -17120,7 +17120,7 @@
 0 stamped
 0 upon
 0 my
-0 brow,
+0 brow
 0 %
 0 %
 0 %
@@ -17134,16 +17134,16 @@
 0 me
 0 well
 0 or
-0 ill,
+0 ill
 -
 0 So
 0 you
-0 o'er-green
+0 oergreen
 0 my
-0 bad,
+0 bad
 0 my
 0 good
-0 allow?
+0 allow
 0 %
 0 %
 -
@@ -17152,11 +17152,11 @@
 0 my
 0 all
 0 the
-0 world,
+0 world
 0 and
 0 I
 0 must
-0 strive,
+0 strive
 -
 0 To
 0 know
@@ -17166,18 +17166,18 @@
 0 praises
 0 from
 0 your
-0 tongue,
+0 tongue
 0 %
 -
 0 None
 0 else
 0 to
-0 me,
+0 me
 0 nor
 0 I
 0 to
 0 none
-0 alive,
+0 alive
 0 %
 -
 0 That
@@ -17188,7 +17188,7 @@
 0 changes
 0 right
 0 or
-0 wrong.
+0 wrong
 0 %
 -
 0 In
@@ -17203,12 +17203,12 @@
 0 %
 -
 0 Of
-0 others'
-0 voices,
+0 others
+0 voices
 0 that
 0 my
-0 adder's
-0 sense,
+0 adders
+0 sense
 0 %
 0 %
 0 %
@@ -17219,7 +17219,7 @@
 0 to
 0 flatterer
 0 stopped
-0 are:
+0 are
 0 %
 0 %
 0 %
@@ -17231,7 +17231,7 @@
 0 neglect
 0 I
 0 do
-0 dispense.
+0 dispense
 0 %
 0 %
 -
@@ -17242,7 +17242,7 @@
 0 in
 0 my
 0 purpose
-0 bred,
+0 bred
 0 %
 0 %
 -
@@ -17253,20 +17253,20 @@
 0 besides
 0 methinks
 0 are
-0 dead.
+0 dead
 0 %
 0 %
 -
 0 Since
 0 I
 0 left
-0 you,
+0 you
 0 mine
 0 eye
 0 is
 0 in
 0 my
-0 mind,
+0 mind
 -
 0 And
 0 that
@@ -17275,27 +17275,27 @@
 0 me
 0 to
 0 go
-0 about,
+0 about
 0 %
 0 %
 -
 0 Doth
 0 part
 0 his
-0 function,
+0 function
 0 and
 0 is
 0 partly
-0 blind,
+0 blind
 0 %
 0 %
 -
 0 Seems
-0 seeing,
+0 seeing
 0 but
 0 effectually
 0 is
-0 out:
+0 out
 0 %
 0 %
 0 %
@@ -17313,15 +17313,15 @@
 0 %
 -
 0 Of
-0 bird,
+0 bird
 0 of
-0 flower,
+0 flower
 0 or
 0 shape
 0 which
 0 it
 0 doth
-0 latch,
+0 latch
 -
 0 Of
 0 his
@@ -17331,7 +17331,7 @@
 0 the
 0 mind
 0 no
-0 part,
+0 part
 0 %
 -
 0 Nor
@@ -17342,7 +17342,7 @@
 0 what
 0 it
 0 doth
-0 catch:
+0 catch
 0 %
 -
 0 For
@@ -17350,10 +17350,10 @@
 0 it
 0 see
 0 the
-0 rud'st
+0 rudst
 0 or
 0 gentlest
-0 sight,
+0 sight
 0 %
 -
 0 The
@@ -17361,40 +17361,40 @@
 0 sweet
 0 favour
 0 or
-0 deformed'st
-0 creature,
+0 deformedst
+0 creature
 0 %
 0 %
 0 %
 -
 0 The
-0 mountain,
+0 mountain
 0 or
 0 the
-0 sea,
+0 sea
 0 the
-0 day,
+0 day
 0 or
-0 night:
+0 night
 0 %
 -
 0 The
-0 crow,
+0 crow
 0 or
-0 dove,
+0 dove
 0 it
 0 shapes
 0 them
 0 to
 0 your
-0 feature.
+0 feature
 -
 0 Incapable
 0 of
-0 more,
+0 more
 0 replete
 0 with
-0 you,
+0 you
 0 %
 0 %
 0 %
@@ -17407,7 +17407,7 @@
 0 thus
 0 maketh
 0 mine
-0 untrue.
+0 untrue
 0 %
 0 %
 -
@@ -17425,10 +17425,10 @@
 0 Drink
 0 up
 0 the
-0 monarch's
+0 monarchs
 0 plague
 0 this
-0 flattery?
+0 flattery
 0 %
 0 %
 0 %
@@ -17441,7 +17441,7 @@
 0 mine
 0 eye
 0 saith
-0 true,
+0 true
 0 %
 -
 0 And
@@ -17451,17 +17451,17 @@
 0 taught
 0 it
 0 this
-0 alchemy?
+0 alchemy
 0 %
 0 %
 -
 0 To
 0 make
 0 of
-0 monsters,
+0 monsters
 0 and
 0 things
-0 indigest,
+0 indigest
 0 %
 0 %
 0 %
@@ -17472,7 +17472,7 @@
 0 your
 0 sweet
 0 self
-0 resemble,
+0 resemble
 0 %
 0 %
 0 %
@@ -17495,19 +17495,19 @@
 0 to
 0 his
 0 beams
-0 assemble:
+0 assemble
 0 %
 0 %
 -
 0 O
-0 'tis
+0 tis
 0 the
-0 first,
-0 'tis
+0 first
+0 tis
 0 flattery
 0 in
 0 my
-0 seeing,
+0 seeing
 0 %
 -
 0 And
@@ -17518,7 +17518,7 @@
 0 kingly
 0 drinks
 0 it
-0 up,
+0 up
 0 %
 -
 0 Mine
@@ -17530,7 +17530,7 @@
 0 his
 0 gust
 0 is
-0 'greeing,
+0 greeing
 -
 0 And
 0 to
@@ -17539,18 +17539,18 @@
 0 doth
 0 prepare
 0 the
-0 cup.
+0 cup
 0 %
 0 %
 -
 0 If
 0 it
 0 be
-0 poisoned,
-0 'tis
+0 poisoned
+0 tis
 0 the
 0 lesser
-0 sin,
+0 sin
 0 %
 0 %
 -
@@ -17562,7 +17562,7 @@
 0 and
 0 doth
 0 first
-0 begin.
+0 begin
 0 %
 -
 0 Those
@@ -17573,7 +17573,7 @@
 0 have
 0 writ
 0 do
-0 lie,
+0 lie
 0 %
 -
 0 Even
@@ -17585,7 +17585,7 @@
 0 not
 0 love
 0 you
-0 dearer,
+0 dearer
 -
 0 Yet
 0 then
@@ -17594,7 +17594,7 @@
 0 knew
 0 no
 0 reason
-0 why,
+0 why
 0 %
 0 %
 -
@@ -17605,13 +17605,13 @@
 0 should
 0 afterwards
 0 burn
-0 clearer,
+0 clearer
 0 %
 0 %
 -
 0 But
 0 reckoning
-0 time,
+0 time
 0 whose
 0 millioned
 0 accidents
@@ -17622,22 +17622,22 @@
 -
 0 Creep
 0 in
-0 'twixt
-0 vows,
+0 twixt
+0 vows
 0 and
 0 change
 0 decrees
 0 of
-0 kings,
+0 kings
 0 %
 -
 0 Tan
 0 sacred
-0 beauty,
+0 beauty
 0 blunt
 0 the
-0 sharp'st
-0 intents,
+0 sharpst
+0 intents
 0 %
 0 %
 0 %
@@ -17649,16 +17649,16 @@
 0 the
 0 course
 0 of
-0 alt'ring
-0 things:
+0 altring
+0 things
 0 %
 -
 0 Alas
 0 why
 0 fearing
 0 of
-0 time's
-0 tyranny,
+0 times
+0 tyranny
 0 %
 0 %
 0 %
@@ -17669,18 +17669,18 @@
 0 not
 0 then
 0 say
-0 'Now
+0 Now
 0 I
 0 love
 0 you
-0 best,'
+0 best
 -
 0 When
 0 I
 0 was
 0 certain
-0 o'er
-0 incertainty,
+0 oer
+0 incertainty
 0 %
 0 %
 0 %
@@ -17688,11 +17688,11 @@
 -
 0 Crowning
 0 the
-0 present,
+0 present
 0 doubting
 0 of
 0 the
-0 rest?
+0 rest
 0 %
 0 %
 0 %
@@ -17700,7 +17700,7 @@
 0 Love
 0 is
 0 a
-0 babe,
+0 babe
 0 then
 0 might
 0 I
@@ -17717,7 +17717,7 @@
 0 which
 0 still
 0 doth
-0 grow.
+0 grow
 -
 0 Let
 0 me
@@ -17731,7 +17731,7 @@
 0 %
 -
 0 Admit
-0 impediments,
+0 impediments
 0 love
 0 is
 0 not
@@ -17746,7 +17746,7 @@
 0 when
 0 it
 0 alteration
-0 finds,
+0 finds
 0 %
 0 %
 0 %
@@ -17758,17 +17758,17 @@
 0 the
 0 remover
 0 to
-0 remove.
+0 remove
 0 %
 0 %
 0 %
 -
 0 O
-0 no,
+0 no
 0 it
 0 is
 0 an
-0 ever-fixed
+0 everfixed
 0 mark
 0 %
 0 %
@@ -17781,7 +17781,7 @@
 0 and
 0 is
 0 never
-0 shaken;
+0 shaken
 0 %
 0 %
 -
@@ -17791,26 +17791,26 @@
 0 star
 0 to
 0 every
-0 wand'ring
-0 bark,
+0 wandring
+0 bark
 0 %
 0 %
 -
 0 Whose
-0 worth's
-0 unknown,
+0 worths
+0 unknown
 0 although
 0 his
 0 height
 0 be
-0 taken.
+0 taken
 0 %
 0 %
 -
-0 Love's
+0 Loves
 0 not
-0 Time's
-0 fool,
+0 Times
+0 fool
 0 though
 0 rosy
 0 lips
@@ -17821,9 +17821,9 @@
 0 Within
 0 his
 0 bending
-0 sickle's
+0 sickles
 0 compass
-0 come,
+0 come
 0 %
 0 %
 0 %
@@ -17837,7 +17837,7 @@
 0 brief
 0 hours
 0 and
-0 weeks,
+0 weeks
 0 %
 -
 0 But
@@ -17849,7 +17849,7 @@
 0 the
 0 edge
 0 of
-0 doom:
+0 doom
 -
 0 If
 0 this
@@ -17858,29 +17858,29 @@
 0 and
 0 upon
 0 me
-0 proved,
+0 proved
 0 %
 0 %
 -
 0 I
 0 never
-0 writ,
+0 writ
 0 nor
 0 no
 0 man
 0 ever
-0 loved.
+0 loved
 0 %
 0 %
 -
 0 Accuse
 0 me
-0 thus,
+0 thus
 0 that
 0 I
 0 have
 0 scanted
-0 all,
+0 all
 0 %
 0 %
 -
@@ -17890,7 +17890,7 @@
 0 your
 0 great
 0 deserts
-0 repay,
+0 repay
 0 %
 0 %
 0 %
@@ -17901,7 +17901,7 @@
 0 dearest
 0 love
 0 to
-0 call,
+0 call
 0 %
 0 %
 0 %
@@ -17914,7 +17914,7 @@
 0 me
 0 day
 0 by
-0 day,
+0 day
 0 %
 -
 0 That
@@ -17924,7 +17924,7 @@
 0 been
 0 with
 0 unknown
-0 minds,
+0 minds
 0 %
 0 %
 -
@@ -17934,8 +17934,8 @@
 0 time
 0 your
 0 own
-0 dear-purchased
-0 right,
+0 dearpurchased
+0 right
 0 %
 0 %
 -
@@ -17957,7 +17957,7 @@
 0 farthest
 0 from
 0 your
-0 sight.
+0 sight
 0 %
 0 %
 -
@@ -17967,7 +17967,7 @@
 0 wilfulness
 0 and
 0 errors
-0 down,
+0 down
 0 %
 0 %
 0 %
@@ -17976,8 +17976,8 @@
 0 on
 0 just
 0 proof
-0 surmise,
-0 accumulate,
+0 surmise
+0 accumulate
 0 %
 0 %
 0 %
@@ -17990,7 +17990,7 @@
 0 level
 0 of
 0 your
-0 frown,
+0 frown
 0 %
 0 %
 -
@@ -18002,7 +18002,7 @@
 0 in
 0 your
 0 wakened
-0 hate:
+0 hate
 0 %
 -
 0 Since
@@ -18022,7 +18022,7 @@
 0 virtue
 0 of
 0 your
-0 love.
+0 love
 0 %
 0 %
 0 %
@@ -18044,7 +18044,7 @@
 0 we
 0 our
 0 palate
-0 urge,
+0 urge
 0 %
 0 %
 0 %
@@ -18054,7 +18054,7 @@
 0 prevent
 0 our
 0 maladies
-0 unseen,
+0 unseen
 0 %
 0 %
 0 %
@@ -18067,7 +18067,7 @@
 0 sickness
 0 when
 0 we
-0 purge.
+0 purge
 0 %
 0 %
 -
@@ -18077,8 +18077,8 @@
 0 full
 0 of
 0 your
-0 ne'er-cloying
-0 sweetness,
+0 neercloying
+0 sweetness
 0 %
 0 %
 -
@@ -18089,7 +18089,7 @@
 0 I
 0 frame
 0 my
-0 feeding;
+0 feeding
 0 %
 0 %
 -
@@ -18101,7 +18101,7 @@
 0 a
 0 kind
 0 of
-0 meetness,
+0 meetness
 0 %
 -
 0 To
@@ -18112,14 +18112,14 @@
 0 there
 0 was
 0 true
-0 needing.
+0 needing
 0 %
 -
 0 Thus
 0 policy
 0 in
 0 love
-0 t'
+0 t
 0 anticipate
 0 %
 0 %
@@ -18130,11 +18130,11 @@
 0 ills
 0 that
 0 were
-0 not,
+0 not
 0 grew
 0 to
 0 faults
-0 assured,
+0 assured
 0 %
 -
 0 And
@@ -18156,7 +18156,7 @@
 0 by
 0 ill
 0 be
-0 cured.
+0 cured
 0 %
 -
 0 But
@@ -18167,7 +18167,7 @@
 0 find
 0 the
 0 lesson
-0 true,
+0 true
 0 %
 -
 0 Drugs
@@ -18178,7 +18178,7 @@
 0 feil
 0 sick
 0 of
-0 you.
+0 you
 0 %
 -
 0 What
@@ -18198,7 +18198,7 @@
 0 foul
 0 as
 0 hell
-0 within,
+0 within
 0 %
 0 %
 0 %
@@ -18206,11 +18206,11 @@
 0 Applying
 0 fears
 0 to
-0 hopes,
+0 hopes
 0 and
 0 hopes
 0 to
-0 fears,
+0 fears
 0 %
 0 %
 -
@@ -18222,7 +18222,7 @@
 0 my
 0 self
 0 to
-0 win!
+0 win
 0 %
 -
 0 What
@@ -18231,7 +18231,7 @@
 0 hath
 0 my
 0 heart
-0 committed,
+0 committed
 0 %
 0 %
 0 %
@@ -18244,7 +18244,7 @@
 0 self
 0 so
 0 blessed
-0 never!
+0 never
 0 %
 -
 0 How
@@ -18264,7 +18264,7 @@
 0 of
 0 this
 0 madding
-0 fever!
+0 fever
 0 %
 0 %
 0 %
@@ -18272,7 +18272,7 @@
 0 O
 0 benefit
 0 of
-0 ill,
+0 ill
 0 now
 0 I
 0 find
@@ -18282,12 +18282,12 @@
 -
 0 That
 0 better
-0 is,
+0 is
 0 by
 0 evil
 0 still
 0 made
-0 better.
+0 better
 0 %
 0 %
 -
@@ -18306,11 +18306,11 @@
 0 fairer
 0 than
 0 at
-0 first,
+0 first
 0 more
-0 strong,
+0 strong
 0 far
-0 greater.
+0 greater
 0 %
 -
 0 So
@@ -18319,7 +18319,7 @@
 0 rebuked
 0 to
 0 my
-0 content,
+0 content
 0 %
 0 %
 0 %
@@ -18333,7 +18333,7 @@
 0 than
 0 I
 0 have
-0 spent.
+0 spent
 -
 0 That
 0 you
@@ -18342,19 +18342,19 @@
 0 unkind
 0 befriends
 0 me
-0 now,
+0 now
 0 %
 0 %
 -
 0 And
 0 for
 0 that
-0 sorrow,
+0 sorrow
 0 which
 0 I
 0 then
 0 did
-0 feel,
+0 feel
 0 %
 -
 0 Needs
@@ -18363,7 +18363,7 @@
 0 under
 0 my
 0 transgression
-0 bow,
+0 bow
 0 %
 0 %
 0 %
@@ -18375,7 +18375,7 @@
 0 brass
 0 or
 0 hammered
-0 steel.
+0 steel
 0 %
 0 %
 -
@@ -18393,13 +18393,13 @@
 0 As
 0 I
 0 by
-0 yours,
-0 y'have
+0 yours
+0 yhave
 0 passed
 0 a
 0 hell
 0 of
-0 time,
+0 time
 -
 0 And
 0 I
@@ -18420,7 +18420,7 @@
 0 suffered
 0 in
 0 your
-0 crime.
+0 crime
 0 %
 -
 0 O
@@ -18436,19 +18436,19 @@
 -
 0 My
 0 deepest
-0 sense,
+0 sense
 0 how
 0 hard
 0 true
 0 sorrow
-0 hits,
+0 hits
 0 %
 0 %
 -
 0 And
 0 soon
 0 to
-0 you,
+0 you
 0 as
 0 you
 0 to
@@ -18458,11 +18458,11 @@
 -
 0 The
 0 humble
-0 salve,
+0 salve
 0 which
 0 wounded
 0 bosoms
-0 fits!
+0 fits
 0 %
 0 %
 0 %
@@ -18474,40 +18474,40 @@
 0 now
 0 becomes
 0 a
-0 fee,
+0 fee
 0 %
 0 %
 -
 0 Mine
 0 ransoms
-0 yours,
+0 yours
 0 and
 0 yours
 0 must
 0 ransom
-0 me.
+0 me
 0 %
 0 %
 -
-0 'Tis
+0 Tis
 0 better
 0 to
 0 be
 0 vile
 0 than
 0 vile
-0 esteemed,
+0 esteemed
 0 %
 0 %
 -
 0 When
 0 not
 0 to
-0 be,
+0 be
 0 receives
 0 reproach
 0 of
-0 being,
+0 being
 0 %
 0 %
 -
@@ -18515,28 +18515,28 @@
 0 the
 0 just
 0 pleasure
-0 lost,
+0 lost
 0 which
 0 is
 0 so
-0 deemed,
+0 deemed
 0 %
 -
 0 Not
 0 by
 0 our
-0 feeling,
+0 feeling
 0 but
 0 by
-0 others'
-0 seeing.
+0 others
+0 seeing
 0 %
 0 %
 -
 0 For
 0 why
 0 should
-0 others'
+0 others
 0 false
 0 adulterate
 0 eyes
@@ -18549,7 +18549,7 @@
 0 to
 0 my
 0 sportive
-0 blood?
+0 blood
 0 %
 0 %
 0 %
@@ -18562,7 +18562,7 @@
 0 why
 0 are
 0 frailer
-0 spies,
+0 spies
 0 %
 0 %
 -
@@ -18575,14 +18575,14 @@
 0 what
 0 I
 0 think
-0 good?
+0 good
 -
-0 No,
+0 No
 0 I
 0 am
 0 that
 0 I
-0 am,
+0 am
 0 and
 0 they
 0 that
@@ -18590,11 +18590,11 @@
 -
 0 At
 0 my
-0 abuses,
+0 abuses
 0 reckon
 0 up
 0 their
-0 own,
+0 own
 0 %
 0 %
 0 %
@@ -18607,13 +18607,13 @@
 0 they
 0 themselves
 0 be
-0 bevel;
+0 bevel
 0 %
 -
 0 By
 0 their
 0 rank
-0 thoughts,
+0 thoughts
 0 my
 0 deeds
 0 must
@@ -18626,7 +18626,7 @@
 0 general
 0 evil
 0 they
-0 maintain,
+0 maintain
 0 %
 0 %
 0 %
@@ -18640,13 +18640,13 @@
 0 in
 0 their
 0 badness
-0 reign.
+0 reign
 0 %
 -
 0 Thy
-0 gift,
+0 gift
 0 thy
-0 tables,
+0 tables
 0 are
 0 within
 0 my
@@ -18658,7 +18658,7 @@
 0 charactered
 0 with
 0 lasting
-0 memory,
+0 memory
 0 %
 0 %
 0 %
@@ -18681,7 +18681,7 @@
 0 date
 0 even
 0 to
-0 eternity.
+0 eternity
 0 %
 0 %
 0 %
@@ -18690,7 +18690,7 @@
 0 Or
 0 at
 0 the
-0 least,
+0 least
 0 so
 0 long
 0 as
@@ -18703,7 +18703,7 @@
 0 by
 0 nature
 0 to
-0 subsist,
+0 subsist
 0 %
 0 %
 0 %
@@ -18721,13 +18721,13 @@
 0 %
 -
 0 Of
-0 thee,
+0 thee
 0 thy
 0 record
 0 never
 0 can
 0 be
-0 missed:
+0 missed
 0 %
 0 %
 -
@@ -18738,7 +18738,7 @@
 0 not
 0 so
 0 much
-0 hold,
+0 hold
 0 %
 0 %
 -
@@ -18750,7 +18750,7 @@
 0 dear
 0 love
 0 to
-0 score,
+0 score
 0 %
 -
 0 Therefore
@@ -18761,7 +18761,7 @@
 0 me
 0 was
 0 I
-0 bold,
+0 bold
 0 %
 -
 0 To
@@ -18771,7 +18771,7 @@
 0 that
 0 receive
 0 thee
-0 more:
+0 more
 0 %
 0 %
 -
@@ -18791,14 +18791,14 @@
 0 import
 0 forgetfulness
 0 in
-0 me.
+0 me
 0 %
 0 %
 0 %
 0 %
 -
-0 No!
-0 Time,
+0 No
+0 Time
 0 thou
 0 shalt
 0 not
@@ -18806,7 +18806,7 @@
 0 that
 0 I
 0 do
-0 change,
+0 change
 -
 0 Thy
 0 pyramids
@@ -18823,9 +18823,9 @@
 0 me
 0 are
 0 nothing
-0 novel,
+0 novel
 0 nothing
-0 strange,
+0 strange
 0 %
 0 %
 0 %
@@ -18837,18 +18837,18 @@
 0 Of
 0 a
 0 former
-0 sight:
+0 sight
 0 %
 0 %
 -
 0 Our
 0 dates
 0 are
-0 brief,
+0 brief
 0 and
 0 therefore
 0 we
-0 admire,
+0 admire
 0 %
 0 %
 -
@@ -18860,7 +18860,7 @@
 0 us
 0 that
 0 is
-0 old,
+0 old
 0 %
 -
 0 And
@@ -18870,7 +18870,7 @@
 0 born
 0 to
 0 our
-0 desire,
+0 desire
 0 %
 0 %
 -
@@ -18882,7 +18882,7 @@
 0 have
 0 heard
 0 them
-0 told:
+0 told
 0 %
 -
 0 Thy
@@ -18891,31 +18891,31 @@
 0 thee
 0 I
 0 both
-0 defy,
+0 defy
 0 %
 0 %
 0 %
 -
 0 Not
-0 wond'ring
+0 wondring
 0 at
 0 the
-0 present,
+0 present
 0 nor
 0 the
-0 past,
+0 past
 0 %
 0 %
 -
 0 For
 0 thy
-0 records,
+0 records
 0 and
 0 what
 0 we
 0 see
 0 doth
-0 lie,
+0 lie
 0 %
 -
 0 Made
@@ -18925,7 +18925,7 @@
 0 by
 0 thy
 0 continual
-0 haste:
+0 haste
 0 %
 0 %
 -
@@ -18937,7 +18937,7 @@
 0 this
 0 shall
 0 ever
-0 be,
+0 be
 0 %
 -
 0 I
@@ -18948,7 +18948,7 @@
 0 thy
 0 scythe
 0 and
-0 thee.
+0 thee
 0 %
 -
 0 If
@@ -18960,15 +18960,15 @@
 0 the
 0 child
 0 of
-0 state,
+0 state
 -
 0 It
 0 might
 0 for
-0 Fortune's
+0 Fortunes
 0 bastard
 0 be
-0 unfathered,
+0 unfathered
 0 %
 0 %
 0 %
@@ -18976,22 +18976,22 @@
 0 As
 0 subject
 0 to
-0 time's
+0 times
 0 love
 0 or
 0 to
-0 time's
-0 hate,
+0 times
+0 hate
 0 %
 -
 0 Weeds
 0 among
-0 weeds,
+0 weeds
 0 or
 0 flowers
 0 with
 0 flowers
-0 gathered.
+0 gathered
 0 %
 0 %
 -
@@ -19001,7 +19001,7 @@
 0 builded
 0 far
 0 from
-0 accident,
+0 accident
 0 %
 0 %
 0 %
@@ -19011,7 +19011,7 @@
 0 not
 0 in
 0 smiling
-0 pomp,
+0 pomp
 0 nor
 0 falls
 0 %
@@ -19022,19 +19022,19 @@
 0 blow
 0 of
 0 thralled
-0 discontent,
+0 discontent
 0 %
 0 %
 0 %
 0 %
 -
 0 Whereto
-0 th'
+0 th
 0 inviting
 0 time
 0 our
 0 fashion
-0 calls:
+0 calls
 0 %
 0 %
 0 %
@@ -19044,7 +19044,7 @@
 0 not
 0 policy
 0 that
-0 heretic,
+0 heretic
 0 %
 0 %
 0 %
@@ -19055,8 +19055,8 @@
 0 on
 0 leases
 0 of
-0 short-numbered
-0 hours,
+0 shortnumbered
+0 hours
 0 %
 0 %
 0 %
@@ -19066,7 +19066,7 @@
 0 alone
 0 stands
 0 hugely
-0 politic,
+0 politic
 0 %
 0 %
 0 %
@@ -19077,11 +19077,11 @@
 0 nor
 0 grows
 0 with
-0 heat,
+0 heat
 0 nor
 0 drowns
 0 with
-0 showers.
+0 showers
 -
 0 To
 0 this
@@ -19091,28 +19091,28 @@
 0 the
 0 fools
 0 of
-0 time,
+0 time
 0 %
 -
 0 Which
 0 die
 0 for
-0 goodness,
+0 goodness
 0 who
 0 have
 0 lived
 0 for
-0 crime.
+0 crime
 0 %
 -
-0 Were't
+0 Weret
 0 aught
 0 to
 0 me
 0 I
 0 bore
 0 the
-0 canopy,
+0 canopy
 0 %
 0 %
 -
@@ -19121,7 +19121,7 @@
 0 extern
 0 the
 0 outward
-0 honouring,
+0 honouring
 0 %
 0 %
 0 %
@@ -19132,7 +19132,7 @@
 0 great
 0 bases
 0 for
-0 eternity,
+0 eternity
 0 %
 0 %
 0 %
@@ -19145,7 +19145,7 @@
 0 than
 0 waste
 0 or
-0 ruining?
+0 ruining
 0 %
 0 %
 -
@@ -19161,7 +19161,7 @@
 0 %
 -
 0 Lose
-0 all,
+0 all
 0 and
 0 more
 0 by
@@ -19173,10 +19173,10 @@
 -
 0 For
 0 compound
-0 sweet;
+0 sweet
 0 forgoing
 0 simple
-0 savour,
+0 savour
 0 %
 0 %
 0 %
@@ -19187,20 +19187,20 @@
 0 in
 0 their
 0 gazing
-0 spent?
+0 spent
 0 %
 0 %
 0 %
 0 %
 -
-0 No,
+0 No
 0 let
 0 me
 0 be
 0 obsequious
 0 in
 0 thy
-0 heart,
+0 heart
 0 %
 0 %
 -
@@ -19208,10 +19208,10 @@
 0 take
 0 thou
 0 my
-0 oblation,
+0 oblation
 0 poor
 0 but
-0 free,
+0 free
 0 %
 0 %
 -
@@ -19220,27 +19220,27 @@
 0 not
 0 mixed
 0 with
-0 seconds,
+0 seconds
 0 knows
 0 no
-0 art,
+0 art
 0 %
 -
 0 But
 0 mutual
-0 render,
+0 render
 0 only
 0 me
 0 for
-0 thee.
+0 thee
 0 %
 0 %
 0 %
 -
-0 Hence,
+0 Hence
 0 thou
 0 suborned
-0 informer,
+0 informer
 0 a
 0 true
 0 soul
@@ -19250,12 +19250,12 @@
 -
 0 When
 0 most
-0 impeached,
+0 impeached
 0 stands
 0 least
 0 in
 0 thy
-0 control.
+0 control
 0 %
 0 %
 -
@@ -19267,17 +19267,17 @@
 0 who
 0 in
 0 thy
-0 power,
+0 power
 0 %
 -
 0 Dost
 0 hold
-0 Time's
+0 Times
 0 fickle
 0 glass
 0 his
 0 fickle
-0 hour:
+0 hour
 0 %
 0 %
 -
@@ -19285,30 +19285,30 @@
 0 hast
 0 by
 0 waning
-0 grown,
+0 grown
 0 and
 0 therein
-0 show'st,
+0 showst
 0 %
 0 %
 -
 0 Thy
 0 lovers
-0 withering,
+0 withering
 0 as
 0 thy
 0 sweet
 0 self
-0 grow'st.
+0 growst
 0 %
 0 %
 -
 0 If
 0 Nature
-0 (sovereign
+0 sovereign
 0 mistress
 0 over
-0 wrack)
+0 wrack
 0 %
 0 %
 0 %
@@ -19322,7 +19322,7 @@
 0 will
 0 pluck
 0 thee
-0 back,
+0 back
 0 %
 -
 0 She
@@ -19330,7 +19330,7 @@
 0 thee
 0 to
 0 this
-0 purpose,
+0 purpose
 0 that
 0 her
 0 skill
@@ -19338,11 +19338,11 @@
 -
 0 May
 0 time
-0 disgrace,
+0 disgrace
 0 and
 0 wretched
 0 minutes
-0 kill.
+0 kill
 0 %
 0 %
 0 %
@@ -19355,27 +19355,27 @@
 0 minion
 0 of
 0 her
-0 pleasure,
+0 pleasure
 0 %
 -
 0 She
 0 may
-0 detain,
+0 detain
 0 but
 0 not
 0 still
 0 keep
 0 her
-0 treasure!
+0 treasure
 0 %
 -
 0 Her
 0 audit
-0 (though
-0 delayed)
+0 though
+0 delayed
 0 answered
 0 must
-0 be,
+0 be
 0 %
 0 %
 0 %
@@ -19386,7 +19386,7 @@
 0 is
 0 to
 0 render
-0 thee.
+0 thee
 0 %
 0 %
 0 %
@@ -19399,7 +19399,7 @@
 0 was
 0 not
 0 counted
-0 fair,
+0 fair
 0 %
 -
 0 Or
@@ -19409,17 +19409,17 @@
 0 it
 0 bore
 0 not
-0 beauty's
-0 name:
+0 beautys
+0 name
 0 %
 -
 0 But
 0 now
 0 is
 0 black
-0 beauty's
+0 beautys
 0 successive
-0 heir,
+0 heir
 0 %
 0 %
 0 %
@@ -19430,7 +19430,7 @@
 0 with
 0 a
 0 bastard
-0 shame,
+0 shame
 0 %
 0 %
 0 %
@@ -19442,18 +19442,18 @@
 0 hath
 0 put
 0 on
-0 nature's
-0 power,
+0 natures
+0 power
 0 %
 -
 0 Fairing
 0 the
 0 foul
 0 with
-0 art's
+0 arts
 0 false
 0 borrowed
-0 face,
+0 face
 0 %
 0 %
 -
@@ -19464,28 +19464,28 @@
 0 name
 0 no
 0 holy
-0 bower,
+0 bower
 0 %
 0 %
 -
 0 But
 0 is
-0 profaned,
+0 profaned
 0 if
 0 not
 0 lives
 0 in
-0 disgrace.
+0 disgrace
 0 %
 0 %
 -
 0 Therefore
 0 my
-0 mistress'
+0 mistress
 0 eyes
 0 are
 0 raven
-0 black,
+0 black
 0 %
 0 %
 0 %
@@ -19493,11 +19493,11 @@
 0 Her
 0 eyes
 0 so
-0 suited,
+0 suited
 0 and
 0 they
 0 mourners
-0 seem,
+0 seem
 0 %
 0 %
 -
@@ -19509,7 +19509,7 @@
 0 fair
 0 no
 0 beauty
-0 lack,
+0 lack
 0 %
 -
 0 Slandering
@@ -19517,7 +19517,7 @@
 0 with
 0 a
 0 false
-0 esteem,
+0 esteem
 0 %
 0 %
 0 %
@@ -19530,7 +19530,7 @@
 0 becoming
 0 of
 0 their
-0 woe,
+0 woe
 0 %
 0 %
 -
@@ -19541,18 +19541,18 @@
 0 beauty
 0 should
 0 look
-0 so.
+0 so
 0 %
 0 %
 -
 0 How
 0 oft
 0 when
-0 thou,
+0 thou
 0 my
-0 music,
 0 music
-0 play'st,
+0 music
+0 playst
 0 %
 0 %
 -
@@ -19574,7 +19574,7 @@
 0 when
 0 thou
 0 gently
-0 sway'st
+0 swayst
 0 %
 0 %
 -
@@ -19584,7 +19584,7 @@
 0 that
 0 mine
 0 ear
-0 confounds,
+0 confounds
 0 %
 0 %
 0 %
@@ -19596,7 +19596,7 @@
 0 jacks
 0 that
 0 nimble
-0 leap,
+0 leap
 0 %
 0 %
 -
@@ -19607,7 +19607,7 @@
 0 inward
 0 of
 0 thy
-0 hand,
+0 hand
 0 %
 0 %
 -
@@ -19619,17 +19619,17 @@
 0 should
 0 that
 0 harvest
-0 reap,
+0 reap
 0 %
 -
 0 At
 0 the
-0 wood's
+0 woods
 0 boldness
 0 by
 0 thee
 0 blushing
-0 stand.
+0 stand
 0 %
 0 %
 -
@@ -19649,20 +19649,20 @@
 0 with
 0 those
 0 dancing
-0 chips,
+0 chips
 0 %
 0 %
 0 %
 0 %
 -
-0 O'er
+0 Oer
 0 whom
 0 thy
 0 fingers
 0 walk
 0 with
 0 gentle
-0 gait,
+0 gait
 0 %
 0 %
 -
@@ -19673,7 +19673,7 @@
 0 blest
 0 than
 0 living
-0 lips,
+0 lips
 0 %
 0 %
 -
@@ -19684,22 +19684,22 @@
 0 happy
 0 are
 0 in
-0 this,
+0 this
 0 %
 0 %
 -
 0 Give
 0 them
 0 thy
-0 fingers,
+0 fingers
 0 me
 0 thy
 0 lips
 0 to
-0 kiss.
+0 kiss
 0 %
 -
-0 Th'
+0 Th
 0 expense
 0 of
 0 spirit
@@ -19713,32 +19713,32 @@
 0 Is
 0 lust
 0 in
-0 action,
+0 action
 0 and
 0 till
-0 action,
+0 action
 0 lust
 0 %
 0 %
 -
 0 Is
-0 perjured,
-0 murd'rous,
+0 perjured
+0 murdrous
 0 bloody
 0 full
 0 of
-0 blame,
+0 blame
 0 %
 0 %
 0 %
 -
-0 Savage,
-0 extreme,
-0 rude,
-0 cruel,
+0 Savage
+0 extreme
+0 rude
+0 cruel
 0 not
 0 to
-0 trust,
+0 trust
 0 %
 0 %
 0 %
@@ -19748,7 +19748,7 @@
 0 sooner
 0 but
 0 despised
-0 straight,
+0 straight
 0 %
 0 %
 0 %
@@ -19756,7 +19756,7 @@
 -
 0 Past
 0 reason
-0 hunted,
+0 hunted
 0 and
 0 no
 0 sooner
@@ -19771,7 +19771,7 @@
 0 as
 0 a
 0 swallowed
-0 bait,
+0 bait
 0 %
 0 %
 0 %
@@ -19783,7 +19783,7 @@
 0 make
 0 the
 0 taker
-0 mad.
+0 mad
 0 %
 0 %
 -
@@ -19793,19 +19793,19 @@
 0 and
 0 in
 0 possession
-0 so,
+0 so
 0 %
 0 %
 0 %
 -
-0 Had,
-0 having,
+0 Had
+0 having
 0 and
 0 in
-0 quest,
+0 quest
 0 to
 0 have
-0 extreme,
+0 extreme
 0 %
 0 %
 -
@@ -19814,10 +19814,10 @@
 0 in
 0 proof
 0 and
-0 proved,
+0 proved
 0 a
 0 very
-0 woe,
+0 woe
 0 %
 -
 0 Before
@@ -19826,7 +19826,7 @@
 0 proposed
 0 behind
 0 a
-0 dream.
+0 dream
 0 %
 0 %
 0 %
@@ -19840,7 +19840,7 @@
 0 yet
 0 none
 0 knows
-0 well,
+0 well
 -
 0 To
 0 shun
@@ -19851,16 +19851,16 @@
 0 men
 0 to
 0 this
-0 hell.
+0 hell
 -
 0 My
-0 mistress'
+0 mistress
 0 eyes
 0 are
 0 nothing
 0 like
 0 the
-0 sun,
+0 sun
 0 %
 0 %
 -
@@ -19868,43 +19868,43 @@
 0 is
 0 far
 0 more
-0 red,
+0 red
 0 than
 0 her
 0 lips
-0 red,
+0 red
 0 %
 -
 0 If
 0 snow
 0 be
-0 white,
+0 white
 0 why
 0 then
 0 her
 0 breasts
 0 are
-0 dun:
+0 dun
 -
 0 If
 0 hairs
 0 be
-0 wires,
+0 wires
 0 black
 0 wires
 0 grow
 0 on
 0 her
-0 head:
+0 head
 -
 0 I
 0 have
 0 seen
 0 roses
-0 damasked,
+0 damasked
 0 red
 0 and
-0 white,
+0 white
 0 %
 0 %
 -
@@ -19916,7 +19916,7 @@
 0 I
 0 in
 0 her
-0 cheeks,
+0 cheeks
 0 %
 -
 0 And
@@ -19926,7 +19926,7 @@
 0 is
 0 there
 0 more
-0 delight,
+0 delight
 0 %
 0 %
 -
@@ -19938,7 +19938,7 @@
 0 from
 0 my
 0 mistress
-0 reeks.
+0 reeks
 0 %
 -
 0 I
@@ -19946,11 +19946,11 @@
 0 to
 0 hear
 0 her
-0 speak,
+0 speak
 0 yet
 0 well
 0 I
-0 know,
+0 know
 -
 0 That
 0 music
@@ -19959,7 +19959,7 @@
 0 far
 0 more
 0 pleasing
-0 sound:
+0 sound
 0 %
 0 %
 -
@@ -19970,7 +19970,7 @@
 0 saw
 0 a
 0 goddess
-0 go,
+0 go
 0 %
 0 %
 -
@@ -19982,7 +19982,7 @@
 0 treads
 0 on
 0 the
-0 ground.
+0 ground
 0 %
 -
 0 And
@@ -19994,7 +19994,7 @@
 0 my
 0 love
 0 as
-0 rare,
+0 rare
 -
 0 As
 0 any
@@ -20002,7 +20002,7 @@
 0 belied
 0 with
 0 false
-0 compare.
+0 compare
 0 %
 0 %
 0 %
@@ -20010,11 +20010,11 @@
 0 Thou
 0 art
 0 as
-0 tyrannous,
+0 tyrannous
 0 so
 0 as
 0 thou
-0 art,
+0 art
 0 %
 0 %
 -
@@ -20025,14 +20025,14 @@
 0 proudly
 0 make
 0 them
-0 cruel;
+0 cruel
 0 %
 0 %
 -
 0 For
 0 well
 0 thou
-0 know'st
+0 knowst
 0 to
 0 my
 0 dear
@@ -20047,7 +20047,7 @@
 0 and
 0 most
 0 precious
-0 jewel.
+0 jewel
 0 %
 0 %
 -
@@ -20059,7 +20059,7 @@
 0 say
 0 that
 0 thee
-0 behold,
+0 behold
 0 %
 -
 0 Thy
@@ -20071,18 +20071,18 @@
 0 to
 0 make
 0 love
-0 groan;
+0 groan
 -
 0 To
 0 say
 0 they
-0 err,
+0 err
 0 I
 0 dare
 0 not
 0 be
 0 so
-0 bold,
+0 bold
 -
 0 Although
 0 I
@@ -20091,7 +20091,7 @@
 0 to
 0 my
 0 self
-0 alone.
+0 alone
 0 %
 0 %
 -
@@ -20104,7 +20104,7 @@
 0 not
 0 false
 0 I
-0 swear,
+0 swear
 -
 0 A
 0 thousand
@@ -20113,13 +20113,13 @@
 0 thinking
 0 on
 0 thy
-0 face,
+0 face
 0 %
 0 %
 -
 0 One
 0 on
-0 another's
+0 anothers
 0 neck
 0 do
 0 witness
@@ -20134,8 +20134,8 @@
 0 fairest
 0 in
 0 my
-0 judgment's
-0 place.
+0 judgments
+0 place
 0 %
 0 %
 -
@@ -20147,7 +20147,7 @@
 0 save
 0 in
 0 thy
-0 deeds,
+0 deeds
 0 %
 -
 0 And
@@ -20157,19 +20157,19 @@
 0 as
 0 I
 0 think
-0 proceeds.
+0 proceeds
 0 %
 0 %
 -
 0 Thine
 0 eyes
 0 I
-0 love,
+0 love
 0 and
 0 they
 0 as
 0 pitying
-0 me,
+0 me
 0 %
 -
 0 Knowing
@@ -20178,7 +20178,7 @@
 0 torment
 0 me
 0 with
-0 disdain,
+0 disdain
 0 %
 0 %
 0 %
@@ -20186,11 +20186,11 @@
 0 Have
 0 put
 0 on
-0 black,
+0 black
 0 and
 0 loving
 0 mourners
-0 be,
+0 be
 0 %
 0 %
 -
@@ -20200,7 +20200,7 @@
 0 ruth
 0 upon
 0 my
-0 pain.
+0 pain
 0 %
 0 %
 0 %
@@ -20223,7 +20223,7 @@
 0 cheeks
 0 of
 0 the
-0 east,
+0 east
 0 %
 0 %
 -
@@ -20256,7 +20256,7 @@
 0 eyes
 0 become
 0 thy
-0 face:
+0 face
 0 %
 0 %
 -
@@ -20279,7 +20279,7 @@
 0 mourning
 0 doth
 0 thee
-0 grace,
+0 grace
 0 %
 -
 0 And
@@ -20289,7 +20289,7 @@
 0 like
 0 in
 0 every
-0 part.
+0 part
 0 %
 0 %
 -
@@ -20300,7 +20300,7 @@
 0 beauty
 0 herself
 0 is
-0 black,
+0 black
 0 %
 0 %
 -
@@ -20311,7 +20311,7 @@
 0 that
 0 thy
 0 complexion
-0 lack.
+0 lack
 0 %
 0 %
 -
@@ -20335,15 +20335,15 @@
 0 my
 0 friend
 0 and
-0 me;
+0 me
 -
-0 Is't
+0 Ist
 0 not
 0 enough
 0 to
 0 torture
 0 me
-0 alone,
+0 alone
 0 %
 0 %
 0 %
@@ -20353,10 +20353,10 @@
 0 to
 0 slavery
 0 my
-0 sweet'st
+0 sweetst
 0 friend
 0 must
-0 be?
+0 be
 0 %
 -
 0 Me
@@ -20367,7 +20367,7 @@
 0 cruel
 0 eye
 0 hath
-0 taken,
+0 taken
 0 %
 -
 0 And
@@ -20377,29 +20377,29 @@
 0 thou
 0 harder
 0 hast
-0 engrossed,
+0 engrossed
 0 %
 0 %
 -
 0 Of
-0 him,
+0 him
 0 my
-0 self,
+0 self
 0 and
 0 thee
 0 I
 0 am
-0 forsaken,
+0 forsaken
 0 %
 -
 0 A
 0 torment
 0 thrice
-0 three-fold
+0 threefold
 0 thus
 0 to
 0 be
-0 crossed:
+0 crossed
 0 %
 0 %
 -
@@ -20409,31 +20409,31 @@
 0 in
 0 thy
 0 steel
-0 bosom's
-0 ward,
+0 bosoms
+0 ward
 0 %
 0 %
 -
 0 But
 0 then
 0 my
-0 friend's
+0 friends
 0 heart
 0 let
 0 my
 0 poor
 0 heart
-0 bail,
+0 bail
 -
-0 Whoe'er
+0 Whoeer
 0 keeps
-0 me,
+0 me
 0 let
 0 my
 0 heart
 0 be
 0 his
-0 guard,
+0 guard
 0 %
 -
 0 Thou
@@ -20444,19 +20444,19 @@
 0 rigour
 0 in
 0 my
-0 gaol.
+0 gaol
 0 %
 -
 0 And
 0 yet
 0 thou
-0 wilt,
+0 wilt
 0 for
 0 I
 0 being
 0 pent
 0 in
-0 thee,
+0 thee
 -
 0 Perforce
 0 am
@@ -20466,7 +20466,7 @@
 0 that
 0 is
 0 in
-0 me.
+0 me
 0 %
 -
 0 So
@@ -20477,7 +20477,7 @@
 0 that
 0 he
 0 is
-0 thine,
+0 thine
 0 %
 -
 0 And
@@ -20488,17 +20488,17 @@
 0 mortgaged
 0 to
 0 thy
-0 will,
+0 will
 0 %
 -
 0 My
 0 self
-0 I'll
-0 forfeit,
+0 Ill
+0 forfeit
 0 so
 0 that
 0 other
-0 mine,
+0 mine
 0 %
 0 %
 -
@@ -20509,40 +20509,40 @@
 0 be
 0 my
 0 comfort
-0 still:
+0 still
 0 %
 0 %
 -
 0 But
 0 thou
 0 wilt
-0 not,
+0 not
 0 nor
 0 he
 0 will
 0 not
 0 be
-0 free,
+0 free
 -
 0 For
 0 thou
 0 art
-0 covetous,
+0 covetous
 0 and
 0 he
 0 is
-0 kind,
+0 kind
 0 %
 0 %
 -
 0 He
 0 learned
 0 but
-0 surety-like
+0 suretylike
 0 to
 0 write
 0 for
-0 me,
+0 me
 0 %
 0 %
 -
@@ -20554,7 +20554,7 @@
 0 as
 0 fist
 0 doth
-0 bind.
+0 bind
 0 %
 -
 0 The
@@ -20564,30 +20564,30 @@
 0 beauty
 0 thou
 0 wilt
-0 take,
+0 take
 0 %
 0 %
 -
 0 Thou
 0 usurer
 0 that
-0 put'st
+0 putst
 0 forth
 0 all
 0 to
-0 use,
+0 use
 0 %
 0 %
 -
 0 And
 0 sue
 0 a
-0 friend,
+0 friend
 0 came
 0 debtor
 0 for
 0 my
-0 sake,
+0 sake
 0 %
 -
 0 So
@@ -20597,51 +20597,51 @@
 0 through
 0 my
 0 unkind
-0 abuse.
+0 abuse
 0 %
 0 %
 -
 0 Him
 0 have
 0 I
-0 lost,
+0 lost
 0 thou
 0 hast
 0 both
 0 him
 0 and
-0 me,
+0 me
 -
 0 He
 0 pays
 0 the
-0 whole,
+0 whole
 0 and
 0 yet
 0 am
 0 I
 0 not
-0 free.
+0 free
 -
 0 Whoever
 0 hath
 0 her
-0 wish,
+0 wish
 0 thou
 0 hast
 0 thy
-0 will,
+0 will
 0 %
 0 %
 -
 0 And
-0 'Will'
+0 Will
 0 to
-0 boot,
+0 boot
 0 and
-0 'Will'
+0 Will
 0 in
-0 over-plus,
+0 overplus
 0 %
 0 %
 -
@@ -20653,7 +20653,7 @@
 0 that
 0 vex
 0 thee
-0 still,
+0 still
 0 %
 -
 0 To
@@ -20662,7 +20662,7 @@
 0 will
 0 making
 0 addition
-0 thus.
+0 thus
 0 %
 0 %
 0 %
@@ -20674,7 +20674,7 @@
 0 is
 0 large
 0 and
-0 spacious,
+0 spacious
 0 %
 0 %
 -
@@ -20686,7 +20686,7 @@
 0 my
 0 will
 0 in
-0 thine?
+0 thine
 0 %
 -
 0 Shall
@@ -20695,7 +20695,7 @@
 0 others
 0 seem
 0 right
-0 gracious,
+0 gracious
 0 %
 0 %
 0 %
@@ -20707,18 +20707,18 @@
 0 no
 0 fair
 0 acceptance
-0 shine?
+0 shine
 0 %
 0 %
 -
 0 The
 0 sea
 0 all
-0 water,
+0 water
 0 yet
 0 receives
 0 rain
-0 still,
+0 still
 0 %
 0 %
 -
@@ -20728,7 +20728,7 @@
 0 addeth
 0 to
 0 his
-0 store,
+0 store
 0 %
 0 %
 0 %
@@ -20753,15 +20753,15 @@
 0 thy
 0 large
 0 will
-0 more.
+0 more
 -
 0 Let
 0 no
-0 unkind,
+0 unkind
 0 no
 0 fair
 0 beseechers
-0 kill,
+0 kill
 0 %
 0 %
 0 %
@@ -20769,13 +20769,13 @@
 0 Think
 0 all
 0 but
-0 one,
+0 one
 0 and
 0 me
 0 in
 0 that
 0 one
-0 'Will.'
+0 Will
 -
 0 If
 0 thy
@@ -20786,7 +20786,7 @@
 0 I
 0 come
 0 so
-0 near,
+0 near
 -
 0 Swear
 0 to
@@ -20797,7 +20797,7 @@
 0 I
 0 was
 0 thy
-0 'Will',
+0 Will
 -
 0 And
 0 will
@@ -20806,42 +20806,42 @@
 0 knows
 0 is
 0 admitted
-0 there,
+0 there
 0 %
 0 %
 -
 0 Thus
 0 far
 0 for
-0 love,
+0 love
 0 my
-0 love-suit
+0 lovesuit
 0 sweet
-0 fulfil.
+0 fulfil
 0 %
 0 %
 -
-0 'Will',
+0 Will
 0 will
 0 fulfil
 0 the
 0 treasure
 0 of
 0 thy
-0 love,
+0 love
 0 %
 0 %
 -
-0 Ay,
+0 Ay
 0 fill
 0 it
 0 full
 0 with
-0 wills,
+0 wills
 0 and
 0 my
 0 will
-0 one,
+0 one
 -
 0 In
 0 things
@@ -20851,7 +20851,7 @@
 0 with
 0 case
 0 we
-0 prove,
+0 prove
 0 %
 -
 0 Among
@@ -20860,7 +20860,7 @@
 0 one
 0 is
 0 reckoned
-0 none.
+0 none
 0 %
 0 %
 0 %
@@ -20872,40 +20872,40 @@
 0 let
 0 me
 0 pass
-0 untold,
+0 untold
 0 %
 0 %
 -
 0 Though
 0 in
 0 thy
-0 store's
+0 stores
 0 account
 0 I
 0 one
 0 must
-0 be,
+0 be
 0 %
 -
 0 For
 0 nothing
 0 hold
-0 me,
+0 me
 0 so
 0 it
 0 please
 0 thee
-0 hold,
+0 hold
 0 %
 -
 0 That
 0 nothing
-0 me,
+0 me
 0 a
 0 something
 0 sweet
 0 to
-0 thee.
+0 thee
 0 %
 0 %
 -
@@ -20914,33 +20914,33 @@
 0 my
 0 name
 0 thy
-0 love,
+0 love
 0 and
 0 love
 0 that
-0 still,
+0 still
 -
 0 And
 0 then
 0 thou
-0 lov'st
+0 lovst
 0 me
 0 for
 0 my
 0 name
 0 is
-0 Will.
+0 Will
 -
 0 Thou
 0 blind
 0 fool
-0 Love,
+0 Love
 0 what
 0 dost
 0 thou
 0 to
 0 mine
-0 eyes,
+0 eyes
 -
 0 That
 0 they
@@ -20950,37 +20950,37 @@
 0 not
 0 what
 0 they
-0 see?
+0 see
 0 %
 -
 0 They
 0 know
 0 what
 0 beauty
-0 is,
+0 is
 0 see
 0 where
 0 it
-0 lies,
+0 lies
 0 %
 -
 0 Yet
 0 what
 0 the
 0 best
-0 is,
+0 is
 0 take
 0 the
 0 worst
 0 to
-0 be.
+0 be
 -
 0 If
 0 eyes
 0 corrupt
 0 by
-0 over-partial
-0 looks,
+0 overpartial
+0 looks
 0 %
 0 %
 0 %
@@ -20994,17 +20994,17 @@
 0 where
 0 all
 0 men
-0 ride,
+0 ride
 0 %
 -
 0 Why
 0 of
-0 eyes'
+0 eyes
 0 falsehood
 0 hast
 0 thou
 0 forged
-0 hooks,
+0 hooks
 0 %
 0 %
 -
@@ -21015,7 +21015,7 @@
 0 my
 0 heart
 0 is
-0 tied?
+0 tied
 0 %
 0 %
 -
@@ -21027,7 +21027,7 @@
 0 that
 0 a
 0 several
-0 plot,
+0 plot
 0 %
 -
 0 Which
@@ -21036,16 +21036,16 @@
 0 knows
 0 the
 0 wide
-0 world's
+0 worlds
 0 common
-0 place?
+0 place
 0 %
 -
 0 Or
 0 mine
 0 eyes
 0 seeing
-0 this,
+0 this
 0 say
 0 this
 0 is
@@ -21060,7 +21060,7 @@
 0 so
 0 foul
 0 a
-0 face?
+0 face
 0 %
 -
 0 In
@@ -21072,7 +21072,7 @@
 0 and
 0 eyes
 0 have
-0 erred,
+0 erred
 -
 0 And
 0 to
@@ -21082,7 +21082,7 @@
 0 are
 0 they
 0 now
-0 transferred.
+0 transferred
 0 %
 -
 0 When
@@ -21094,7 +21094,7 @@
 0 is
 0 made
 0 of
-0 truth,
+0 truth
 -
 0 I
 0 do
@@ -21104,7 +21104,7 @@
 0 I
 0 know
 0 she
-0 lies,
+0 lies
 0 %
 -
 0 That
@@ -21114,16 +21114,16 @@
 0 me
 0 some
 0 untutored
-0 youth,
+0 youth
 0 %
 0 %
 -
 0 Unlearned
 0 in
 0 the
-0 world's
+0 worlds
 0 false
-0 subtleties.
+0 subtleties
 0 %
 0 %
 0 %
@@ -21136,7 +21136,7 @@
 0 she
 0 thinks
 0 me
-0 young,
+0 young
 0 %
 0 %
 -
@@ -21148,15 +21148,15 @@
 0 are
 0 past
 0 the
-0 best,
+0 best
 0 %
 -
 0 Simply
 0 I
 0 credit
 0 her
-0 false-speaking
-0 tongue,
+0 falsespeaking
+0 tongue
 0 %
 0 %
 0 %
@@ -21169,7 +21169,7 @@
 0 is
 0 simple
 0 truth
-0 suppressed:
+0 suppressed
 0 %
 0 %
 -
@@ -21180,7 +21180,7 @@
 0 not
 0 she
 0 is
-0 unjust?
+0 unjust
 0 %
 0 %
 -
@@ -21192,40 +21192,40 @@
 0 that
 0 I
 0 am
-0 old?
+0 old
 0 %
 -
 0 O
-0 love's
+0 loves
 0 best
 0 habit
 0 is
 0 in
 0 seeming
-0 trust,
+0 trust
 0 %
 0 %
 -
 0 And
 0 age
 0 in
-0 love,
+0 love
 0 loves
 0 not
 0 to
 0 have
 0 years
-0 told.
+0 told
 -
 0 Therefore
 0 I
 0 lie
 0 with
-0 her,
+0 her
 0 and
 0 she
 0 with
-0 me,
+0 me
 0 %
 -
 0 And
@@ -21236,7 +21236,7 @@
 0 lies
 0 we
 0 flattered
-0 be.
+0 be
 0 %
 -
 0 O
@@ -21246,7 +21246,7 @@
 0 to
 0 justify
 0 the
-0 wrong,
+0 wrong
 0 %
 0 %
 -
@@ -21256,7 +21256,7 @@
 0 lays
 0 upon
 0 my
-0 heart,
+0 heart
 0 %
 0 %
 0 %
@@ -21270,28 +21270,28 @@
 0 but
 0 with
 0 thy
-0 tongue,
+0 tongue
 -
 0 Use
 0 power
 0 with
-0 power,
+0 power
 0 and
 0 slay
 0 me
 0 not
 0 by
-0 art,
+0 art
 -
 0 Tell
 0 me
 0 thou
-0 lov'st
-0 elsewhere;
+0 lovst
+0 elsewhere
 0 but
 0 in
 0 my
-0 sight,
+0 sight
 0 %
 -
 0 Dear
@@ -21301,12 +21301,12 @@
 0 glance
 0 thine
 0 eye
-0 aside,
+0 aside
 0 %
 0 %
 -
 0 What
-0 need'st
+0 needst
 0 thou
 0 wound
 0 with
@@ -21320,22 +21320,22 @@
 0 more
 0 than
 0 my
-0 o'erpressed
+0 oerpressed
 0 defence
 0 can
-0 bide?
+0 bide
 0 %
 0 %
 -
 0 Let
 0 me
 0 excuse
-0 thee,
+0 thee
 0 ah
 0 my
 0 love
 0 well
-0 knows,
+0 knows
 0 %
 -
 0 Her
@@ -21344,7 +21344,7 @@
 0 have
 0 been
 0 mine
-0 enemies,
+0 enemies
 0 %
 0 %
 0 %
@@ -21357,7 +21357,7 @@
 0 she
 0 turns
 0 my
-0 foes,
+0 foes
 0 %
 -
 0 That
@@ -21366,7 +21366,7 @@
 0 might
 0 dart
 0 their
-0 injuries:
+0 injuries
 0 %
 0 %
 0 %
@@ -21374,23 +21374,23 @@
 0 Yet
 0 do
 0 not
-0 so,
+0 so
 0 but
 0 since
 0 I
 0 am
 0 near
-0 slain,
+0 slain
 -
 0 Kill
 0 me
 0 outright
 0 with
-0 looks,
+0 looks
 0 and
 0 rid
 0 my
-0 pain.
+0 pain
 0 %
 -
 0 Be
@@ -21398,19 +21398,19 @@
 0 as
 0 thou
 0 art
-0 cruel,
+0 cruel
 0 do
 0 not
 0 press
 0 %
 -
 0 My
-0 tongue-tied
+0 tonguetied
 0 patience
 0 with
 0 too
 0 much
-0 disdain:
+0 disdain
 0 %
 0 %
 0 %
@@ -21422,7 +21422,7 @@
 0 words
 0 and
 0 words
-0 express,
+0 express
 0 %
 0 %
 -
@@ -21430,8 +21430,8 @@
 0 manner
 0 of
 0 my
-0 pity-wanting
-0 pain.
+0 pitywanting
+0 pain
 0 %
 0 %
 0 %
@@ -21445,19 +21445,19 @@
 0 wit
 0 better
 0 it
-0 were,
+0 were
 0 %
 -
 0 Though
 0 not
 0 to
-0 love,
+0 love
 0 yet
 0 love
 0 to
 0 tell
 0 me
-0 so,
+0 so
 -
 0 As
 0 testy
@@ -21467,7 +21467,7 @@
 0 their
 0 deaths
 0 be
-0 near,
+0 near
 0 %
 -
 0 No
@@ -21477,7 +21477,7 @@
 0 from
 0 their
 0 physicians
-0 know.
+0 know
 0 %
 0 %
 -
@@ -21489,7 +21489,7 @@
 0 I
 0 should
 0 grow
-0 mad,
+0 mad
 0 %
 -
 0 And
@@ -21500,17 +21500,17 @@
 0 speak
 0 ill
 0 of
-0 thee,
+0 thee
 0 %
 -
 0 Now
 0 this
-0 ill-wresting
+0 illwresting
 0 world
 0 is
 0 grown
 0 so
-0 bad,
+0 bad
 0 %
 0 %
 -
@@ -21520,7 +21520,7 @@
 0 mad
 0 ears
 0 believed
-0 be.
+0 be
 0 %
 0 %
 0 %
@@ -21530,22 +21530,22 @@
 0 may
 0 not
 0 be
-0 so,
+0 so
 0 nor
 0 thou
-0 belied,
+0 belied
 0 %
 -
 0 Bear
 0 thine
 0 eyes
-0 straight,
+0 straight
 0 though
 0 thy
 0 proud
 0 heart
 0 go
-0 wide.
+0 wide
 -
 0 In
 0 faith
@@ -21556,7 +21556,7 @@
 0 thee
 0 with
 0 mine
-0 eyes,
+0 eyes
 -
 0 For
 0 they
@@ -21565,19 +21565,19 @@
 0 a
 0 thousand
 0 errors
-0 note,
+0 note
 0 %
 0 %
 -
 0 But
-0 'tis
+0 tis
 0 my
 0 heart
 0 that
 0 loves
 0 what
 0 they
-0 despise,
+0 despise
 0 %
 -
 0 Who
@@ -21588,7 +21588,7 @@
 0 is
 0 pleased
 0 to
-0 dote.
+0 dote
 0 %
 -
 0 Nor
@@ -21597,9 +21597,9 @@
 0 cars
 0 with
 0 thy
-0 tongue's
+0 tongues
 0 tune
-0 delighted,
+0 delighted
 0 %
 -
 0 Nor
@@ -21608,15 +21608,15 @@
 0 to
 0 base
 0 touches
-0 prone,
+0 prone
 0 %
 0 %
 0 %
 -
 0 Nor
-0 taste,
+0 taste
 0 nor
-0 smell,
+0 smell
 0 desire
 0 to
 0 be
@@ -21630,7 +21630,7 @@
 0 feast
 0 with
 0 thee
-0 alone:
+0 alone
 0 %
 0 %
 0 %
@@ -21638,7 +21638,7 @@
 0 But
 0 my
 0 five
-0 wits,
+0 wits
 0 nor
 0 my
 0 five
@@ -21652,7 +21652,7 @@
 0 heart
 0 from
 0 serving
-0 thee,
+0 thee
 0 %
 0 %
 0 %
@@ -21664,19 +21664,19 @@
 0 likeness
 0 of
 0 a
-0 man,
+0 man
 0 %
 0 %
 -
 0 Thy
 0 proud
-0 heart's
+0 hearts
 0 slave
 0 and
 0 vassal
 0 wretch
 0 to
-0 be:
+0 be
 0 %
 -
 0 Only
@@ -21687,7 +21687,7 @@
 0 I
 0 count
 0 my
-0 gain,
+0 gain
 0 %
 -
 0 That
@@ -21695,43 +21695,43 @@
 0 that
 0 makes
 0 me
-0 sin,
+0 sin
 0 awards
 0 me
-0 pain.
+0 pain
 0 %
 -
 0 Love
 0 is
 0 my
-0 sin,
+0 sin
 0 and
 0 thy
 0 dear
 0 virtue
-0 hate,
+0 hate
 0 %
 -
 0 Hate
 0 of
 0 my
-0 sin,
+0 sin
 0 grounded
 0 on
 0 sinful
-0 loving,
+0 loving
 0 %
 0 %
 -
 0 O
 0 but
 0 with
-0 mine,
+0 mine
 0 compare
 0 thou
 0 thine
 0 own
-0 state,
+0 state
 0 %
 -
 0 And
@@ -21741,27 +21741,27 @@
 0 it
 0 merits
 0 not
-0 reproving,
+0 reproving
 0 %
 0 %
 -
 0 Or
 0 if
 0 it
-0 do,
+0 do
 0 not
 0 from
 0 those
 0 lips
 0 of
-0 thine,
+0 thine
 -
 0 That
 0 have
 0 profaned
 0 their
 0 scarlet
-0 ornaments,
+0 ornaments
 0 %
 0 %
 0 %
@@ -21776,15 +21776,15 @@
 0 as
 0 oft
 0 as
-0 mine,
+0 mine
 -
 0 Robbed
-0 others'
-0 beds'
+0 others
+0 beds
 0 revenues
 0 of
 0 their
-0 rents.
+0 rents
 0 %
 0 %
 0 %
@@ -21797,8 +21797,8 @@
 0 thee
 0 as
 0 thou
-0 lov'st
-0 those,
+0 lovst
+0 those
 -
 0 Whom
 0 thine
@@ -21807,7 +21807,7 @@
 0 as
 0 mine
 0 importune
-0 thee,
+0 thee
 0 %
 0 %
 -
@@ -21819,7 +21819,7 @@
 0 that
 0 when
 0 it
-0 grows,
+0 grows
 0 %
 -
 0 Thy
@@ -21828,7 +21828,7 @@
 0 deserve
 0 to
 0 pitied
-0 be.
+0 be
 0 %
 0 %
 0 %
@@ -21842,14 +21842,14 @@
 0 what
 0 thou
 0 dost
-0 hide,
+0 hide
 -
 0 By
-0 self-example
+0 selfexample
 0 mayst
 0 thou
 0 be
-0 denied.
+0 denied
 0 %
 0 %
 0 %
@@ -21862,7 +21862,7 @@
 0 huswife
 0 runs
 0 to
-0 catch,
+0 catch
 0 %
 0 %
 -
@@ -21872,7 +21872,7 @@
 0 feathered
 0 creatures
 0 broke
-0 away,
+0 away
 0 %
 0 %
 0 %
@@ -21896,7 +21896,7 @@
 0 she
 0 would
 0 have
-0 stay:
+0 stay
 0 %
 -
 0 Whilst
@@ -21906,7 +21906,7 @@
 0 holds
 0 her
 0 in
-0 chase,
+0 chase
 0 %
 0 %
 -
@@ -21918,7 +21918,7 @@
 0 busy
 0 care
 0 is
-0 bent,
+0 bent
 0 %
 -
 0 To
@@ -21928,7 +21928,7 @@
 0 flies
 0 before
 0 her
-0 face:
+0 face
 0 %
 0 %
 -
@@ -21936,22 +21936,22 @@
 0 prizing
 0 her
 0 poor
-0 infant's
-0 discontent;
+0 infants
+0 discontent
 0 %
 0 %
 0 %
 0 %
 -
 0 So
-0 run'st
+0 runst
 0 thou
 0 after
 0 that
 0 which
 0 flies
 0 from
-0 thee,
+0 thee
 0 %
 -
 0 Whilst
@@ -21961,7 +21961,7 @@
 0 chase
 0 thee
 0 afar
-0 behind,
+0 behind
 0 %
 0 %
 -
@@ -21974,17 +21974,17 @@
 0 turn
 0 back
 0 to
-0 me:
+0 me
 -
 0 And
 0 play
 0 the
-0 mother's
-0 part,
+0 mothers
+0 part
 0 kiss
-0 me,
+0 me
 0 be
-0 kind.
+0 kind
 0 %
 -
 0 So
@@ -21996,7 +21996,7 @@
 0 mayst
 0 have
 0 thy
-0 Will,
+0 Will
 -
 0 If
 0 thou
@@ -22006,7 +22006,7 @@
 0 my
 0 loud
 0 crying
-0 still.
+0 still
 0 %
 -
 0 Two
@@ -22016,7 +22016,7 @@
 0 of
 0 comfort
 0 and
-0 despair,
+0 despair
 0 %
 0 %
 -
@@ -22027,7 +22027,7 @@
 0 do
 0 suggest
 0 me
-0 still,
+0 still
 0 %
 0 %
 -
@@ -22038,7 +22038,7 @@
 0 a
 0 man
 0 right
-0 fair:
+0 fair
 0 %
 0 %
 -
@@ -22048,7 +22048,7 @@
 0 a
 0 woman
 0 coloured
-0 ill.
+0 ill
 0 %
 0 %
 0 %
@@ -22061,7 +22061,7 @@
 0 hell
 0 my
 0 female
-0 evil,
+0 evil
 0 %
 -
 0 Tempteth
@@ -22070,7 +22070,7 @@
 0 angel
 0 from
 0 my
-0 side,
+0 side
 0 %
 0 %
 0 %
@@ -22083,7 +22083,7 @@
 0 to
 0 be
 0 a
-0 devil:
+0 devil
 0 %
 -
 0 Wooing
@@ -22092,7 +22092,7 @@
 0 with
 0 her
 0 foul
-0 pride.
+0 pride
 0 %
 0 %
 0 %
@@ -22104,17 +22104,17 @@
 0 angel
 0 be
 0 turned
-0 fiend,
+0 fiend
 0 %
 0 %
 -
 0 Suspect
 0 I
-0 may,
+0 may
 0 yet
 0 not
 0 directly
-0 tell,
+0 tell
 0 %
 0 %
 0 %
@@ -22127,7 +22127,7 @@
 0 both
 0 to
 0 each
-0 friend,
+0 friend
 0 %
 -
 0 I
@@ -22135,8 +22135,8 @@
 0 one
 0 angel
 0 in
-0 another's
-0 hell.
+0 anothers
+0 hell
 0 %
 0 %
 0 %
@@ -22145,12 +22145,12 @@
 0 this
 0 shall
 0 I
-0 ne'er
+0 neer
 0 know
 0 but
 0 live
 0 in
-0 doubt,
+0 doubt
 -
 0 Till
 0 my
@@ -22160,17 +22160,17 @@
 0 my
 0 good
 0 one
-0 out.
+0 out
 0 %
 -
 0 Those
 0 lips
 0 that
-0 Love's
+0 Loves
 0 own
 0 hand
 0 did
-0 make,
+0 make
 0 %
 0 %
 -
@@ -22180,8 +22180,8 @@
 0 sound
 0 that
 0 said
-0 'I
-0 hate',
+0 I
+0 hate
 0 %
 0 %
 -
@@ -22191,7 +22191,7 @@
 0 languished
 0 for
 0 her
-0 sake:
+0 sake
 0 %
 0 %
 0 %
@@ -22202,7 +22202,7 @@
 0 saw
 0 my
 0 woeful
-0 state,
+0 state
 0 %
 0 %
 0 %
@@ -22213,7 +22213,7 @@
 0 heart
 0 did
 0 mercy
-0 come,
+0 come
 0 %
 0 %
 0 %
@@ -22223,7 +22223,7 @@
 0 tongue
 0 that
 0 ever
-0 sweet,
+0 sweet
 0 %
 0 %
 0 %
@@ -22234,7 +22234,7 @@
 0 in
 0 giving
 0 gentle
-0 doom:
+0 doom
 0 %
 0 %
 0 %
@@ -22246,18 +22246,18 @@
 0 thus
 0 anew
 0 to
-0 greet:
+0 greet
 0 %
 0 %
 0 %
 -
-0 'I
-0 hate'
+0 I
+0 hate
 0 she
 0 altered
 0 with
 0 an
-0 end,
+0 end
 0 %
 0 %
 0 %
@@ -22267,7 +22267,7 @@
 0 it
 0 as
 0 gentle
-0 day,
+0 day
 0 %
 0 %
 0 %
@@ -22290,18 +22290,18 @@
 0 hell
 0 is
 0 flown
-0 away.
+0 away
 0 %
 0 %
 0 %
 -
-0 'I
-0 hate',
+0 I
+0 hate
 0 from
 0 hate
 0 away
 0 she
-0 threw,
+0 threw
 0 %
 0 %
 0 %
@@ -22311,8 +22311,8 @@
 0 my
 0 life
 0 saying
-0 'not
-0 you'.
+0 not
+0 you
 0 %
 0 %
 0 %
@@ -22324,7 +22324,7 @@
 0 of
 0 my
 0 sinful
-0 earth,
+0 earth
 0 %
 0 %
 -
@@ -22334,7 +22334,7 @@
 0 these
 0 rebel
 0 powers
-0 array,
+0 array
 0 %
 0 %
 0 %
@@ -22356,7 +22356,7 @@
 0 walls
 0 so
 0 costly
-0 gay?
+0 gay
 0 %
 0 %
 0 %
@@ -22369,7 +22369,7 @@
 0 so
 0 short
 0 a
-0 lease,
+0 lease
 0 %
 -
 0 Dost
@@ -22378,7 +22378,7 @@
 0 thy
 0 fading
 0 mansion
-0 spend?
+0 spend
 0 %
 0 %
 0 %
@@ -22397,12 +22397,12 @@
 0 Eat
 0 up
 0 thy
-0 charge?
+0 charge
 0 is
 0 this
 0 thy
-0 body's
-0 end?
+0 bodys
+0 end
 0 %
 -
 0 Then
@@ -22411,8 +22411,8 @@
 0 thou
 0 upon
 0 thy
-0 servant's
-0 loss,
+0 servants
+0 loss
 0 %
 0 %
 -
@@ -22423,7 +22423,7 @@
 0 to
 0 aggravate
 0 thy
-0 store;
+0 store
 0 %
 0 %
 -
@@ -22434,18 +22434,18 @@
 0 selling
 0 hours
 0 of
-0 dross;
+0 dross
 0 %
 0 %
 -
 0 Within
 0 be
-0 fed,
+0 fed
 0 without
 0 be
 0 rich
 0 no
-0 more,
+0 more
 0 %
 0 %
 -
@@ -22454,21 +22454,21 @@
 0 thou
 0 feed
 0 on
-0 death,
+0 death
 0 that
 0 feeds
 0 on
-0 men,
+0 men
 -
 0 And
 0 death
 0 once
-0 dead,
-0 there's
+0 dead
+0 theres
 0 no
 0 more
 0 dying
-0 then.
+0 then
 0 %
 -
 0 My
@@ -22478,7 +22478,7 @@
 0 a
 0 fever
 0 longing
-0 still,
+0 still
 0 %
 0 %
 -
@@ -22488,7 +22488,7 @@
 0 longer
 0 nurseth
 0 the
-0 disease,
+0 disease
 0 %
 0 %
 0 %
@@ -22500,16 +22500,16 @@
 0 doth
 0 preserve
 0 the
-0 ill,
+0 ill
 0 %
 0 %
 -
-0 Th'
+0 Th
 0 uncertain
 0 sickly
 0 appetite
 0 to
-0 please:
+0 please
 0 %
 0 %
 0 %
@@ -22521,7 +22521,7 @@
 0 physician
 0 to
 0 my
-0 love,
+0 love
 0 %
 0 %
 0 %
@@ -22539,22 +22539,22 @@
 -
 0 Hath
 0 left
-0 me,
+0 me
 0 and
 0 I
 0 desperate
 0 now
-0 approve,
+0 approve
 0 %
 0 %
 -
 0 Desire
 0 is
-0 death,
+0 death
 0 which
 0 physic
 0 did
-0 except.
+0 except
 0 %
 0 %
 0 %
@@ -22562,19 +22562,19 @@
 0 Past
 0 cure
 0 I
-0 am,
+0 am
 0 now
 0 reason
 0 is
 0 past
-0 care,
+0 care
 0 %
 -
 0 And
-0 frantic-mad
+0 franticmad
 0 with
 0 evermore
-0 unrest,
+0 unrest
 0 %
 0 %
 0 %
@@ -22588,8 +22588,8 @@
 0 discourse
 0 as
 0 mad
-0 men's
-0 are,
+0 mens
+0 are
 0 %
 -
 0 At
@@ -22598,7 +22598,7 @@
 0 the
 0 truth
 0 vainly
-0 expressed.
+0 expressed
 0 %
 0 %
 0 %
@@ -22608,25 +22608,25 @@
 0 have
 0 sworn
 0 thee
-0 fair,
+0 fair
 0 and
 0 thought
 0 thee
-0 bright,
+0 bright
 -
 0 Who
 0 art
 0 as
 0 black
 0 as
-0 hell,
+0 hell
 0 as
 0 dark
 0 as
-0 night.
+0 night
 -
 0 O
-0 me!
+0 me
 0 what
 0 eyes
 0 hath
@@ -22634,7 +22634,7 @@
 0 put
 0 in
 0 my
-0 head,
+0 head
 -
 0 Which
 0 have
@@ -22642,7 +22642,7 @@
 0 correspondence
 0 with
 0 true
-0 sight,
+0 sight
 0 %
 0 %
 0 %
@@ -22650,12 +22650,12 @@
 0 Or
 0 if
 0 they
-0 have,
+0 have
 0 where
 0 is
 0 my
 0 judgment
-0 fled,
+0 fled
 0 %
 -
 0 That
@@ -22664,7 +22664,7 @@
 0 what
 0 they
 0 see
-0 aright?
+0 aright
 0 %
 0 %
 0 %
@@ -22677,7 +22677,7 @@
 0 my
 0 false
 0 eyes
-0 dote,
+0 dote
 0 %
 -
 0 What
@@ -22689,20 +22689,20 @@
 0 it
 0 is
 0 not
-0 so?
+0 so
 -
 0 If
 0 it
 0 be
-0 not,
+0 not
 0 then
 0 love
 0 doth
 0 well
-0 denote,
+0 denote
 0 %
 -
-0 Love's
+0 Loves
 0 eye
 0 is
 0 not
@@ -22710,19 +22710,19 @@
 0 true
 0 as
 0 all
-0 men's:
-0 no,
+0 mens
+0 no
 -
 0 How
 0 can
-0 it?
+0 it
 0 O
 0 how
 0 can
-0 love's
+0 loves
 0 eye
 0 be
-0 true,
+0 true
 -
 0 That
 0 is
@@ -22732,7 +22732,7 @@
 0 watching
 0 and
 0 with
-0 tears?
+0 tears
 0 %
 -
 0 No
@@ -22742,7 +22742,7 @@
 0 I
 0 mistake
 0 my
-0 view,
+0 view
 0 %
 0 %
 -
@@ -22751,43 +22751,43 @@
 0 it
 0 self
 0 sees
-0 not,
+0 not
 0 till
 0 heaven
-0 clears.
+0 clears
 0 %
 -
 0 O
 0 cunning
-0 love,
+0 love
 0 with
 0 tears
 0 thou
-0 keep'st
+0 keepst
 0 me
-0 blind,
+0 blind
 0 %
 -
 0 Lest
 0 eyes
-0 well-seeing
+0 wellseeing
 0 thy
 0 foul
 0 faults
 0 should
-0 find.
+0 find
 0 %
 0 %
 -
 0 Canst
 0 thou
 0 O
-0 cruel,
+0 cruel
 0 say
 0 I
 0 love
 0 thee
-0 not,
+0 not
 0 %
 -
 0 When
@@ -22797,7 +22797,7 @@
 0 self
 0 with
 0 thee
-0 partake?
+0 partake
 0 %
 0 %
 -
@@ -22815,11 +22815,11 @@
 0 Am
 0 of
 0 my
-0 self,
-0 all-tyrant,
+0 self
+0 alltyrant
 0 for
 0 thy
-0 sake?
+0 sake
 0 %
 0 %
 -
@@ -22831,24 +22831,24 @@
 0 do
 0 call
 0 my
-0 friend,
+0 friend
 0 %
 -
 0 On
 0 whom
-0 frown'st
+0 frownst
 0 thou
 0 that
 0 I
 0 do
 0 fawn
-0 upon,
+0 upon
 0 %
 -
 0 Nay
 0 if
 0 thou
-0 lour'st
+0 lourst
 0 on
 0 me
 0 do
@@ -22862,7 +22862,7 @@
 0 self
 0 with
 0 present
-0 moan?
+0 moan
 0 %
 0 %
 0 %
@@ -22874,7 +22874,7 @@
 0 in
 0 my
 0 self
-0 respect,
+0 respect
 0 %
 0 %
 -
@@ -22885,7 +22885,7 @@
 0 thy
 0 service
 0 to
-0 despise,
+0 despise
 0 %
 0 %
 -
@@ -22896,7 +22896,7 @@
 0 doth
 0 worship
 0 thy
-0 defect,
+0 defect
 0 %
 0 %
 -
@@ -22906,7 +22906,7 @@
 0 motion
 0 of
 0 thine
-0 eyes?
+0 eyes
 0 %
 0 %
 0 %
@@ -22920,18 +22920,18 @@
 0 I
 0 know
 0 thy
-0 mind,
+0 mind
 -
 0 Those
 0 that
 0 can
 0 see
 0 thou
-0 lov'st,
+0 lovst
 0 and
 0 I
 0 am
-0 blind.
+0 blind
 -
 0 O
 0 from
@@ -22941,7 +22941,7 @@
 0 thou
 0 this
 0 powerful
-0 might,
+0 might
 0 %
 -
 0 With
@@ -22949,7 +22949,7 @@
 0 my
 0 heart
 0 to
-0 sway,
+0 sway
 0 %
 0 %
 0 %
@@ -22964,7 +22964,7 @@
 0 to
 0 my
 0 true
-0 sight,
+0 sight
 -
 0 And
 0 swear
@@ -22974,7 +22974,7 @@
 0 not
 0 grace
 0 the
-0 day?
+0 day
 0 %
 -
 0 Whence
@@ -22984,7 +22984,7 @@
 0 becoming
 0 of
 0 things
-0 ill,
+0 ill
 0 %
 0 %
 -
@@ -22995,7 +22995,7 @@
 0 refuse
 0 of
 0 thy
-0 deeds,
+0 deeds
 0 %
 0 %
 -
@@ -23006,7 +23006,7 @@
 0 and
 0 warrantise
 0 of
-0 skill,
+0 skill
 0 %
 0 %
 -
@@ -23018,7 +23018,7 @@
 0 worst
 0 all
 0 best
-0 exceeds?
+0 exceeds
 0 %
 -
 0 Who
@@ -23030,7 +23030,7 @@
 0 me
 0 love
 0 thee
-0 more,
+0 more
 -
 0 The
 0 more
@@ -23041,7 +23041,7 @@
 0 just
 0 cause
 0 of
-0 hate?
+0 hate
 -
 0 O
 0 though
@@ -23050,7 +23050,7 @@
 0 what
 0 others
 0 do
-0 abhor,
+0 abhor
 0 %
 0 %
 -
@@ -23061,7 +23061,7 @@
 0 not
 0 abhor
 0 my
-0 state.
+0 state
 0 %
 0 %
 -
@@ -23071,7 +23071,7 @@
 0 raised
 0 love
 0 in
-0 me,
+0 me
 0 %
 0 %
 0 %
@@ -23083,7 +23083,7 @@
 0 be
 0 beloved
 0 of
-0 thee.
+0 thee
 0 %
 0 %
 -
@@ -23095,7 +23095,7 @@
 0 know
 0 what
 0 conscience
-0 is,
+0 is
 0 %
 -
 0 Yet
@@ -23106,7 +23106,7 @@
 0 is
 0 born
 0 of
-0 love?
+0 love
 0 %
 -
 0 Then
@@ -23115,7 +23115,7 @@
 0 urge
 0 not
 0 my
-0 amiss,
+0 amiss
 0 %
 0 %
 0 %
@@ -23128,13 +23128,13 @@
 0 thy
 0 sweet
 0 self
-0 prove.
+0 prove
 0 %
 -
 0 For
 0 thou
 0 betraying
-0 me,
+0 me
 0 I
 0 do
 0 betray
@@ -23148,8 +23148,8 @@
 0 to
 0 my
 0 gross
-0 body's
-0 treason,
+0 bodys
+0 treason
 0 %
 0 %
 -
@@ -23161,17 +23161,17 @@
 0 body
 0 that
 0 he
-0 may,
+0 may
 0 %
 -
 0 Triumph
 0 in
-0 love,
+0 love
 0 flesh
 0 stays
 0 no
 0 farther
-0 reason,
+0 reason
 0 %
 0 %
 -
@@ -23183,17 +23183,17 @@
 0 doth
 0 point
 0 out
-0 thee,
+0 thee
 0 %
 -
 0 As
 0 his
 0 triumphant
-0 prize,
+0 prize
 0 proud
 0 of
 0 this
-0 pride,
+0 pride
 0 %
 0 %
 -
@@ -23204,7 +23204,7 @@
 0 poor
 0 drudge
 0 to
-0 be,
+0 be
 0 %
 0 %
 -
@@ -23212,11 +23212,11 @@
 0 stand
 0 in
 0 thy
-0 affairs,
+0 affairs
 0 fall
 0 by
 0 thy
-0 side.
+0 side
 0 %
 -
 0 No
@@ -23227,11 +23227,11 @@
 0 it
 0 that
 0 I
-0 call,
+0 call
 0 %
 -
 0 Her
-0 love,
+0 love
 0 for
 0 whose
 0 dear
@@ -23239,16 +23239,16 @@
 0 I
 0 rise
 0 and
-0 fall.
+0 fall
 -
 0 In
 0 loving
 0 thee
 0 thou
-0 know'st
+0 knowst
 0 I
 0 am
-0 forsworn,
+0 forsworn
 0 %
 0 %
 -
@@ -23260,18 +23260,18 @@
 0 to
 0 me
 0 love
-0 swearing,
+0 swearing
 0 %
 -
 0 In
 0 act
 0 thy
-0 bed-vow
+0 bedvow
 0 broke
 0 and
 0 new
 0 faith
-0 torn,
+0 torn
 0 %
 -
 0 In
@@ -23281,7 +23281,7 @@
 0 after
 0 new
 0 love
-0 bearing:
+0 bearing
 0 %
 0 %
 -
@@ -23289,21 +23289,21 @@
 0 why
 0 of
 0 two
-0 oaths'
+0 oaths
 0 breach
 0 do
 0 I
 0 accuse
-0 thee,
+0 thee
 -
 0 When
 0 I
 0 break
-0 twenty?
+0 twenty
 0 I
 0 am
 0 perjured
-0 most,
+0 most
 0 %
 0 %
 -
@@ -23316,7 +23316,7 @@
 0 but
 0 to
 0 misuse
-0 thee:
+0 thee
 -
 0 And
 0 all
@@ -23326,7 +23326,7 @@
 0 in
 0 thee
 0 is
-0 lost.
+0 lost
 0 %
 -
 0 For
@@ -23338,16 +23338,16 @@
 0 of
 0 thy
 0 deep
-0 kindness:
+0 kindness
 -
 0 Oaths
 0 of
 0 thy
-0 love,
+0 love
 0 thy
-0 truth,
+0 truth
 0 thy
-0 constancy,
+0 constancy
 0 %
 0 %
 -
@@ -23358,7 +23358,7 @@
 0 gave
 0 eyes
 0 to
-0 blindness,
+0 blindness
 0 %
 0 %
 -
@@ -23370,7 +23370,7 @@
 0 the
 0 thing
 0 they
-0 see.
+0 see
 0 %
 -
 0 For
@@ -23378,10 +23378,10 @@
 0 have
 0 sworn
 0 thee
-0 fair:
+0 fair
 0 more
 0 perjured
-0 I,
+0 I
 0 %
 -
 0 To
@@ -23392,7 +23392,7 @@
 0 so
 0 foul
 0 a
-0 be.
+0 be
 0 %
 -
 0 Cupid
@@ -23402,24 +23402,24 @@
 0 brand
 0 and
 0 fell
-0 asleep,
+0 asleep
 0 %
 0 %
 -
 0 A
 0 maid
 0 of
-0 Dian's
+0 Dians
 0 this
 0 advantage
-0 found,
+0 found
 0 %
 0 %
 0 %
 -
 0 And
 0 his
-0 love-kindling
+0 lovekindling
 0 fire
 0 did
 0 quickly
@@ -23431,10 +23431,10 @@
 0 In
 0 a
 0 cold
-0 valley-fountain
+0 valleyfountain
 0 of
 0 that
-0 ground:
+0 ground
 0 %
 0 %
 0 %
@@ -23446,7 +23446,7 @@
 0 holy
 0 fire
 0 of
-0 Love,
+0 Love
 0 %
 0 %
 -
@@ -23456,7 +23456,7 @@
 0 heat
 0 still
 0 to
-0 endure,
+0 endure
 0 %
 0 %
 0 %
@@ -23469,7 +23469,7 @@
 0 which
 0 yet
 0 men
-0 prove,
+0 prove
 0 %
 -
 0 Against
@@ -23477,7 +23477,7 @@
 0 maladies
 0 a
 0 sovereign
-0 cure:
+0 cure
 0 %
 0 %
 0 %
@@ -23486,11 +23486,11 @@
 0 But
 0 at
 0 my
-0 mistress'
+0 mistress
 0 eye
-0 Love's
+0 Loves
 0 brand
-0 new-fired,
+0 newfired
 0 %
 0 %
 -
@@ -23502,7 +23502,7 @@
 0 would
 0 touch
 0 my
-0 breast,
+0 breast
 0 %
 -
 0 I
@@ -23512,7 +23512,7 @@
 0 help
 0 of
 0 bath
-0 desired,
+0 desired
 0 %
 0 %
 -
@@ -23522,7 +23522,7 @@
 0 a
 0 sad
 0 distempered
-0 guest.
+0 guest
 0 %
 0 %
 0 %
@@ -23530,31 +23530,31 @@
 0 But
 0 found
 0 no
-0 cure,
+0 cure
 0 the
 0 bath
 0 for
 0 my
 0 help
-0 lies,
+0 lies
 -
 0 Where
 0 Cupid
 0 got
 0 new
-0 fire;
+0 fire
 0 my
-0 mistress'
-0 eyes.
+0 mistress
+0 eyes
 0 %
 0 %
 -
 0 The
 0 little
-0 Love-god
+0 Lovegod
 0 lying
 0 once
-0 asleep,
+0 asleep
 0 %
 0 %
 0 %
@@ -23565,8 +23565,8 @@
 0 his
 0 side
 0 his
-0 heart-inflaming
-0 brand,
+0 heartinflaming
+0 brand
 0 %
 0 %
 0 %
@@ -23579,17 +23579,17 @@
 0 chaste
 0 life
 0 to
-0 keep,
+0 keep
 0 %
 -
 0 Came
 0 tripping
-0 by,
+0 by
 0 but
 0 in
 0 her
 0 maiden
-0 hand,
+0 hand
 0 %
 0 %
 -
@@ -23599,7 +23599,7 @@
 0 took
 0 up
 0 that
-0 fire,
+0 fire
 0 %
 0 %
 0 %
@@ -23611,7 +23611,7 @@
 0 true
 0 hearts
 0 had
-0 warmed,
+0 warmed
 0 %
 0 %
 -
@@ -23621,7 +23621,7 @@
 0 general
 0 of
 0 hot
-0 desire,
+0 desire
 0 %
 0 %
 0 %
@@ -23632,7 +23632,7 @@
 0 a
 0 virgin
 0 hand
-0 disarmed.
+0 disarmed
 0 %
 0 %
 0 %
@@ -23645,16 +23645,16 @@
 0 a
 0 cool
 0 well
-0 by,
+0 by
 0 %
 -
 0 Which
 0 from
-0 Love's
+0 Loves
 0 fire
 0 took
 0 heat
-0 perpetual,
+0 perpetual
 0 %
 0 %
 0 %
@@ -23664,7 +23664,7 @@
 0 bath
 0 and
 0 healthful
-0 remedy,
+0 remedy
 0 %
 0 %
 0 %
@@ -23672,12 +23672,12 @@
 -
 0 For
 0 men
-0 discased,
+0 discased
 0 but
 0 I
 0 my
-0 mistress'
-0 thrall,
+0 mistress
+0 thrall
 0 %
 0 %
 -
@@ -23690,16 +23690,16 @@
 0 by
 0 that
 0 I
-0 prove,
+0 prove
 -
-0 Love's
+0 Loves
 0 fire
 0 heats
-0 water,
+0 water
 0 water
 0 cools
 0 not
-0 love.
+0 love
 0 %
 0 %
 -

@@ -74,6 +74,7 @@ def write_to(filename, lines):
                 file.write(str(0) + ' ' + "%s\n" % lines[i][j])
             else:
                 file.write("%s\n" % lines[i][j])
+    file.close()
 
 
 # def syllable_things():
@@ -109,9 +110,8 @@ def main():
     shakespeare_AH = '/Users/AbrahamHussain/Desktop/21Sonnets/project2data/shakespeare.txt' 
 
     lines = separate_sonnets(shakespeare_AH)
-
-    #write_to("test1.txt", lines)
-
-    #separate_sonnets(lines)
+    write_to("shake_words.txt", lines)
+    print(nsyl(lines[0][0]))
+    
 
 main()
