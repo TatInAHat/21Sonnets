@@ -111,7 +111,7 @@ def main():
 
     lines = separate_sonnets(shakespeare_AH)
     write_to("shake_words.txt", lines)
-    print(nsyl(lines[0][0]))
+    #print(nsyl(lines[0][0]))
     
 
 main()
