@@ -193,7 +193,7 @@ class HiddenMarkovModel:
         # the code under the comment is part of the M-step.
 
         for iteration in range(iters):
-            print("Iteration: " + str(iteration))
+            #print("Iteration: " + str(iteration))
 
             # Numerator and denominator for the update terms of A and O.
             A_num = [[0. for i in range(self.L)] for j in range(self.L)]

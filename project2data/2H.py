@@ -123,7 +123,6 @@ def matching_line(last_word, n_states, n_iters):
         temp5 = HMM.generate_emission(1)
         lst_temp5 = temp5.split()
         potential_word = inv_map[(int(lst_temp5[0]))]
-        print potential_word
         if poetrytools.rhymes(potential_word, last_word):
             word_emission[len(word_emission) - 1] = potential_word
             break 
@@ -131,38 +130,56 @@ def matching_line(last_word, n_states, n_iters):
     return word_emission
 
 
-def sonnet_generator(n_states, n_iters):
+def quad_generator(n_states, n_iters):
     A = unsupervised_learning(n_states, n_iters)
     B = unsupervised_learning(n_states, n_iters)
 
     last_a = A[len(A) - 1]
     last_b = B[len(B) - 1]
     
-    print 'LAST WORDS'
-    print last_a
-    print last_b
-
     A_2 = matching_line(last_a, n_states, n_iters)
     B_2 = matching_line(last_b, n_states, n_iters)
 
-    print 'PHRASES'
+    A = ' '.join(A)
+    B = ' '.join(B)
+    A_2 = ' '.join(A_2)
+    B_2 = ' '.join(B_2)
+
+
+
     print A
     print B 
     print A_2 
     print B_2  
 
-sonnet_generator(1, 1)
+def couplet_generator(n_states, n_iters):
+    A = unsupervised_learning(n_states, n_iters)
+    last_a = A[len(A) - 1]
+    A_2 = matching_line(last_a, n_states, n_iters)
+
+    A = ' '.join(A)
+    A_2 = ' '.join(A_2)
+
+    print A 
+    print A_2
+
+
+quad_generator(1, 1)
+quad_generator(1, 1)
+quad_generator(1, 1)
+couplet_generator(1, 1)
+couplet_generator(1, 1)
 
 
 
-if __name__ == '__main__':
-    print('')
-    print('')
-    print('#' * 70)
-    print("{:^70}".format("Running Code For Question 2H"))
-    print('#' * 70)
-    print('')
-    print('')
+# if __name__ == '__main__':
+#     print('')
+#     print('')
+#     print('#' * 70)
+#     print("{:^70}".format("Running Code For Question 2H"))
+#     print('#' * 70)
+#     print('')
+#     print('')
 
 # hmm1 = unsupervised_learning(4, 10)
 # print hmm1.lower()
