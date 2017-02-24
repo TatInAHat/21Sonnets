@@ -1,5 +1,6 @@
 import numpy as np
 import string
+import nltk 
 from hmmlearn import hmm
 from nltk.corpus import cmudict
 import itertools
@@ -7,7 +8,7 @@ from collections import Counter
 from itertools import chain
 from HMM import unsupervised_HMM
 from Utility import Utility
-# nltk.download('book')
+#nltk.download('book')
 
 # finds the number of syllables in a word.
 d = cmudict.dict()
