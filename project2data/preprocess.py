@@ -1,5 +1,6 @@
 import numpy as np
 import string
+import nltk 
 from hmmlearn import hmm
 from nltk.corpus import cmudict
 import itertools
@@ -7,7 +8,7 @@ from collections import Counter
 from itertools import chain
 from HMM import unsupervised_HMM
 from Utility import Utility
-# nltk.download('book')
+#nltk.download('book')
 
 # finds the number of syllables in a word.
 d = cmudict.dict()
@@ -101,9 +102,10 @@ def write_to(filename, lines):
 
 def main():
     shakespeare = '/Users/someone250/Desktop/21Sonnets/project2data/shakespeare.txt'
+    shakespeare_AH = '/Users/AbrahamHussain/Desktop/21Sonnets/project2data/shakespeare.txt' 
 
-    lines = separate_sonnets(shakespeare)
+    lines = separate_sonnets(shakespeare_AH)
 
-    write_to("shake_words.txt", lines)
+    write_to("test1.txt", lines)
 
 main()

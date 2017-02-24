@@ -16,7 +16,8 @@ def nsyl(word):
 
 
 def main():
-    strings = ['dogs', 'beauty', 'tomato', 'showst']
+    strings = ['dogs', 'beauty', 'tomato', 'showst', 'ffsfas']
+
 
     for string in strings:
         print nsyl(string)
