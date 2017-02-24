@@ -70,7 +70,7 @@ if __name__ == '__main__':
 
 sonnet = []
 for i in xrange(14):
-    hmm1 = unsupervised_learning(20, 10)
+    hmm1 = unsupervised_learning(10, 5)
     sonnet.append(hmm1.lower())
 
 for i in xrange(len(sonnet)):

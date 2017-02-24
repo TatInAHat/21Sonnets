@@ -43,6 +43,8 @@ def separate_sonnets(filename):
     for i in xrange(len(lines)):
         if lines[i] not in bad_list:
             temp1 = lines[i].split()
+            for k in xrange(len(temp1)):
+                temp1[k] = strip_punc(temp1[k])
             if len(temp1) > 10:
                 while len(temp1) > 10:
                     del temp1[-1]
@@ -52,12 +54,14 @@ def separate_sonnets(filename):
             temp1.append('-')
             good_lines.append(temp1)
 
-    # list of all words
-    words = list(itertools.chain.from_iterable(good_lines))
-    distinct_words = list(set(words))
+    # --------------- NO LONGER NEED ------------------------- 
 
-    for i in xrange(len(distinct_words)):
-        distinct_words[i] = distinct_words[i].strip('()')
+    # list of all words
+    # words = list(itertools.chain.from_iterable(good_lines))
+    # distinct_words = list(set(words))
+
+    # for i in xrange(len(distinct_words)):
+    #     distinct_words[i] = distinct_words[i].strip('()')
 
     return good_lines
 
@@ -106,6 +110,8 @@ def main():
 
     lines = separate_sonnets(shakespeare_AH)
 
-    write_to("test1.txt", lines)
+    #write_to("test1.txt", lines)
+
+    #separate_sonnets(lines)
 
 main()
