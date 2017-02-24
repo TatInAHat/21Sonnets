@@ -123,7 +123,7 @@ def matching_line(last_word, n_states, n_iters):
         temp5 = HMM.generate_emission(1)
         lst_temp5 = temp5.split()
         potential_word = inv_map[(int(lst_temp5[0]))]
-        if poetrytools.rhymes(potential_word, last_word):
+        if poetrytools.rhymes(potential_word, last_word) and (potential_word != last_word):
             word_emission[len(word_emission) - 1] = potential_word
             break 
 
@@ -164,11 +164,11 @@ def couplet_generator(n_states, n_iters):
     print A_2
 
 
-quad_generator(1, 1)
-quad_generator(1, 1)
-quad_generator(1, 1)
-couplet_generator(1, 1)
-couplet_generator(1, 1)
+quad_generator(50, 10)
+quad_generator(50, 10)
+quad_generator(50, 10)
+couplet_generator(50, 10)
+couplet_generator(50, 10)
 
 
 
